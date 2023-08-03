@@ -4,7 +4,7 @@ For code that is completely functional / non-OO and developers that work mostly 
 Notes.  
 An even better solution will be provided with ABAP release 7.4, but the patterns below can be used also in older releases (at least down to 7.0.  
 We only show the solution for FUNCTIONs here, the same approach works for FORMS.  
-Basic approac.  
+## Basic approach  
 The case we are considering is this: A piece of code calls a function F that you want to isolate from in a unit test. This means that a unit test must be able to say "do not call F but call td_F instead". Of course, F and td_F (the test double of the function) must have the same signature / parameters. You can then write unit tests with ABAP Unit and use the pattern below to isolate functions and forms as needed.  
 The basic approach works as follows.  
 We use the dynamic function calls of ABAP to call the productive / test code via their name.  
@@ -14,19 +14,25 @@ In the test, you register 'replacement functions' as neede.
 The necessary code is encapsulated in a macro 'isolate_function' for convenienc.  
 You will use different macros for forms and function.  
 The changed call to the function F1 will then look like this (without the use of the macros).  
-DATA lv_fname TYPE funcname..  
+
+```
+DATA lv_fname TYPE funcname.
 "....  
 IF 0 = 1. CALL FUNCTION 'F1'. ENDIF.   .  
 lv_fname = cl_fname=>function_for( 'F1' ). .  
 CALL FUNCTION lv_fname EXPORTING ....  
+```
+
 A local variable lv_fname is used to store the function name that will actually be use.  
 The "IF 0=1 ..:" statement is needed to enable the static where-used tracing to still work, i.e. it recognizes the dependency to F1 at this place.  
 The call to cl_fname=>function_for( ) find the correct function name, i.e. either F1 (the default), or a test double name that was previously registere.  
 Then finally comes the actual CALL FUNCTION with the parameters.  
 Since this code is repetitive and kind of ugly, we want to encapsulate it in a macro. Then the usage looks like this.  
-isolate_function F1. .  
-CALL FUNCTION F1 EXPORTING ... .  
-Step by Step Solutio.  
+```
+isolate_function F1.
+CALL FUNCTION F1 EXPORTING ...
+```
+## Step by Step Solution 
 Prerequisite: You have a public class like the class cl_fname that implements the name indirection (source see below).  
 In the TOP-include of your function pool define the following macro.  
 DEFINE isolate_function. .  
@@ -110,6 +116,5 @@ CLASS CL_FNAME IMPLEMENTATION. 
   ENDMETHOD.  
 ENDCLASS.  
 ```
-
 
 (ref to class `CL_FUNCTION_TESTDOUBLE` in latest ABAP core)
