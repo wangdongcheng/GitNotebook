@@ -14,23 +14,19 @@ These are the 15 most beautiful ceiling frescoes on earth 🧵
 ![Alt text](image-15.png)
 
 ## 2. The Apotheosis of Hercules, Palace of Versailles - François Lemoyne (1736) 🇫🇷
-
+![Alt text](image-16.png)
 
 ## 3. Triumph of the Name of Jesus, Church of the Gesù, Rome - Giovanni Battista Gaulli (1679) 🇮🇹
+![Alt text](image-17.png)
 
+## 4. The Chamber of the Giants, Palazzo del Tè, Mantua, Italy - Giulio Romano's (1535) 🇮🇹
+![Alt text](image-18.png)
 
+## 5. Allegory of Glory, Borghese Gallery, Rome - Mariano Rossi (1775) 🇮🇹
+![Alt text](image-19.png)
 
-4. The Chamber of the Giants, Palazzo del Tè, Mantua, Italy - Giulio Romano's (1535) 🇮🇹
-
-
-
-5. Allegory of Glory, Borghese Gallery, Rome - Mariano Rossi (1775) 🇮🇹
-
-
-
-6. The Apocalyptic Vision of St. John, Altenburg Abbey Church, Austria - Paul Troger (1733) 🇦🇹
-
-
+## 6. The Apocalyptic Vision of St. John, Altenburg Abbey Church, Austria - Paul Troger (1733) 🇦🇹
+![Alt text](image-20.png)
 
 7. The Triumph of St. Ignatius, Church of St. Ignatius, Rome - Andrea Pozzo (1694) 🇮🇹
 
