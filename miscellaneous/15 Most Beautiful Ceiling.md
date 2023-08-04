@@ -8,16 +8,16 @@ This thread showcases 15 of the most beautiful ceiling frescoes from around the 
 
 The purpose of art was once to elevate the soul.
 These are the 15 most beautiful ceiling frescoes on earth 🧵  
-![Alt text](./img/o5fd/small/image-14.png)(./img/o5fd/image-14.png)
+[![Alt text](./img/o5fd/small/image-14.png)](./img/o5fd/image-14.png)
 
 ## 1. The Sistine Chapel ceiling, the Vatican - Michelangelo (1512) 🇻🇦
-![Alt text](./img/o5fd/small/image-15.png)(./img/o5fd/image-15.png)
+[![Alt text](./img/o5fd/small/image-15.png)](./img/o5fd/image-15.png)
 
 ## 2. The Apotheosis of Hercules, Palace of Versailles - François Lemoyne (1736) 🇫🇷
-![Alt text](./img/o5fd/small/image-16.png)(./img/o5fd/image-16.png)
+[![Alt text](./img/o5fd/small/image-16.png)](./img/o5fd/image-16.png)
 
 ## 3. Triumph of the Name of Jesus, Church of the Gesù, Rome - Giovanni Battista Gaulli (1679) 🇮🇹
-![Alt text](./img/o5fd/small/image-17.png)(./img/o5fd/image-17.png)
+[![Alt text](./img/o5fd/small/image-17.png)](./img/o5fd/image-17.png)
 
 ## 4. The Chamber of the Giants, Palazzo del Tè, Mantua, Italy - Giulio Romano's (1535) 🇮🇹
 ![Alt text](./img/o5fd/small/image-18.png)
