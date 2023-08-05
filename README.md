@@ -1,3 +1,3 @@
 # GitNotebook
 Notebook for webclips  
-[15 Most Beautiful Ceiling](./miscellaneous/15%20Most%20Beautiful%20Ceiling.md)
+![Eugène_Delacroix_-_Le_28_Juillet._La_Liberté_guidant_le_peuple](./img/Eugène_Delacroix_-_Le_28_Juillet._La_Liberté_guidant_le_peuple.jpg)
