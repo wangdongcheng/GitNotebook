@@ -1,3 +1,5 @@
+# 她一生与凶猛的野狮为伴，最终却死于人类手中
+
 今天是国际妇女节，我们想分享一位了不起的女性的故事。她叫**乔伊·亚当森**（“Joy” Adamson），她养大了一头小狮子并放归野外，这是世界上第一只成功野放并繁殖的母狮子。  
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/XsIwRJdqcdtcbsP52y1iaZbHiaMVF4ib8f6ZlS7WUIY8qkjJkbVoLH5HdjWQBHkdGjWkF9vXALdgZJBrXgbjLic0xA/640?wx_fmt=jpeg)
@@ -6,7 +8,7 @@
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/XsIwRJdqcdtcbsP52y1iaZbHiaMVF4ib8f6sGgQySUFImxib6ks69aJxcOpEbwhKqbUOfialxVjhL9aeVTIdvbmpN7Q/640?wx_fmt=jpeg)
 
-**我们就是她的“狮群”**
+## 我们就是她的“狮群”
 
 乔伊·亚当森出生于1910年，她在维也纳长大，拥有音乐学位，还学习了雕塑和医学。为了躲避第二次世界大战，1937年，她前往当时是英国殖民地的肯尼亚，并从此**爱上了非洲**，留在那里生活。  
 
@@ -38,7 +40,7 @@
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/XsIwRJdqcdtcbsP52y1iaZbHiaMVF4ib8f6sGgQySUFImxib6ks69aJxcOpEbwhKqbUOfialxVjhL9aeVTIdvbmpN7Q/640?wx_fmt=jpeg)
 
-**用尽所有爱的力量离开她**
+## 用尽所有爱的力量离开她
 
 然而，人类始终不是爱尔莎的狮群。  
 
@@ -84,7 +86,7 @@
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/XsIwRJdqcdtcbsP52y1iaZbHiaMVF4ib8f6sGgQySUFImxib6ks69aJxcOpEbwhKqbUOfialxVjhL9aeVTIdvbmpN7Q/640?wx_fmt=jpeg)
 
-**第一只成功放归野外的母狮**
+## 第一只成功放归野外的母狮
 
 经过几个月的逐步野化，爱尔莎终于在大自然中过上了野生母狮的生活。  
 
@@ -114,7 +116,7 @@
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/XsIwRJdqcdtcbsP52y1iaZbHiaMVF4ib8f6sGgQySUFImxib6ks69aJxcOpEbwhKqbUOfialxVjhL9aeVTIdvbmpN7Q/640?wx_fmt=jpeg)
 
-**动物生而自由**
+## 动物生而自由
 
 把爱尔莎养大，并把她放归自然，只是乔伊动物保护工作的开始。  
 
@@ -152,7 +154,7 @@
 
 虽然生命猝然结束，乔伊写的书和创立的组织，却依然延续着她的理念，每年都让数以万计的动物重新回到它们真正的家园。从1960年代到今天，无数致力于反对动物表演、让动物回到栖息地的动物保护工作者们，都坚信着这句话：
 
-**动物生而自由。** 
+**<center>动物生而自由。</center>** 
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/XsIwRJdqcdtcbsP52y1iaZbHiaMVF4ib8f60WYibJ3PgZdaz6Fr2WLnanGWVKXia5uLib0K5TmWr0MEcBsGjYbQuhVtg/640?wx_fmt=jpeg)
 
