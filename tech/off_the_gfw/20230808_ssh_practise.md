@@ -143,7 +143,7 @@ SSH协议是如何应对的呢？
 1. "$ ssh user@host"，表示登录远程主机；
 1. 单引号中的mkdir .ssh && cat >> .ssh/authorized\_keys，表示登录后在远程shell上执行的命令；
 1. "$ mkdir -p .ssh"的作用是，如果用户主目录中的.ssh目录不存在，就创建一个；
-1. 'cat >> .ssh/authorized\_keys' < ~/.ssh/id\_rsa.pub的作用是，将本地的公钥文件~/.ssh/id\_rsa.pub，重定向追加到远程文件authorized_keys的末尾。
+1. 'cat >> .ssh/authorized\_keys' < \~/.ssh/id\_rsa.pub的作用是，将本地的公钥文件\~/.ssh/id\_rsa.pub，重定向追加到远程文件authorized_keys的末尾。
 
 写入authorized_keys文件后，公钥登录的设置就完成了。
 
