@@ -134,12 +134,16 @@ SSH协议是如何应对的呢？
 ## 六、authorized_keys文件
 
 远程主机将用户的公钥，保存在登录后的用户主目录的$HOME/.ssh/authorized\_keys文件中。公钥就是一段字符串，只要把它追加在authorized\_keys文件的末尾就行了。  
-  
+
 这里不使用上面的ssh-copy-id命令，改用下面的命令，解释公钥的保存过程：
 
 > 　　$ ssh user@host 'mkdir -p .ssh && cat >> .ssh/authorized\_keys' < ~/.ssh/id\_rsa.pub
 
-这条命令由多个语句组成，依次分解开来看：（1）"$ ssh user@host"，表示登录远程主机；（2）单引号中的mkdir .ssh && cat >> .ssh/authorized\_keys，表示登录后在远程shell上执行的命令：（3）"$ mkdir -p .ssh"的作用是，如果用户主目录中的.ssh目录不存在，就创建一个；（4）'cat >> .ssh/authorized\_keys' < ~/.ssh/id\_rsa.pub的作用是，将本地的公钥文件~/.ssh/id\_rsa.pub，重定向追加到远程文件authorized_keys的末尾。
+这条命令由多个语句组成，依次分解开来看：
+1. "$ ssh user@host"，表示登录远程主机；
+1. 单引号中的mkdir .ssh && cat >> .ssh/authorized\_keys，表示登录后在远程shell上执行的命令；
+1. "$ mkdir -p .ssh"的作用是，如果用户主目录中的.ssh目录不存在，就创建一个；
+1. 'cat >> .ssh/authorized\_keys' < ~/.ssh/id\_rsa.pub的作用是，将本地的公钥文件~/.ssh/id\_rsa.pub，重定向追加到远程文件authorized_keys的末尾。
 
 写入authorized_keys文件后，公钥登录的设置就完成了。
 
