@@ -1,4 +1,4 @@
-![Alt text](./img/3x0/image.png)
+![Alt text](../img/3x0/image.png)
 
 ```
 vmess://ewoidiI6ICIyIiwKInBzIjogIjIzM3YyLmNvbV8xMDcuMTkxLjYzLjY2IiwKImFkZCI6ICIxMDcuMTkxLjYzLjY2IiwKInBvcnQiOiAiNTMzODQiLAoiaWQiOiAiYjIxMjQ5YjEtMWUxMC00ZmI5LTkxNjItNGJjZDgzZDAzNzdiIiwKImFpZCI6ICIwIiwKIm5ldCI6ICJ0Y3AiLAoidHlwZSI6ICJub25lIiwKImhvc3QiOiAiIiwKInBhdGgiOiAiIiwKInRscyI6ICIiCn0K

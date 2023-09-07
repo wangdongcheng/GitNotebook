@@ -19,7 +19,7 @@ SSH具备多种功能，可以用于很多场合。有些事情，没有它就�
 
 作者：阮一峰
 
-![](./img/9roz/bg2011122101.jpg)
+![](../img/9roz/bg2011122101.jpg)
 
 ## 一、什么是SSH？
 
@@ -165,7 +165,7 @@ SSH协议是如何应对的呢？
 
 作者：阮一峰
 
-![](./img/9roz/bg2011122301.jpg)
+![](../img/9roz/bg2011122301.jpg)
 
 （Image credit: [Tony Narlock](http://www.flickr.com/photos/skiquel/)）
 
