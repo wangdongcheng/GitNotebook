@@ -25,4 +25,4 @@
 既属于我  
 也属于你  
 
-![Alt text](./img/1tly2/image.png)
+![Alt text](../img/1tly2/image.png)

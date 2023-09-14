@@ -67,7 +67,7 @@ CDS专页：白纸运动
 
 随后，拉横幅的男子被警察抓捕。这一事件迅速在中文互联网上引发舆论关注，当局将与此事件相关的视频图片文字等审核。各平台也将“四通桥”、“桥”、“勇敢的人”、“勇士”等词列为敏感词。很多网友因转发相关信息被永久删号。
 
-[![Alt text](./img/bzyd/image.png)](https://youtu.be/N7LkVRiRA48)
+[![Alt text](../img/bzyd/image.png)](https://youtu.be/N7LkVRiRA48)
 
 还有另外一些记录当时现场情况的视频和图像被传播。
 
@@ -75,7 +75,7 @@ CDS专页：白纸运动
 
 而根据另一段被传播的视频显示，当前四通桥附近有很多警察在现场值守维稳。
 
-[![Alt text](./img/bzyd/image-1.png)](https://youtu.be/lSXzm113nSQ)
+[![Alt text](../img/bzyd/image-1.png)](https://youtu.be/lSXzm113nSQ)
 
 北京四通桥抗议标语事件引发广泛关注，审查系统亦快速反应屏蔽了相关内容。在此前文章中，中国数字时代编辑测试发现社交网络中的主要敏感词包括“四通桥”、“海淀”、“勇士”。而此后审查规模快速扩大，敏感词匹配范围更加模糊。目前，微博已将“桥”、“北京”、“勇敢”设置为禁搜词，仅蓝V，即机构和媒体账号发言可见，敏感度极高。
 
@@ -108,7 +108,7 @@ CDS专页：白纸运动
 
 他还撰写了一份《罢工罢课罢免习近平攻略》。
 
-[![Alt text](./img/bzyd/image-2.png)](https://youtu.be/e2wOmi-1D84)
+[![Alt text](../img/bzyd/image-2.png)](https://youtu.be/e2wOmi-1D84)
 
 在国内，支持彭立发的人在[公共厕所](https://chinadigitaltimes.net/chinese/688638.html)等没有监控的地方写下四通桥的口号，反对专制独裁和清零政策。还有一些人在公共场合通过苹果手机的AirDrop功能向周围人传播相关的信息和标语。
 
@@ -132,7 +132,7 @@ CDS专页：白纸运动
 
 在已有视频中没有看到抗议者是否受到了警方干预，以及Ta们最终是否安全离开现场。就在当日上午，中共新一届中央政治局常委集体亮相，习派人马全面掌握中共权力核心。
 
-[![Alt text](./img/bzyd/image-3.png)](https://youtu.be/qmSMc7zcwcY)
+[![Alt text](../img/bzyd/image-3.png)](https://youtu.be/qmSMc7zcwcY)
 
 ### 勇气的回声：海报行动
 
@@ -160,7 +160,7 @@ CDS专页：白纸运动
 
 在该事件引发广泛关注后，当局发出男星吴亦凡的一审判决消息，新浪微博上新疆乌鲁木齐火灾的消息很快被淹没，与吴亦凡相关的话题占据热搜。
 
-[![Alt text](./img/bzyd/image-4.png)](https://youtu.be/JekZEgwCLWc)
+[![Alt text](../img/bzyd/image-4.png)](https://youtu.be/JekZEgwCLWc)
 
 第二天，乌鲁木齐市民走上街头，要求政府解封。之后，上海的民众首先走上街头，聚集在乌鲁木齐中路进行悼念活动，北京、广州、成都、武汉等各大城市的市民群体也走上了街头进行公开抗议，很多人喊出了彭立发曾在四通桥上悬挂的标语。
 
@@ -171,7 +171,7 @@ CDS专页：白纸运动
 
 11月27日晚，有北京市民聚集到亮马桥附近，向中共当局表达抗议。一段视频中， 市民们一起高喊北京四通桥抗议的标语：“不要核酸要自由”。这些市民手举着白纸，而过路的车辆也鸣笛支持。
 
-[![Alt text](./img/bzyd/image-5.png)](https://youtu.be/1qhah6lWDmk)
+[![Alt text](../img/bzyd/image-5.png)](https://youtu.be/1qhah6lWDmk)
 
 另一段视频中，聚集的人们则喊着：“上海加油，上海放人”，声援上海乌鲁木齐中路的抗议活动。
 
@@ -184,7 +184,7 @@ CDS专页：白纸运动
 [上海乌鲁木齐中路抗议](https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E6%B5%B7%E4%B9%8C%E9%B2%81%E6%9C%A8%E9%BD%90%E4%B8%AD%E8%B7%AF%E6%8A%97%E8%AE%AE)
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Alt text](./img/bzyd/image-6.png)](https://youtu.be/tV7oTRCUG_c)
+[![Alt text](../img/bzyd/image-6.png)](https://youtu.be/tV7oTRCUG_c)
 
 2022年11月26日深夜至11月27日凌晨，上海民众聚集在乌鲁木齐中路进行抗议，要求结束“动态清零”政策，结束中国共产党执政地位。
 
@@ -205,7 +205,7 @@ CDS专页：白纸运动
 
 现场有民众则对着警察高喊：“脱下衣服，加入我们！”
 
-[![Alt text](./img/bzyd/image-7.png)](https://youtu.be/m_fgq6DEuOs)
+[![Alt text](../img/bzyd/image-7.png)](https://youtu.be/m_fgq6DEuOs)
 
 [各大高校抗议](https://chinadigitaltimes.net/chinese/690906.html)
 -----------------------------------------------------------
@@ -216,7 +216,7 @@ CDS专页：白纸运动
 
 ### 南京传媒学院
 
-[![Alt text](./img/bzyd/image-8.png)](https://youtu.be/u9PbIh7Cd9Q)
+[![Alt text](../img/bzyd/image-8.png)](https://youtu.be/u9PbIh7Cd9Q)
 
 2022年11月26日，南京传媒学院有两名学生手举白纸在校园内一直站到天黑，疑似表达对当局审查乌鲁木齐大火相关信息以及严格疫情防控政策的不满。
 
@@ -232,7 +232,7 @@ CDS专页：白纸运动
 
 除了南京传媒学院，西安美术学院、四川外国语大学、西安外国语大学、复旦大学等等中国高校学生也以各种方式进行着抗议。
 
-[![Alt text](./img/bzyd/image-9.png)](https://youtu.be/rmxR4gbu_C0)
+[![Alt text](../img/bzyd/image-9.png)](https://youtu.be/rmxR4gbu_C0)
 
 南京传媒学院的学生为声援抗议制作了一首名为《如果你不愿走在前面》的歌曲。这首歌的作曲被署名为“另一张白纸”，演唱者则是“每一张白纸”。
 
@@ -254,7 +254,7 @@ CDS专页：白纸运动
 
 ### 清华大学
 
-[![Alt text](./img/bzyd/image-10.png)](https://youtu.be/LvdUQMqffGU)
+[![Alt text](../img/bzyd/image-10.png)](https://youtu.be/LvdUQMqffGU)
 
 2022年11月27日，清华大学紫荆园餐厅门口，一位女学生手持白纸站立。
 
@@ -278,7 +278,7 @@ CDS专页：白纸运动
 
 ### 武汉大学
 
-[![Alt text](./img/bzyd/image-11.png)](https://youtu.be/Gun7muw_gYM)
+[![Alt text](../img/bzyd/image-11.png)](https://youtu.be/Gun7muw_gYM)
 
 2022年12月4日晚，武汉大学的部分学生聚集在学校行政楼前进行抗议，要求就封校管理、线下教学等问题进行协商，一些学生高喊：“过程公开，信息透明”。
 
@@ -302,7 +302,7 @@ CDS专页：白纸运动
 
 4.校内生活保障不足，无超市，同时未开通快递，依旧不准许快递正常进校，给学生生活造成困扰，与此同时，学校唯一可以提供生活物资的小卖部哄抬物价，价格高于世面政策价格。
 
-[![Alt text](./img/bzyd/image-12.png)](https://youtu.be/nxBhAsZtkY8)
+[![Alt text](../img/bzyd/image-12.png)](https://youtu.be/nxBhAsZtkY8)
 
 在学生们抗议之后，该校副校长出面表示，全体同学可以自由出入，恢复快递。
 
