@@ -90,7 +90,8 @@ Time needed: 20 minutes
     
 10. **End with the Sign of the Cross.**
 
-    _In the name of the Father, and of the Son, and of the Holy Spirit. Amen._  ![](../img/0007/step-10-End-with-the-Sign-of-the-Cross.png)
+    _In the name of the Father, and of the Son, and of the Holy Spirit. Amen._  
+    ![](../img/0007/step-10-End-with-the-Sign-of-the-Cross.png)
     
 
 What is the Rosary?
