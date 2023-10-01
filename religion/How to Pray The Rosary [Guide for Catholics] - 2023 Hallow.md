@@ -88,7 +88,7 @@ Time needed: 20 minutes
     
     _O God, whose Only Begotten Son, by His Life, Death, and Resurrection, has purchased for us the rewards of eternal life, grant, we beseech thee, that while meditating on these mysteries of the most holy Rosary of the Blessed Virgin Mary, we may imitate what they contain and obtain what they promise, through the same Christ our Lord. Amen._ ![](../img/0007/Step-9-Close-with-the-concluding-prayer.png)
     
-10.  **End with the Sign of the Cross.**
+10. **End with the Sign of the Cross.**
 
     _In the name of the Father, and of the Son, and of the Holy Spirit. Amen._  ![](../img/0007/step-10-End-with-the-Sign-of-the-Cross.png)
     
