@@ -1,3 +1,4 @@
+![](../img/0007/image-1024x721.png)
 # How to Pray The Rosary [Guide for Catholics] - 2023 | Hallow
 **How to Say the Rosary Guide for 2023: Table of Contents**
 
@@ -39,23 +40,23 @@ Time needed: 20 minutes
 
 1.  ****Begin with the Sign of the Cross**.**
     
-    _In the name of the Father, and of the Son, and of the Holy Spirit. Amen._ ![](https://hallow.com/wp-content/uploads/2023/01/Step-1-Begin-with-Sign-of-the-Cross.png)
+    _In the name of the Father, and of the Son, and of the Holy Spirit. Amen._ ![](../img/0007/Step-1-Begin-with-Sign-of-the-Cross.png)
     
 2.  ****Holding the crucifix, pray the Apostles’ Creed**.**
     
-    _I believe in God, the Father almighty, Creator of heaven and earth, and in Jesus Christ, His only Son, our Lord, who was conceived by the Holy Spirit, born of the Virgin Mary, suffered under Pontius Pilate, was crucified, died and was buried; He descended into hell; on the third day He rose again from the dead; He ascended into heaven, and is seated at the right hand of God the Father almighty; from there He will come to judge the living and the dead. I believe in the Holy Spirit, the holy catholic Church, the communion of saints, the forgiveness of sins, the resurrection of the body, and life everlasting. Amen._ ![](https://hallow.com/wp-content/uploads/2023/01/Step-2-Holding-the-Crucifix-pray-the-Apostles-Creed.png)
+    _I believe in God, the Father almighty, Creator of heaven and earth, and in Jesus Christ, His only Son, our Lord, who was conceived by the Holy Spirit, born of the Virgin Mary, suffered under Pontius Pilate, was crucified, died and was buried; He descended into hell; on the third day He rose again from the dead; He ascended into heaven, and is seated at the right hand of God the Father almighty; from there He will come to judge the living and the dead. I believe in the Holy Spirit, the holy catholic Church, the communion of saints, the forgiveness of sins, the resurrection of the body, and life everlasting. Amen._ ![](../img/0007/Step-2-Holding-the-Crucifix-pray-the-Apostles-Creed.png)
     
 3.  ****On the first bead, pray an Our Father**.**
     
-    _Our Father, who art in heaven, hallowed be thy name; thy kingdom come; thy will be done on earth as it is in heaven. Give us this day our daily bread; and forgive us our trespasses as we forgive those who trespass against us; and lead us not into temptation, but deliver us from evil. Amen._ ![](https://hallow.com/wp-content/uploads/2023/01/Step-3-On-the-first-bead-pray-an-Our-Father.png)
+    _Our Father, who art in heaven, hallowed be thy name; thy kingdom come; thy will be done on earth as it is in heaven. Give us this day our daily bread; and forgive us our trespasses as we forgive those who trespass against us; and lead us not into temptation, but deliver us from evil. Amen._ ![](../img/0007/Step-3-On-the-first-bead-pray-an-Our-Father.png)
     
 4.  ****On each of the next three beads, pray a Hail Mary**.**
     
-    _Hail Mary, full of grace, the Lord is with you; blessed are you among women, and blessed is the fruit of your womb, Jesus. Holy Mary, Mother of God, pray for us sinners now and at the hour of our death. Amen._ ![](https://hallow.com/wp-content/uploads/2023/01/Step-4-On-each-of-the-next-three-beads-pray-a-Hail-Mary.png)
+    _Hail Mary, full of grace, the Lord is with you; blessed are you among women, and blessed is the fruit of your womb, Jesus. Holy Mary, Mother of God, pray for us sinners now and at the hour of our death. Amen._ ![](../img/0007/Step-4-On-each-of-the-next-three-beads-pray-a-Hail-Mary.png)
     
 5.  **On the next bead, pray a Glory Be.**
     
-    __Glory be to the Father, the Son, and the Holy Spirit; as it was in the beginning, is now, and ever shall be, world without end. Amen.__![](https://hallow.com/wp-content/uploads/2023/01/Step-5-On-the-next-bead-pray-a-Glory-Be.png)
+    __Glory be to the Father, the Son, and the Holy Spirit; as it was in the beginning, is now, and ever shall be, world without end. Amen.__![](../img/0007/Step-5-On-the-next-bead-pray-a-Glory-Be.png)
     
 6.  ****Pray** the first decade.**
     
@@ -66,11 +67,11 @@ Time needed: 20 minutes
     At the end of the decade,  say the Glory Be.
     
     Then say the [Fatima Prayer](https://hallow.com/blog/our-lady-of-fatima/):  
-    _O my Jesus, forgive us our sins, save us from the fires of hell; lead all souls to Heaven, especially those who have most need of your mercy._  _Amen_![](https://hallow.com/wp-content/uploads/2023/01/Step-6-Pray-the-first-decade.png)
+    _O my Jesus, forgive us our sins, save us from the fires of hell; lead all souls to Heaven, especially those who have most need of your mercy._  _Amen_![](../img/0007/Step-6-Pray-the-first-decade.png)
     
 7.  **Repeat this pattern for the remaining decades.**
     
-    _Our Father -> 10 Hail Marys -> Glory Be -> O my Jesus_ (Fatima Prayer)![](https://hallow.com/wp-content/uploads/2023/01/Step-7-Repeat-this-pattern-or-the-remaining-decades.png)
+    _Our Father -> 10 Hail Marys -> Glory Be -> O my Jesus_ (Fatima Prayer)![](../img/0007/Step-7-Repeat-this-pattern-or-the-remaining-decades.png)
     
 8.  ****After the 5 decades, conclude with the Hail Holy Queen**.**
     
@@ -79,17 +80,17 @@ Time needed: 20 minutes
     _Turn, then, most gracious advocate, your eyes of mercy toward us; and after this, our exile, show unto us the blessed fruit of your womb, Jesus. O clement, O loving, O sweet Virgin Mary._
     
     _Pray for us, O holy Mother of God._  
-    _That we may be made worthy of the promises of Christ_![](https://hallow.com/wp-content/uploads/2023/01/Step-8-After-the-5-decades-conclude-with-the-Hail-Holy-Queen.png)
+    _That we may be made worthy of the promises of Christ_![](../img/0007/Step-8-After-the-5-decades-conclude-with-the-Hail-Holy-Queen.png)
     
 9.  **Close with the concluding prayer.**
     
     _Let us pray:_
     
-    _O God, whose Only Begotten Son, by His Life, Death, and Resurrection, has purchased for us the rewards of eternal life, grant, we beseech thee, that while meditating on these mysteries of the most holy Rosary of the Blessed Virgin Mary, we may imitate what they contain and obtain what they promise, through the same Christ our Lord. Amen._ ![](https://hallow.com/wp-content/uploads/2023/01/Step-9-Close-with-the-concluding-prayer.png)
+    _O God, whose Only Begotten Son, by His Life, Death, and Resurrection, has purchased for us the rewards of eternal life, grant, we beseech thee, that while meditating on these mysteries of the most holy Rosary of the Blessed Virgin Mary, we may imitate what they contain and obtain what they promise, through the same Christ our Lord. Amen._ ![](../img/0007/Step-9-Close-with-the-concluding-prayer.png)
     
 10.  **End with the Sign of the Cross.**
     
-    _In the name of the Father, and of the Son, and of the Holy Spirit. Amen._ ![](https://hallow.com/wp-content/uploads/2023/01/Step-10-End-with-the-Sign-of-the-Cross.png)
+    _In the name of the Father, and of the Son, and of the Holy Spirit. Amen._  ![](../img/0007/step-10-End-with-the-Sign-of-the-Cross.png)
     
 
 What is the Rosary?
