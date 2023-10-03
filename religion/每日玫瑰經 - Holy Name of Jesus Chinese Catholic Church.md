@@ -5,8 +5,6 @@ https://hnojatl.org/tw/home/%E5%A4%A9%E4%B8%BB%E6%95%99%E4%BF%A1%E4%BB%B0/%E7%A5
 
 [玫瑰經十五殊恩](#玫瑰經十五殊恩)
 
-
-
 ## 怎樣誦念玫瑰經？
 
 1. 劃十字聖號，唸信經。
@@ -21,30 +19,47 @@ https://hnojatl.org/tw/home/%E5%A4%A9%E4%B8%BB%E6%95%99%E4%BF%A1%E4%BB%B0/%E7%A5
 1. 唸完五端玫瑰經，唸＜又聖母經＞。
 1. 通常星期一及六默想歡喜奧蹟；星期二及五默想痛苦奧蹟；星期三及日默想榮福奧蹟；星期四默想光明奧蹟; 但星期日也可按教會節日而選唸適合的玫瑰經奧蹟。亦可每日自由選擇唸歡喜、光明、痛苦及榮福五端或唸全部十五端。
 
-
 ### 聖號經
 因父，及子，及聖神之名，亞孟。
+
+In the name of the Father, and of the Son, and of the Holy Spirit. Amen.
 
 ### 信經
 我信唯一的天主，天地萬物的創造者。我信父的唯一子，我們的主耶穌基督；祂因聖神降孕，由童貞瑪利亞誕生；在比拉多執政時蒙難，被釘在十字架上，死而安葬；  祂下降陰府, 第三日從死者中復活. 祂升了天，坐在全能天主父的右邊；他要從天降下，審判生者死者。我信聖神，我信聖而公教會，諸聖的相通。罪過的赦免，肉身的復活，永恆的生命。亞孟。
 
+I believe in God, the Father almighty, Creator of heaven and earth, and in Jesus Christ, His only Son, our Lord, who was conceived by the Holy Spirit, born of the Virgin Mary, suffered under Pontius Pilate, was crucified, died and was buried; He descended into hell; on the third day He rose again from the dead; He ascended into heaven, and is seated at the right hand of God the Father almighty; from there He will come to judge the living and the dead. I believe in the Holy Spirit, the holy catholic Church, the communion of saints, the forgiveness of sins, the resurrection of the body, and life everlasting. Amen.
+
 ### 天主經
 我們的天父，願祢的名受顯揚；願祢的國來臨；願祢的旨意奉行在人間，如同在天上。求祢今天賞給我們日用的食糧；求祢寬恕我們的罪過，如同我們寬恕別人一樣；不要讓我們陷於誘惑；但救我們免於凶惡。阿們。
+
+Our Father, who art in heaven, hallowed be thy name; thy kingdom come; thy will be done on earth as it is in heaven. Give us this day our daily bread; and forgive us our trespasses as we forgive those who trespass against us; and lead us not into temptation, but deliver us from evil. Amen.
 
 ### 聖母經
 萬福瑪利亞，滿被聖寵者，主與爾偕焉。女中爾為讚美，爾胎子耶穌，並為讚美。天主聖母瑪利亞，為我等罪人，今祁天主，及我等死後。阿們。
 
 （白话文）万福玛利亚，你充满圣宠。主与你同在。你在妇女中受赞颂，你的亲子耶稣同受赞颂。天主圣母玛利亚，求你现在和我们临终时，为我们罪人祈求天主。啊们。
 
+Hail Mary, full of grace, the Lord is with you; blessed are you among women, and blessed is the fruit of your womb, Jesus. Holy Mary, Mother of God, pray for us sinners now and at the hour of our death. Amen.
+
 ### 聖三光榮經
 願光榮歸於父，及子及聖神，起初如何，今日亦然，以待永遠，及世之世。阿們。
+
+Glory be to the Father, the Son, and the Holy Spirit; as it was in the beginning, is now, and ever shall be, world without end. Amen.
 
 ### 花地瑪聖母經（在每端玫瑰後唸）
 吾主耶穌，請寬恕我們的罪過，助我們免地獄永火，求你把眾人的靈魂，特別那些需要你憐憫的靈魂，領到天國裡去。
 
+O my Jesus, forgive us our sins, save us from the fires of hell; lead all souls to Heaven, especially those who have most need of your mercy. Amen.
+
 ### 又聖母經
 萬福母后 ! 仁慈的母親，我們的生命，我們的甘飴，我們的希望。厄娃子孫，在此塵世向您哀呼。在這涕泣之谷，向您嘆息哭求。我們的主保，求您回顧，憐視我們，一旦流亡期滿，使我們得見您的聖子，萬民稱頌的耶穌，童貞瑪利亞，您是寬仁的慈悲的，甘飴的天主聖母，請為我們祁求，使我們堪受基督的恩許。阿們。
 
+Hail, holy Queen, mother of mercy, our life, our sweetness, and our hope. To you we cry, poor banished children of Eve; to you we send up our sighs, mourning and weeping in this valley of tears.
+    
+Turn, then, most gracious advocate, your eyes of mercy toward us; and after this, our exile, show unto us the blessed fruit of your womb, Jesus. O clement, O loving, O sweet Virgin Mary.
+    
+Pray for us, O holy Mother of God.  
+That we may be made worthy of the promises of Christ. Amen!
 
 ## 玫瑰經的奧蹟：
 
