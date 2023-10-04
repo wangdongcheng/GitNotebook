@@ -52,7 +52,7 @@ Time needed: 20 minutes
     
 4.  ****On each of the next three beads, pray a Hail Mary**.**
     
-    _Hail Mary, full of grace, the Lord is with you; blessed are you among women, and blessed is the fruit of your womb, Jesus. Holy Mary, Mother of God, pray for us sinners now and at the hour of our death. Amen._ ![](../img/0007/Step-4-On-each-of-the-next-three-beads-pray-a-Hail-Mary.png)
+    _Hail Mary, full of grace, the Lord is with thee; blessed art thou amongst women, and blessed is the fruit of thy womb, Jesus. Holy Mary, Mother of God, pray for us sinners now and at the hour of our death. Amen._ ![](../img/0007/Step-4-On-each-of-the-next-three-beads-pray-a-Hail-Mary.png)
     
 5.  **On the next bead, pray a Glory Be.**
     
