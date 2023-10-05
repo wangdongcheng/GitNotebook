@@ -1,10 +1,4 @@
 # 每日玫瑰經 - Holy Name of Jesus Chinese Catholic Church
-https://hnojatl.org/tw/home/%E5%A4%A9%E4%B8%BB%E6%95%99%E4%BF%A1%E4%BB%B0/%E7%A5%88%E7%A6%B1%E6%96%87prayers/%E6%AF%8F%E6%97%A5%E7%8E%AB%E7%91%B0%E7%B6%93daily-rosary/
-
-[玫瑰經的簡史](#玫瑰經的簡史)
-
-[玫瑰經十五殊恩](#玫瑰經十五殊恩)
-
 ## 怎樣誦念玫瑰經？
 
 1. 劃十字聖號，念聖號經
@@ -40,7 +34,7 @@ Our Father, who art in heaven, hallowed be thy name; thy kingdom come; thy will 
 
 （白话文）万福玛利亚，你充满圣宠。主与你同在。你在妇女中受赞颂，你的亲子耶稣同受赞颂。天主圣母玛利亚，求你现在和我们临终时，为我们罪人祈求天主。啊们。
 
-Hail Mary, full of grace, the Lord is with you; blessed are you among women, and blessed is the fruit of your womb, Jesus. Holy Mary, Mother of God, pray for us sinners now and at the hour of our death. Amen.
+Hail Mary, full of grace, the Lord is with thee; blessed art thou amongst women, and blessed is the fruit of thy womb, Jesus. Holy Mary, Mother of God, pray for us sinners now and at the hour of our death. Amen.
 
 ### 聖三光榮經
 願光榮歸於父，及子及聖神，起初如何，今日亦然，以待永遠，及世之世。阿們。
@@ -50,7 +44,7 @@ Glory be to the Father, the Son, and the Holy Spirit; as it was in the beginning
 ### 花地瑪聖母經（在每端玫瑰後唸）
 吾主耶穌，請寬恕我們的罪過，助我們免地獄永火，求你把眾人的靈魂，特別那些需要你憐憫的靈魂，領到天國裡去。
 
-O my Jesus, forgive us our sins, save us from the fires of hell; lead all souls to Heaven, especially those who have most need of your mercy. Amen.
+O my Jesus, forgive us our sins, save us from the fires of hell; lead all souls to Heaven, especially those who have most need of Thy Mercy.
 
 ### 又聖母經
 萬福母后 ! 仁慈的母親，我們的生命，我們的甘飴，我們的希望。厄娃子孫，在此塵世向您哀呼。在這涕泣之谷，向您嘆息哭求。我們的主保，求您回顧，憐視我們，一旦流亡期滿，使我們得見您的聖子，萬民稱頌的耶穌，童貞瑪利亞，您是寬仁的慈悲的，甘飴的天主聖母，請為我們祁求，使我們堪受基督的恩許。阿們。

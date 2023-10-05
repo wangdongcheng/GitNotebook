@@ -66,8 +66,9 @@ Time needed: 20 minutes
     
     At the end of the decade,  say the Glory Be.
     
-    Then say the [Fatima Prayer](https://hallow.com/blog/our-lady-of-fatima/):  
-    _O my Jesus, forgive us our sins, save us from the fires of hell; lead all souls to Heaven, especially those who have most need of your mercy._  _Amen_![](../img/0007/Step-6-Pray-the-first-decade.png)
+    Then say the [Fatima Prayer](https://hallow.com/blog/our-lady-of-fatima/):
+
+    _O my Jesus, forgive us our sins, save us from the fires of hell; lead all souls to Heaven, especially those who have most need of Thy Mercy._  _Amen_![](../img/0007/Step-6-Pray-the-first-decade.png)
     
 7.  **Repeat this pattern for the remaining decades.**
     
