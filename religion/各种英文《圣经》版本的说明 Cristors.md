@@ -1,4 +1,6 @@
 # 各种英文《圣经》版本的说明 | Cristors
+http://cristors.blogspot.com/2014/12/blog-post.html
+
 经英文版多了去了，看看这个网站就知道了，英文版是最多的
 
 介绍几个我接触过的：
