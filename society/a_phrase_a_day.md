@@ -1,3 +1,6 @@
+![](../img/apad/F9iVpNaWMAASRhG.jpeg)
+> 网友：乍一看分不清是谁的讣告。
+
 ![](../img/apad/F4oWdDjWoAAQ3--.jpeg)
 
 ![](../img/apad/F4n8Fd_WIAEn_Kl.jpeg)
