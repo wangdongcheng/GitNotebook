@@ -1,19 +1,6 @@
 # 美剧《硅谷》里的那些Geek玩具（一） - 简书
 https://www.jianshu.com/p/205dbe294a5a
 
-美剧《硅谷》里的那些Geek玩具（一）
-===================
-
-[![](https://cdn2.jianshu.io/assets/default_avatar/14-0651acff782e7a18653d7530d6b27661.jpg)
-零势头](/u/2f577423d6e6)关注赞赏支持
-
-美剧《硅谷》里的那些Geek玩具（一）
-===================
-
-[![](https://cdn2.jianshu.io/assets/default_avatar/14-0651acff782e7a18653d7530d6b27661.jpg)
-](/u/2f577423d6e6)
-
-[零势头](/u/2f577423d6e6)关注IP属地: 重庆
 
 2014.07.28 23:00:51字数 896阅读 6,559
 
