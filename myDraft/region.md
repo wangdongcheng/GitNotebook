@@ -27,7 +27,7 @@
 诸圣节：每年的11月1日，英语：All Saints' Day，即“纪念所有殉道者和圣人的节日”。教会在这个诸圣日中纪念所有圣徒，表彰他们的圣德，并使教徒视他们为效法的楷模。一年之中我们在不同时期用各种方式纪念了各位圣人，请他们代祷，但仍有很多的圣人殉道者被忽略或者遗忘了，于是教会把所有的圣人圣女，列品的未被列品的都聚在一起来一个总的庆祝，激励我们以他们为榜样，克服脆弱，愈显主荣。
 
 望周知。
---
+
 "按照我所热切期待希望的，我在任何事上必不会蒙羞，所以现在和从前一样，我反而放心大胆，我或生或死，总要叫基督在我身上受颂扬。" (斐理伯书 1:20)
 
 
@@ -58,3 +58,11 @@
 ![Alt text](image-4.png)  
 ![Alt text](image-5.png)  
 ![Alt text](image-6.png)
+
+
+The Talents 塔冷通
+For the kingdom of heaven is as a man traveling into a far country, who called his own servants, and delivered unto them his goods. And unto one he gave five talents, to another two, and to another one; to every man according to his several ability; and straightway took his journey. Then he that had received the five talents went and traded with the same, and made them other five talents. And likewise he that had received two, he also gained other two. But he that had received one went and digged in the earth, and hid his lord's money. (Matthew 25:14-18 KJV)
+
+five talents，思高本这里忠实保留了原音原意，翻译为“五个塔冷通”，读起来颇为奇怪，需要参考译释方能读懂，和合本则直接译为更明了的“五千银子”，意思一样，阅读体验更为顺畅。这里我个人觉得保留“塔冷通”的直译更为合适，因为这个词的解读，关系到这一段经文的探索。
+塔冷通，即Talent，就是“天赋”的那个词。一开始是古罗马时期的重量单位（拉丁语Talentum），据说是希伯来人最大的重量单位，约几十公斤，所以耶稣说的五个塔冷通，是很大的一笔财富了，RSV版本圣经标注“This talent was more than fifteen years' wages of a laborer”，一个塔冷通约为十五年的工钱了。所以这个词比“五千银子”更能引导我们在这里略停一下，去探寻耶稣所要陈述的这个恩典的分量。更为重要的是，talent之后逐渐从“重量”，演变到“权重”，再演变到“天赋”，何为天赋，a natural ability to be good at something, especially without being taught，重点落在“natural”和“without being taught”，就是说是神给的，是不是又回到了这段经文了？
+主给了我们五分天赋，两分天赋还是只有一分，都不重要，重要的是祂希望我们去好好用这个天赋，呈现更多的精彩，来荣耀神赐的恩典，而不是把天赋埋在土里，让宝石蒙尘、暴殄天物。
