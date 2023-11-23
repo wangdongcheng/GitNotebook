@@ -66,3 +66,5 @@ For the kingdom of heaven is as a man traveling into a far country, who called h
 five talents，思高本这里忠实保留了原音原意，翻译为“五个塔冷通”，读起来颇为奇怪，需要参考译释方能读懂，和合本则直接译为更明了的“五千银子”，意思一样，阅读体验更为顺畅。这里我个人觉得保留“塔冷通”的直译更为合适，因为这个词的解读，关系到这一段经文的探索。
 塔冷通，即Talent，就是“天赋”的那个词。一开始是古罗马时期的重量单位（拉丁语Talentum），据说是希伯来人最大的重量单位，约几十公斤，所以耶稣说的五个塔冷通，是很大的一笔财富了，RSV版本圣经标注“This talent was more than fifteen years' wages of a laborer”，一个塔冷通约为十五年的工钱了。所以这个词比“五千银子”更能引导我们在这里略停一下，去探寻耶稣所要陈述的这个恩典的分量。更为重要的是，talent之后逐渐从“重量”，演变到“权重”，再演变到“天赋”，何为天赋，a natural ability to be good at something, especially without being taught，重点落在“natural”和“without being taught”，就是说是神给的，是不是又回到了这段经文了？
 主给了我们五分天赋，两分天赋还是只有一分，都不重要，重要的是祂希望我们去好好用这个天赋，呈现更多的精彩，来荣耀神赐的恩典，而不是把天赋埋在土里，让宝石蒙尘、暴殄天物。
+
+这？不对吧。再读一遍，应该是为了符合的pattern这么翻译的，虽有理由，但的确不完美了。虽然 创 6:2 写道“天主的儿子见人的女儿美丽，就随意选取，作为妻子”，但毕竟那时还未有耶稣，而且luke第三章前几节就有“我的爱子”。
