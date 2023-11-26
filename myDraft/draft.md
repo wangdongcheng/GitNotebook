@@ -86,8 +86,32 @@ As for me and my household, we will serve Adonai! (CJB)
 
 > 刻南是厄诺士的儿子，厄诺士是舍特的儿子，舍特是亚当的儿子，亚当是天主的儿子。 (路 3:38)
 
-嗯？亚当是天主的儿子？这讲法不对吧。再读一遍，猜测应该是为了符合上下文的“A是B的儿子”的pattern这么翻译的，虽有理由，但感觉有歧义了。虽然one could argue《创世纪》(6:2)写过“天主的儿子见人的女儿美丽，就随意选取，作为妻子”，但毕竟那时还未有耶稣，这个表述在成文的当时是没有歧义的。而且路加福音第三章前几节(3:22)刚有提到“我的爱子”。
+嗯？亚当是天主的儿子？这讲法不对吧。再读一遍，猜测应该是为了符合上下文的“A是B的儿子”的pattern这么翻译的，虽有理由，但是有歧义。虽然one could argue《创世纪》(6:2)写过“天主的儿子见人的女儿美丽，就随意选取，作为妻子”，但毕竟那时还未有耶稣，这个表述在成文的当时是没有歧义的。而且路加福音第三章前几节(3:22)刚有提到“我的爱子”。
 
 > 圣神藉着一个形像，如同鸽子，降在他上边；并有声音从天上说：“你是我的爱子，我因你而喜悦。” (路 3:22)
 
-在同一章里按道理不会用类似的父子关系的表述而使读者混淆。
+在同一章里按道理不会用类似的父子关系的表述而使读者混淆。和合本用的是同样的表述，再往前查看《天主教萧静山神父译本》，38节是这么写的，
+
+> 該南是厄奧斯的；厄奧斯是塞德的，塞德是亞當的；亞當是天主造的。
+
+意思对了，读起来感觉又没了。难道是中文翻译的缘故？看英语的，大为不同，KJV整个23~38节，用从句递归的方式，语法是“A，which was the son of B, which was the son of C...”，反复调用自己，从耶稣追溯到耶和华。但38节是：
+
+> which was the son of Enos, which was the son of Seth, which was the son of Adam, which was the son of God. (KJV)
+
+问题仍然没有解决，还是有一个son of God。带着疑问，继续参考其他版本，RSV也是和KJV类似结构，但语法略有不同，RSV是“A, the son of B, the son of C...”, 还是带个son，38节是：
+
+> the son of Enos, the son of Seth, the son of Adam, the son of God. (RSV)
+
+翻到了CJB (Complete Jewish Bible)，疑问似乎得到了解答，CJB的翻译是，“A, of B, of C...”，从23到38节：
+
+> Yeshua was about thirty years old when he began his public ministry. It was supposed that he was a son of Yosef who was of Eli, of Mattat, of Levi, of Malki, of Yannai, of Yosef, of Mattityahu, of Amotz, of Nachum, of Hesli, of Naggai 
+> ...
+> of Enosh, of Shet, of Adam, of God. (CJB)
+
+这个翻译并不阐明父子关系，只是从节点寻找节点的出处，单纯地在生命之树一步一步往上攀爬，与其说是“父子”，更像是“来自于”的意思表达，亚当，来自于神，由神所造，CJB的翻译应该是更符合原意的，查阅了几个希腊语圣经的主流版本，即使不懂希腊语，也能识别出这个句子的结构。
+
+我个人觉得这样翻译更简约，因为语句的短小凝练，更为有力量，兼具了语言的准确性、历史的穿透性和美的传播性。
+
+![Alt text](1701008567021.jpg)
+
+
