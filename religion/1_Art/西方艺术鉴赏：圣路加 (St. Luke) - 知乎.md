@@ -1,4 +1,4 @@
-![](../img/0008/v2-529b675c39dad4f41af36a21b8d3e574_1440w.avif)
+![](../../img/0008/v2-529b675c39dad4f41af36a21b8d3e574_1440w.avif)
 # 西方艺术鉴赏：圣路加 (St. Luke) - 知乎
 https://zhuanlan.zhihu.com/p/61925052
 
@@ -6,7 +6,7 @@ _（未经本人允许，请不要转载、引用、抄袭！）_
 
 **圣路加（Luke）**：由于最近看书和听节目，"圣路加公会"这个词时常在耳边萦绕，所以到这里我有必要写一下圣路加同学了。他是《圣经新约》中《路加福音》（ Gospel of Luke）和《使徒行传》（the Acts of the Apostles）的作者。虽然“路加”这个名字具有较高的知名度，但是《圣经》中只提到他三次，因此有关他的背景介绍并不详细（但是这个部分我竟然写了整整三天是怎么回事 -_-!）。普遍认为，路加出生在安提俄克（古叙利亚首都，现土耳其南部城市），活到84岁。
 
-![](../img/0008/v2-0d2b0c0b72ef1febcf5249301b9778c8_r.png)
+![](../../img/0008/v2-0d2b0c0b72ef1febcf5249301b9778c8_r.png)
 
 Maarten van Heemskerck - St. Luke painting the Virgin 1532
 
@@ -25,7 +25,7 @@ Maarten van Heemskerck - St. Luke painting the Virgin 1532
 
 同时，路加可能从施浸者约翰的母亲伊利莎白知道约翰出生的事。他也可能从耶稣的母亲玛利亚口中知道耶稣的诞生和他早年生活的细节。也许是使徒彼得、雅各或约翰把捕鱼的奇迹告诉了他。《路加福音》还记述了**耶稣所说的某些寓言，是别的福音书没有的**，例如：善心的撒马利亚人(the Good Samaritan 、失去的银币（the Lost Coin）、浪子回头(the Prodigal Son)，以及富翁与拉撒路(the Rich Man and the Beggar Lazarus) 。
 
-![](../img/0008/v2-8fdd5a884f06952fa37d7a2efcdfaf7d_720w.webp)
+![](../../img/0008/v2-8fdd5a884f06952fa37d7a2efcdfaf7d_720w.webp)
 
 Hermen Rode - inspiration of St. Luke 路加的灵感 （祭坛画一部分）1484
 
@@ -33,15 +33,15 @@ Hermen Rode - inspiration of St. Luke 路加的灵感 （祭坛画一部分）14
 
 看到各种风格的“**Zacchaeus上树图**”，实在忍不住和大家分享下 (捂脸）。
 
-![](../img/0008/v2-38b81e47ba14cea48349a70003d45b35_r.jpg)
+![](../../img/0008/v2-38b81e47ba14cea48349a70003d45b35_r.jpg)
 
-![](../img/0008/v2-6cae05658bf457958a348cf0a0d9b5d0_r.jpg)
+![](../../img/0008/v2-6cae05658bf457958a348cf0a0d9b5d0_r.jpg)
 
 作为福音书作者之一，圣路加的标志是一头**长着翅膀的小公牛，**象征着牺牲、服务和力量。它代表耶稣被钉死在十字架上的牺牲，提醒基督徒们追随耶稣，应该随时准备好牺牲自己。
 
 ↓ 下图是收藏在牛津大学Bodleian图书馆的一本亚美尼亚福音书手稿的封面，可以看到路加拿着笔在书写，以及右边他的象征：长着翅膀的牛
 
-![](../img/0008/v2-c647d9c1fb6cb1c84bd86e433f50301f_r.png)
+![](../../img/0008/v2-c647d9c1fb6cb1c84bd86e433f50301f_r.png)
 
 Luke as depicted in the head-piece of an Armenian Gospel manuscript from 1609, held at the Bodleian Library
 
@@ -54,7 +54,7 @@ Luke as depicted in the head-piece of an Armenian Gospel manuscript from 1609, h
 
 ↓ 这里乱入两张2018年的电影“基督的使徒保罗 (**Paul, Apostle of Christ**)”的截图。是路加（Jim Caviezel饰）去看望狱中保罗（James Faulkner饰）的情景 （更多影评可参考： [Paul - An Apostle of Christ](https://link.zhihu.com/?target=https%3A//www.readthespirit.com/visual-parables/paul-apostle-christ-2018/)）
 
-![](../img/0008/v2-af67f16785c2ab7d484d032772235b37_r.png)
+![](../../img/0008/v2-af67f16785c2ab7d484d032772235b37_r.png)
 
 保罗要向凯撒（Caesar）上诉，总督就把保罗送往罗马。路加对保罗不离不弃，伴随他长途跋涉地前往意大利，还把船遇到风暴搁浅的经过生动地记述下来。保罗在罗马住宿的地方，有不少传道活动。路加很可能在那里认识了保罗的一些同伴，例如马可、以巴弗、奥尼西慕（Mark, Epaphroditus, Onesimus）等等（歌罗西书 Colossians 4:7-14）。
 
@@ -62,7 +62,7 @@ Luke as depicted in the head-piece of an Armenian Gospel manuscript from 1609, h
 
 保罗第二次入狱，深知自己不久就要以身殉道。这时，尽管其他人都离保罗而去，冒着自己也可能丧失自由的风险，路加却始终如一地陪伴他。保罗在信中（2 Timothy 4:11）写到:“现在只有路加在我这里（Only Luke is with me）。”据传统说法，保罗不久就被斩首了。
 
-![](../img/0008/v2-5a511759bb7580c8b4912ff60d60309b_r.png)
+![](../../img/0008/v2-5a511759bb7580c8b4912ff60d60309b_r.png)
 
 **_第三方面_**，关于他的职业。
 ------------------
@@ -75,37 +75,37 @@ Luke as depicted in the head-piece of an Armenian Gospel manuscript from 1609, h
 
 当然，还有宽容的学者指出，虽然路加的叙述具有选择性，以符合他的传道目的，但这仍然是符合古代史学标准的。这种看法得到其他学者的支持，认为路加作为历史叙述者面临"特殊的写作对象和消息来源的局限性"这些困难。
 
-![](../img/0008/v2-9f36897a2429311243660fd7025297ac_r.png)
+![](../../img/0008/v2-9f36897a2429311243660fd7025297ac_r.png)
 
 ### △ **画家：** (嗯，终于说到这儿了)
 
 据说他曾为圣母玛利亚和圣婴耶稣绘制肖像。自八世纪，基督教就普遍认为，路加是历史上第一位“肖像画家”（**icon painter**，肖像画家其实翻译得并不精准，我觉得icon在这里反应的是一种**标志性的符号特征**，比如这个脸和这个姿势让人一看就知道是圣母和圣婴，大家体会一下，我暂时还想不到更贴切的翻译）。
 
-![](../img/0008/v2-34330fa78b2c6dc9c015db60b2b5bdc8_r.png)
+![](../../img/0008/v2-34330fa78b2c6dc9c015db60b2b5bdc8_r.png)
 
 Jan Gossaert (also known as Mabuse) - St. Luke Painting the Madonna 1520
 
 **赫德格里亚（Hodegetria）**是一类肖像画的统称，描绘的是圣母玛利亚（又叫 Theotokos），一手抱着圣婴耶稣，同时另一只手指向他，象征他是人类的救赎之源。玛利亚的头通常倾向于孩子，孩子通常会举起手来作出祝福的姿势。在天主教中，这种圣像有时被称为“Our Lady of the Way”。
 
-![](../img/0008/v2-b7a29ca5d81316dc962eae3341002b63_r.png)
+![](../../img/0008/v2-b7a29ca5d81316dc962eae3341002b63_r.png)
 
 Rogier van der Weyden - Saint Luke Drawing the Virgin 1435–1440
 
-![](../img/0008/v2-6d5ad2ebcbd9a054c20b97eeca569c1c_r.jpg)
+![](../../img/0008/v2-6d5ad2ebcbd9a054c20b97eeca569c1c_r.jpg)
 
 Jan Gossaert - St. Luke drawing the Virgin 1515 三联画的一部分
 
-![](../img/0008/v2-6c0a0337f171b92f82835aaba4876d82_r.png)
+![](../../img/0008/v2-6c0a0337f171b92f82835aaba4876d82_r.png)
 
 Giorgio Vasari - St. Luke Painting the Virgin 1565
 
 有一幅据说由圣路加亲自绘制的最受尊敬的Hodegetria，开始存放于专为展示该肖像而建的君士坦丁堡(Constantinople) 的Panaghia Hodegetria修道院中。不同于大多数后来的复制品，它显示了圣母玛利亚的全身，而且画是双面的，另一面是耶稣被钉于十字架。据说这幅画由狄奥多西二世(emperor Theodosius II，公元408-450年)的妻子欧多西亚（Eudocia）从圣地（the Holy Land）带回。该作品被认为“**可能是拜占庭最著名的宗教物品**”。尽管有不同传闻声称画作后来被带到俄罗斯或意大利，但可惜的是，我们现在已无法看到真迹。此后，画家们开始创作大量的复制品，其中也包括自成传统的许多具有崇高地位的俄罗斯的圣母子形象。11世纪开始，又有一部分作品发现可能是圣路加的签名作品。比如Black Madonna of Częstochowa和Our Lady of Vladimir。
 
-![](../img/0008/v2-ff026d60a8c2f2cc3583c8e755c892b8_r.png)
+![](../../img/0008/v2-ff026d60a8c2f2cc3583c8e755c892b8_r.png)
 
 Our Lady of Częstochowa
 
-![](../img/0008/v2-6f4abc990ea9f3dceec4754766562aab_r.png)
+![](../../img/0008/v2-6f4abc990ea9f3dceec4754766562aab_r.png)
 
 Our Lady of Vladimir
 
@@ -119,7 +119,7 @@ Our Lady of Vladimir
 
 ↓ 下图收藏于剑桥大学圣凯瑟琳学院（St Catharine's College, University of Cambridge）
 
-![](../img/0008/v2-606fe05a8b1c136a2f774f66cdb6cd86_r.jpg)
+![](../../img/0008/v2-606fe05a8b1c136a2f774f66cdb6cd86_r.jpg)
 
 Gonzales Coques - A Group of Flemish Gentlemen (known as &amp;amp;amp;#39;The Guild of Saint Luke, Antwerp&amp;amp;amp;#39;)
 
@@ -129,7 +129,7 @@ Gonzales Coques - A Group of Flemish Gentlemen (known as &amp;amp;amp;#39;The Gu
 
 ↓ 下图作者（大概是左起第四个）是当时圣路加公会的会长，中间手拿画刷和调色盘的女人，从她所佩戴的勋章（medallion）来看，是安特卫普皇家美术学院的主保圣人女皇玛丽·特蕾莎（Empress Maria Theresa）
 
-![](../img/0008/v2-1f78dba75459cc617b706e4db743f961_r.png)
+![](../../img/0008/v2-1f78dba75459cc617b706e4db743f961_r.png)
 
 Balthasar Beschey - The Allegory of Painting among the Men of the Royal Academy of Arts of Antwerp and of the Guild of Saint Luke
 
@@ -139,7 +139,7 @@ Balthasar Beschey - The Allegory of Painting among the Men of the Royal Academy 
 
 ↓ 下图中，作者布雷把自己画在了左数第二个，画中其他人物还有布雷的哥哥Dirck de Bray（右上）和Wouter Knijff（最左）。这里还要说一个有趣的事实，画家公会的集体肖像在所有公会团体中是数量最少的。
 
-![](../img/0008/v2-4d820ceb16f089eab20c2fe1111661b9_r.png)
+![](../../img/0008/v2-4d820ceb16f089eab20c2fe1111661b9_r.png)
 
 Jan de Bray - The governors of the guild of St. Luke, Haarlem, 1675
 
@@ -151,13 +151,13 @@ Jan de Bray - The governors of the guild of St. Luke, Haarlem, 1675
 
 从16世纪晚期到后来迁址之前，它位于罗马广场(Forum) 旁边的一个都市街区，尽管学院建筑已经不复存在，但Santi Luca e Martina学院教堂仍然矗立。由巴洛克建筑师Pietro da Cortona设计，其正面俯瞰着罗马广场（去过罗马的一定见过）。
 
-![](../img/0008/v2-209c6bb79b0da17b64086b04f8d1baba_r.png)
+![](../../img/0008/v2-209c6bb79b0da17b64086b04f8d1baba_r.png)
 
 几百年来，无数优秀的画家、雕塑家或建筑家曾担任该学院的校长，比如著名雕塑家贝尼尼（Gian Lorenzo Bernini）就是圣路加学院1621年和1630年的校长，而法国画家尼古拉斯·普桑（Nicolas Poussin）则在1657年也短暂地担任过校长。
 
 如今该学院仍然活跃，现代名称叫做“罗马国家圣路加学院（Accademia Nazionale di San Luca）”，位于圣路加学院广场(Piazza dell’accademia di San Luca)的卡佩尼亚宫（Carpegna Palazzo）。从一开始，学院的章程就规定每位候选人都要捐赠一件自己的作品作为永久的纪念，后来，改为捐赠一幅肖像。到现在，该学院已收藏了一大批独特的绘画和雕塑，包括大约500幅肖像画，以及一系列杰出的素描作品。
 
-![](../img/0008/v2-05142dc74392bd08a19e1c5dd1179747_r.jpg)
+![](../../img/0008/v2-05142dc74392bd08a19e1c5dd1179747_r.jpg)
 
 ### △ **医生：** 
 
@@ -171,6 +171,6 @@ Jan de Bray - The governors of the guild of St. Luke, Haarlem, 1675
 
 _**（文章未经本人允许的转载、引用、抄袭等，必追究法律责任！）**_
 
-![](../img/0008/v2-9d17016e1ec70ab4acf78701915f0f71_r.png)
+![](../../img/0008/v2-9d17016e1ec70ab4acf78701915f0f71_r.png)
 
 ### 《基督教题材艺术作品中经常出现的人物以及如何分辨》其他内容请在下面的文章中寻找链接：
