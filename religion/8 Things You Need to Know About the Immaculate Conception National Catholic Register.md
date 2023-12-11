@@ -1,6 +1,14 @@
 # 8 Things You Need to Know About the Immaculate Conception| National Catholic Register
 https://www.ncregister.com/blog/8-things-you-need-to-know-about-the-immaculate-conception-bv9oa7nm
 
+![Alt text](../img/immaculate_conception.png)
+
+> *Immaculate Conception by Antonio Licata (1820). (photo: Renata Sedmakova / Shutterstock)*
+
+Jimmy Akin | Blogs | December 3, 2021
+
+---
+
 December 8 marks the Solemnity of the Immaculate Conception.
 
 December 8th marks the feast of the Immaculate Conception. It celebrates an important point of Catholic teaching, and it is a holy day of obligation.
