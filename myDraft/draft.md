@@ -282,3 +282,13 @@ http://archive.hsscol.org.hk/Archive/reference/pslam/
 “教宗无谬论”不是说教宗每句话都对，只是他若动用了这个权柄发布了诏书，则等同于他那一刻作为宗徒长圣伯多禄（Peter）的继任者说话，简单来说就等同于《圣经》中圣伯多禄直接讲话，天主教徒全盘接受，认为其不可能会错。这也构成了引发宗教改革的，圣经之外的，尚有争议但天主教徒必须采信的，“圣传（chuán）”的来源。
 
 附：「聖母始胎無染原罪」信理的發展 (https://musicasacra.org.hk/publish/Season/Tota%20Pulchra/12tota.pdf)
+
+## The Epistle of Ignatius to the Romans
+...
+I write to the Churches, and impress on them all, that I shall willingly die for God, unless you hinder me. I beseech of you not to show an unseasonable good-will towards me. Allow me to become food for the wild beasts, through whose instrumentality it will be granted me to attain to God. I am the wheat of God, and let me be ground by the teeth of the wild beasts, that I may be found the pure bread of Christ. Rather entice the wild beasts, that they may become my tomb, and may leave nothing of my body; so that when I have fallen asleep [in death], I may be no trouble to any one. Then shall I truly be a disciple of Christ, when the world shall not see so much as my body. Entreat Christ for me, that by these instruments I may be found a sacrifice [to God]. I do not, as Peter and Paul, issue commandments unto you. They were apostles; I am but a condemned man: they were free, while I am, even until now, a servant. But when I suffer, I shall be the freed-man of Jesus, and shall rise again emancipated in Him. And now, being a prisoner, I learn not to desire anything worldly or vain.
+
+最为令人动容的段落，来自于圣伊纳爵走向狮子笼前的书信，尝试翻译，请大家指点。
+
+“我写给教会，希望弟兄们铭记。坦然赴死为我心所愿，不要阻挠。你们情之切念之善我已知，我意之坚决也望你们知。让我成为野兽的餐食吧，当我从野兽的利爪利齿间滑落时，终成为上主的麦子，成为基督的圣体，终回归上主。希望我能合野兽的口味，希望野兽们胃口好，希望全部的我都进入这激烈的坟墓，不要有残体留存。待我回归宁静，终将一无所缺。当我肉体消亡那刻，即是以门徒之幸得见基督之时。为此我祈求天主，让我遂此心意得此殊荣。我非彼得保罗那样使徒早得祢赦免，我直到此刻仍是有罪之仆。须臾，待我葬生野兽口腹，我将涤净罪愆，在基督内重获兴起欢享自由。
+
+此刻，我无所求，眼前虽有牢笼困，早无俗事在心头。”
