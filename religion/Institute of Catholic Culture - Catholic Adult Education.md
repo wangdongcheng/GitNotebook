@@ -29,7 +29,7 @@ Now that we understand St. Matthew's focus in his Infancy Narrative, we are stil
 
 The answer to this question is simple. In the original Greek text of Matthew's Gospel, the word that is translated in our English Bible as "until" is _heos_. _Heos_, in the present context, does not indicate a change of state at some future time as our English word "until" often does, but rather is bound to the time in which the statement is referring. In other words, _heos_ simply indicates that Joseph and Mary had no marital relations that would have resulted in Mary's pregnancy.
 
-To see a clear example of the use of _heos_ that does not indicate a change of state in the future, turn to the final verse of Matthew's Gospel, where we read of Christ's final promise: "And lo, I am with you always, until (_heos_) the end of the age" (Matt 28:20; see also Matt 22:44)[^1]. Here, the use of the word _heos_ in the original Greek clearly does not mean that the Christ will cease to be with us when this age is complete.
+To see a clear example of the use of _heos_ that does not indicate a change of state in the future, turn to the final verse of Matthew's Gospel, where we read of Christ's final promise: "And lo, I am with you always, until (_heos_) the end of the age" (Matt 28:20[^1]; see also Matt 22:44). Here, the use of the word _heos_ in the original Greek clearly does not mean that the Christ will cease to be with us when this age is complete.
 
 Another example of this is found in 1 Timothy 4:13, where we read, "Until I come, attend to the public reading of Scripture, to preaching, to teaching." Clearly, St. Paul does not hope that his disciple will cease reading the Scriptures, preaching and teaching once St. Paul has visited him.
 
