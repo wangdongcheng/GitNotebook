@@ -5,7 +5,9 @@ If you just read Deacon Sabatino's article about St. Matthew's infancy narrative
 
 For those who are not on our email list - [click here and sign up](https://www.instituteofcatholicculture.org/ "Homepage")! And then read his entire article below - Deacon Sabatino is responding to several questions he received about Mary's perpetual virginity, when St. Matthew states that she remained a virgin "until" giving birth to Jesus.  Read this, and meditate on the Word of God and the revelation of the Incarnation of our Savior.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---
+
+> but knew her not **until** she had borne a son; and he called his name Jesus. (MATTHEW 1:25 RSV)
 
 **Until?**
 
@@ -27,7 +29,7 @@ Now that we understand St. Matthew's focus in his Infancy Narrative, we are stil
 
 The answer to this question is simple. In the original Greek text of Matthew's Gospel, the word that is translated in our English Bible as "until" is _heos_. _Heos_, in the present context, does not indicate a change of state at some future time as our English word "until" often does, but rather is bound to the time in which the statement is referring. In other words, _heos_ simply indicates that Joseph and Mary had no marital relations that would have resulted in Mary's pregnancy.
 
-To see a clear example of the use of _heos_ that does not indicate a change of state in the future, turn to the final verse of Matthew's Gospel, where we read of Christ's final promise: "And lo, I am with you always, until (_heos_) the end of the age" (Matt 28:20; see also Matt 22:44). Here, the use of the word _heos_ in the original Greek clearly does not mean that the Christ will cease to be with us when this age is complete.
+To see a clear example of the use of _heos_ that does not indicate a change of state in the future, turn to the final verse of Matthew's Gospel, where we read of Christ's final promise: "And lo, I am with you always, until (_heos_) the end of the age" (Matt 28:20; see also Matt 22:44)[^1]. Here, the use of the word _heos_ in the original Greek clearly does not mean that the Christ will cease to be with us when this age is complete.
 
 Another example of this is found in 1 Timothy 4:13, where we read, "Until I come, attend to the public reading of Scripture, to preaching, to teaching." Clearly, St. Paul does not hope that his disciple will cease reading the Scriptures, preaching and teaching once St. Paul has visited him.
 
@@ -36,3 +38,5 @@ Finally, my favorite example to help us understand St. Matthew's use of the word
 With a clearer understanding of St. Matthew's motives and his linguistic background, we are able to read the narrative of the birth of Christ in its original sense and not read into the text more than the author had originally meant. St. Matthew proclaims the Good News to us: the Eternal Word of God is with us - Emmanuel has been born! In no way can we deny it, for Joseph did not have any relations with her "_heos_" she had born a son" (Matthew 1:25).
 
 Christ is born!  Glorify Him!
+
+[^1]: 
