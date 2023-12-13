@@ -39,4 +39,5 @@ With a clearer understanding of St. Matthew's motives and his linguistic backgro
 
 Christ is born!  Glorify Him!
 
-[^1]: 
+[^1]: διδάσκοντες αὐτοὺς τηρεῖν πάντα ὅσα ἐνετειλάμην ὑμῖν: καὶ ἰδοὺ ἐγὼ μεθ᾽ ὑμῶν εἰμὶ πάσας τὰς ἡμέρας ἕως τῆς συντελείας τοῦ αἰῶνος. ([ΚΑΤΑ ΜΑΘΘΑΙΟΝ 28:20](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0155%3Abook%3DMatthew%3Achapter%3D28%3Averse%3D20))  
+[ἕως](https://www.perseus.tufts.edu/hopper/morph?l=e%28%2Fws&la=greek&can=e%28%2Fws0&prior=h(me/ras&d=Perseus:text:1999.01.0155:book=Matthew:chapter=28:verse=20&i=1)
