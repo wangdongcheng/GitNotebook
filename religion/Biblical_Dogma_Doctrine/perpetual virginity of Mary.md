@@ -1,4 +1,4 @@
-# Institute of Catholic Culture - Catholic Adult Education
+# Perpetual Virginity of Mary
 https://instituteofcatholicculture.org/articles/the-perpetual-virginity-of-mary/
 
 If you just read Deacon Sabatino's article about St. Matthew's infancy narrative and the wondrous mystery of the Incarnation, you may be interested in reading Subdeacon Sebastian Carnazzo's article on the perpetual virginity of Mary. [Click here to read the entire article.](http://www.instituteofcatholicculture.org/wp-content/uploads/2013/12/The-Perpetual-Virginity-of-Mary.pdf)
