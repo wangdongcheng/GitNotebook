@@ -1,6 +1,8 @@
 # What the Early Church Believed: The Meaning of "Catholic" | Catholic Answers Tract
 https://www.catholic.com/tract/what-catholic-means
 
+![](../img/0000/wuNrQxCe.jpeg)
+
 The Greek roots of the term “Catholic” mean “according to (_kata_-) the whole (_holos_),” or more colloquially, “universal.” At the beginning of the second century, we find in the letters of Ignatius the first surviving use of the term “Catholic” in reference to the Church. At that time, or shortly thereafter, it was used to refer to a single, visible communion, separate from others.
 
 The term “Catholic” is in the Apostles’, Nicene, and Athanasian creeds, and many Protestants, claiming the term for themselves, give it a meaning that is unsupported historically, ignoring the term’s use at the time the creeds were written.
