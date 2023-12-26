@@ -327,3 +327,7 @@ I write to the Churches, and impress on them all, that I shall willingly die for
 行文至此，很是杂乱，无妨，相信言犹不及之处，圣神会帮我补足。希望赵神父保重身体，一切顺利，我们也可以荣幸地沐浴在福音之中。
 
 愿光荣归於父、及子、及圣神。起初如何，今日亦然，直到永远。阿们。
+
+
+
+                                                                王冬骋
