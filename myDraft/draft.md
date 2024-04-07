@@ -354,6 +354,7 @@ I write to the Churches, and impress on them all, that I shall willingly die for
 时间是飞快的，既然眼下和大家暂别的时刻这么快地到来了，将来和大家重逢的时刻也会很快地到来！
 
 江湖再见，大家珍重！
+（我这次只是先过去考察一个月，5月中就回上海的，回来了就找你们蹭饭）
 
 王冬骋
 
