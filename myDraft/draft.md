@@ -353,7 +353,7 @@ I write to the Churches, and impress on them all, that I shall willingly die for
 
 时间是飞快的，既然眼下和大家暂别的时刻这么快地到来了，将来和大家重逢的时刻也会很快地到来！
 
-山高水远，江湖再见，大家珍重！
+江湖再见，大家珍重！
 
 王冬骋
 
