@@ -36,6 +36,10 @@
                 counter(h6counter) ".\0000a0\0000a0";
     }
 </style>
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({ tex2jax: {inlineMath: [['$', '$']]}, messageStyle: "none" });
+</script>
 
 # AMC8 秋季班
 ## 等差数列
@@ -73,7 +77,7 @@
 4) （1988年真题19）What is the 100th number in arithmetic sequence: $1,5,9,13,17,21,25,\ldots$？  
 等差数列$1,5,9,13,17,21,25,\ldots$第100项是？
 
-$（{\it} n^{\circ}）$
+<p hidden>$（{\it} n^{\circ}）$</p>
 
 
 
