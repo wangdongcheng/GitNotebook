@@ -73,6 +73,7 @@
 4) （1988年真题19）What is the 100th number in arithmetic sequence: $1,5,9,13,17,21,25,\ldots$？  
 等差数列$1,5,9,13,17,21,25,\ldots$第100项是？
 
+$（{\it} n^{\circ}）$
 
 
 
