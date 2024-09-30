@@ -60,21 +60,21 @@
 &nbsp;  
 &nbsp;  
 &nbsp;  
-2) 计算：$(2+4+6+ \ldots +100) -(1+3+5+ \ldots +99)$；
+1) 计算：$(2+4+6+ \ldots +100) -(1+3+5+ \ldots +99)$；
 &nbsp;  
 &nbsp;  
 &nbsp;  
 &nbsp;  
 &nbsp;  
 &nbsp;  
-3) 计算：$1000-9-99-8-98-7-97-6-96-5-95-4-94-3-93-2-91-1-1$；
+1) 计算：$1000-9-99-8-98-7-97-6-96-5-95-4-94-3-93-2-91-1-1$；
 &nbsp;  
 &nbsp;  
 &nbsp;  
 &nbsp;  
 &nbsp;  
 &nbsp;  
-4) （1988年真题19）What is the 100th number in arithmetic sequence: $1,5,9,13,17,21,25,\ldots$？  
+1) （1988年真题19）What is the 100th number in arithmetic sequence: $1,5,9,13,17,21,25,\ldots$？  
 等差数列$1,5,9,13,17,21,25,\ldots$第100项是？
 
 <p hidden>$（{\it} n^{\circ}）$</p>
