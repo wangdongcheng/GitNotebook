@@ -21,7 +21,8 @@ WHERE OD_ORDER_NUMBER = '767658'
 
 SELECT TOP (10)
     *
-FROM VJSCL.dbo.SL_TRANSACTIONS -- invoice table
+FROM VJSCL.dbo.SL_TRANSACTIONS
+-- invoice table
 WHERE ST_HEADER_REF = '651978'
 -- '651978' is the transaction header reference, the invoice number
 ;
@@ -55,5 +56,13 @@ SELECT TOP (10)
     stk_usrchar5, -- this is the barcode
     *
 FROM VJSCL.dbo.STK_STOCK3
-WHERE STKCODE3 = '30TMP_836945' -- '30TMP_836945' is the stock code, the product code
-    ;
+WHERE STKCODE3 = '30TMP_836945'
+-- '30TMP_836945' is the stock code, the product code
+;
+
+select CU_TABFIELD_14
+from VJSCL.dbo.LANG_TABCARD
+where LANGCODE_TABCARD='ENGLISH'
+;
+
+    
