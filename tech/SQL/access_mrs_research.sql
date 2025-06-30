@@ -37,6 +37,12 @@ where DET_HEADER_REF = '651978'
 
 SELECT TOP (10)
     *
+from VJSCL.dbo.STK_STOCK
+WHERE STKCODE = '30TMP_836945'
+;
+
+SELECT TOP (10)
+    *
 from VJSCL.dbo.STK_STOCK_2
 where STKCODE2 = '30TMP_836945'
 -- '30TMP_836945' is the stock code, the product code
