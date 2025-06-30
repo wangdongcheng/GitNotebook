@@ -5,9 +5,9 @@ https://nolongerset.com/setting-sql-server-field-descriptions/
 
 There are two basic ways to set field descriptions in SQL Server: via SSMS and T-SQL. Let's explore both.
 
-*    [![](https://github.com/wangdongcheng/GitNotebook/blob/main/img/imghost/30-06-2025,%2010-45-57/104cfb01-1e9f-4fd8-9b12-0cba68dc8e00.jpeg?raw=true)](https://nolongerset.com/author/mike/) 
+*    [![](../../img/imghost/30-06-2025,%2010-45-57/104cfb01-1e9f-4fd8-9b12-0cba68dc8e00.jpeg?raw=true)](https://nolongerset.com/author/mike/) 
 
-![](https://github.com/wangdongcheng/GitNotebook/blob/main/img/imghost/30-06-2025,%2010-45-57/a6e12b3f-6bde-4101-b690-6d7f001fdd2f.jpeg?raw=true)
+![](../../img/imghost/30-06-2025,%2010-45-57/a6e12b3f-6bde-4101-b690-6d7f001fdd2f.jpeg?raw=true)
 
 _This is Part 2 in a [series of articles](https://nolongerset.com/field-comments-on-linked-tables/) discussing field comments on linked tables._
 
@@ -31,7 +31,7 @@ Setting the description via the GUI
 
 In SQL Server Management Studio (SSMS), you can right-click on an existing table and choose "Design."  Then, in the table designer, place your cursor in the row of the column whose description you want to set.  The "Column Properties" tab will appear below the table designer.  Simply set the "Description" value to whatever you want.  Be sure to hit the save button to apply the changes to the table:
 
-![](https://github.com/wangdongcheng/GitNotebook/blob/main/img/imghost/30-06-2025,%2010-45-57/ad434a5d-50a4-4587-9233-ecb59c5af94a.png?raw=true)
+![](../../img/imghost/30-06-2025,%2010-45-57/ad434a5d-50a4-4587-9233-ecb59c5af94a.png?raw=true)
 
 Don't forget step 3: save your changes!
 
@@ -51,7 +51,7 @@ T-SQL to Add a New Field Description
 
 The following T-SQL will add a field description to the `PhoneNum` field in the `Contact` table within the default `dbo` schema using the built-in stored procedure [sp\_AddExtendedProperty](https://docs.microsoft.com/en-us/sql/relational-databases/system-stored-procedures/sp-addextendedproperty-transact-sql?view=sql-server-ver15&ref=nolongerset.com):
 
-```
+```sql
 exec sp_AddExtendedProperty 
       'MS_Description'
     , 'The phone number (e.g., "(555) 253-5970 x1150"'
@@ -68,7 +68,7 @@ T-SQL to Update an Existing Field Description
 
 The above T-SQL will fail if the _MS\_Description_ extended property already exists on the table.  In that case, we would need to use the [sp\_UpdateExtendedProperty](https://docs.microsoft.com/en-us/sql/relational-databases/system-stored-procedures/sp-updateextendedproperty-transact-sql?view=sql-server-ver15&ref=nolongerset.com) stored procedure instead.  For example:
 
-```
+```sql
 exec sp_UpdateExtendedProperty 
       'MS_Description'
     , 'The phone number (e.g., "555-253-5970"'
