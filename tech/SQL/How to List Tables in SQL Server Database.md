@@ -18,7 +18,7 @@ Introduced in SQL Server 2005, catalog views provide the most consistent informa
 The catalog views hierarchy is structured in two "tiers." The upper tier comprises sys.objects — the view containing comprehensive information about all schema-scoped objects in a particular database. The lower tier includes views like sys.tables, sys.views, and sys.procedures, along with other custom database-specific views. It's important to note that these lower-tier views inherit all columns from sys.objects, in addition to their unique columns.  
 目录视图的层次结构分为两层。上层包含 sys.objects，该视图包含特定数据库中所有架构范围内对象的综合信息。下层包含 sys.tables、sys.views 和 sys.procedures 等视图，以及其他自定义数据库特定视图。需要注意的是，这些下层视图除了继承其特有列外，还继承了 sys.objects 的所有列。
 
-![](https://github.com/wangdongcheng/GitNotebook/blob/main/img/imghost/30-06-2025,%2009-55-51/43d9396f-398e-48f3-b7b1-85652b8cbb7b.svg%2Bxml?raw=true)
+![](../../img/imghost/30-06-2025,%2009-55-51/43d9396f-398e-48f3-b7b1-85652b8cbb7b.svg)
 
 As these system catalog views provide information about all schema objects, they can list the database tables for users in SQL Server provided that they have the sys.tables view permissions. The database owners have them by default, other users need such permissions assigned to them.  
 由于这些系统目录视图提供了所有架构对象的信息，因此只要用户拥有 sys.tables 视图权限，它们就可以列出 SQL Server 中用户的数据库表。数据库所有者默认拥有这些权限，其他用户则需要分配此类权限。
@@ -30,13 +30,13 @@ Use sys.tables to list tables
 The sys.tables system catalog view is the default method for listing tables in SQL Server databases — it provides a comprehensive list of all user tables stored in the current database (you can switch to another database by specifying its name in the query).  
 sys.tables 系统目录视图是列出 SQL Server 数据库中表的默认方法 - 它提供了存储在当前数据库中的所有用户表的综合列表（您可以通过在查询中指定其名称来切换到另一个数据库）。
 
-```
+```sql
 SELECT 
   name 
 FROM sys.tables;
 ```
 
-![](https://github.com/wangdongcheng/GitNotebook/blob/main/img/imghost/30-06-2025,%2009-55-51/a4fd9a40-cc31-44bd-9854-841d1734798b.png?raw=true)
+![](../../img/imghost/30-06-2025,%2009-55-51/a4fd9a40-cc31-44bd-9854-841d1734798b.png?raw=true)
 
   
 
@@ -52,7 +52,7 @@ Use sys.objects to list tables
 As mentioned previously, sys.objects is the primary system catalog view in SQL Server where you can access the information about all schema objects, not limited to tables alone. If you specifically require a list of particular objects, such as tables, you can apply a filter using the WHERE clause:  
 如前所述，sys.objects 是 SQL Server 中的主要系统目录视图，您可以在其中访问有关所有架构对象的信息，而不仅限于表。如果您特别需要特定对象（例如表）的列表，则可以使用 WHERE 子句应用过滤器：
 
-```
+```sql
 SELECT 
   name  
 FROM sys.objects  
@@ -62,7 +62,7 @@ WHERE type = 'U';
 In this query, U stands for the user table. The output is:  
 在此查询中，U 代表用户表。输出为：
 
-![](https://github.com/wangdongcheng/GitNotebook/blob/main/img/imghost/30-06-2025,%2009-55-51/14174b7b-2cb6-45ed-b359-210988b82895.png?raw=true)
+![](../../img/imghost/30-06-2025,%2009-55-51/14174b7b-2cb6-45ed-b359-210988b82895.png?raw=true)
 
   
 While sys.objects is a valuable resource for retrieving a comprehensive list of database objects, including tables. However, if your task exclusively involves tables, you should always modify the command as demonstrated above (or refer to sys.tables).  
@@ -75,25 +75,25 @@ Use INFORMATION\_SCHEMA.TABLES to list tables
 INFORMATION\_SCHEMA.TABLES is a commonly used method to retrieve a list of tables from the current database. The syntax to return all tables and views with one query is as follows:  
 INFORMATION\_SCHEMA.TABLES 是一种常用的方法，用于从当前数据库中检索表的列表。使用一个查询返回所有表和视图的语法如下：
 
-```
+```sql
 SELECT 
   \* 
 FROM INFORMATION\_SCHEMA.TABLES;
 ```
 
-![](https://github.com/wangdongcheng/GitNotebook/blob/main/img/imghost/30-06-2025,%2009-55-51/cc2b8013-0351-4eee-805c-90b5f7ada6ff.png?raw=true)
+![](../../img/imghost/30-06-2025,%2009-55-51/cc2b8013-0351-4eee-805c-90b5f7ada6ff.png?raw=true)
 
   
 If you require a list of actual tables excluding views, you can modify the command as follows:
 
-```
+```sql
 SELECT 
   TABLE\_NAME
 FROM INFORMATION\_SCHEMA.TABLES 
 WHERE TABLE\_TYPE = 'BASE TABLE';
 ```
 
-![](https://github.com/wangdongcheng/GitNotebook/blob/main/img/imghost/30-06-2025,%2009-55-51/7ed38dc5-77c0-4eea-9e0a-948d200192e3.png?raw=true)
+![](../../img/imghost/30-06-2025,%2009-55-51/7ed38dc5-77c0-4eea-9e0a-948d200192e3.png?raw=true)
 
   
 
@@ -108,14 +108,14 @@ dbo.sysobjects is an outdated version of the sys.objects view that was in use pr
 
 It provides the same results as sys.objects: the list of all objects in the database, including tables. When you need it listing the database tables exclusively, you can modify the query in the same manner as in the modern version by adding the WHERE clause to filter object types:
 
-```
+```sql
 SELECT 
   name  
 FROM dbo.sysobjects 
 WHERE xtype = 'U';
 ```
 
-![](https://github.com/wangdongcheng/GitNotebook/blob/main/img/imghost/30-06-2025,%2009-55-51/43910d95-1e8c-4bf7-bd40-f2b4875808fe.png?raw=true)
+![](../../img/imghost/30-06-2025,%2009-55-51/43910d95-1e8c-4bf7-bd40-f2b4875808fe.png?raw=true)
 
   
 
@@ -130,13 +130,13 @@ The stored procedure sp\_tables can be used to fetch a list of database objects,
 
 However, this approach may not be the most convenient option as it retrieves the entire list of database objects. For more precise results, you can modify the command to filter the output based on the table type, table name, table owner, and table qualifier.
 
-```
+```sql
 EXEC sp\_tables @table\_owner = 'dbo'  
               ,@table\_qualifier = 'sakila'  
               ,@table\_type = "'TABLE'";
 ```
 
-![](https://github.com/wangdongcheng/GitNotebook/blob/main/img/imghost/30-06-2025,%2009-55-51/575d0b56-fd61-4b73-9316-1aeedb162e74.png?raw=true)
+![](../../img/imghost/30-06-2025,%2009-55-51/575d0b56-fd61-4b73-9316-1aeedb162e74.png?raw=true)
 
   
 While the sp\_tables stored procedure can be useful, many SQL Server experts find it more limited and complex to use in larger queries compared to querying sys.tables and sys.objects.
@@ -153,7 +153,7 @@ To view tables in [dbForge Studio for SQL Server](https://www.devart.com/dbforge
 2.  Expand the selected database to reveal its contents.
 3.  Expand the Tables folder to display all tables within the database. You can explore any specific table further to access information about its columns, triggers, indexes, constraints, and more.
 
-![](https://github.com/wangdongcheng/GitNotebook/blob/main/img/imghost/30-06-2025,%2009-55-51/504dec05-5543-488b-af74-9ab0f7cc674d.png?raw=true)
+![](../../img/imghost/30-06-2025,%2009-55-51/504dec05-5543-488b-af74-9ab0f7cc674d.png?raw=true)
 
   
 The Database Explorer not only enables you to view table details but also provides the ability to edit tables directly. To do this, simply right-click on the desired table and choose the appropriate option from the menu.
