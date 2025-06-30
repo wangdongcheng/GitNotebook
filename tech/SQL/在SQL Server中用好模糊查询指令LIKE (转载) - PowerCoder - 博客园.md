@@ -27,15 +27,21 @@ LIKE '\[M-Z\]inger' 将搜索以字符串 inger 结尾、以从 M 到 Z 的任�
 LIKE 'M\[^c\]%' 将搜索以字母 M 开头，并且第二个字母不是 c 的所有名称（如 MacFeather）。  
 比如数据库pubs中有一个表author，它的电话号码一列即phone这一项，那么查找所有区号为 010 的电话号码命令为：
 
+```sql
 SELECT phone FROM pubs.dbo.authors WHERE   phone LIKE '010%';
+```
 
 可以用同样的通配符使用 NOT LIKE。若要在 authors 表中查找区号不是 010 的所有电话号码，请使用下列等价查询中的任意一个：
 
+```sql
 SELECT phone FROM pubs.dbo.authors WHERE   phone NOT LIKE '010%';
+```
 
 \-- 或者
 
+```sql
 SELECT phone FROM pubs.dbo.authors WHERE   NOT phone LIKE '010%';
+```
 
 IS NOT NULL 子句可与通配符和 LIKE 子句结合使用。例如，下列查询从 authors 表中检索以 010 开头且 IS NOT NULL 的所有电话号码：
 
@@ -46,7 +52,9 @@ SELECT phone FROM authors WHERE   phone LIKE '010%'
 可用于 text 列的 WHERE 条件只有 LIKE、IS NULL 或 PATINDEX。  
 不与 LIKE 一同使用的通配符将解释为常量而非模式，换言之，这些通配符仅代表其本身的值。下列查询试图查找到少由四个字符 010% 组成的电话号码。该查询并不会查找以 010 开头的电话号码。
 
+```sql
 SELECT phone FROM pubs.dbo.authors WHERE   phone \= '010%';
+```
 
 使用通配符时应着重考虑的另一个问题是对性能的影响。如果表达式以通配符开头，就不能使用索引。（就如同给定了姓名"%mith"而非"Smith"时，将无法知道应从电话簿的哪一页开始查找。）表达式中间或结尾处的通配符不妨碍使用索引，如同在电话簿中一样，如果姓名为"Samuel%"，则不论 Samuels 和 Samuelson 是否都在电话簿上，都应知道该从何处开始查找。
 
@@ -57,15 +65,21 @@ SELECT phone FROM pubs.dbo.authors WHERE   phone \= '010%';
 上面的搜索可以针对普通的汉字或中文，那如果遇到上述四种通配符要被搜到时应该如何处理呢？首先需注意的是通配符字符可以搜索，并且有两种方法可指定平常用作通配符的字符：  
 使用 ESCAPE 关键字定义转义符。在模式中，当转义符置于通配符之前时，该通配符就解释为普通字符。例如，要搜索在任意位置包含字符串 5% 的字符串，请使用：
 
+```sql
 WHERE ColumnA LIKE '%5/%%' ESCAPE '/'
+```
 
 在上述 LIKE 子句中，前导和结尾百分号 (%) 解释为通配符，而斜杠 (/) 之后的百分号解释为字符%。但是由于此时斜杠 (/)变为了转义符，所以如果要在字符串中真正搜索字符斜杠 (/)，那么就要使用两个斜杠 (/)，例如：
 
+```sql
 WHERE ColumnA LIKE '%//%' ESCAPE '/'
+```
 
 在方括号 (\[ \]) 中只包含通配符本身。要搜索破折号 (-) 而不是用它指定搜索范围，请将破折号指定为方括号内的第一个字符：
 
+```sql
 WHERE ColumnA LIKE '9\[-\]5'
+```
 
 下表显示了括在方括号内的通配符的用法。
 

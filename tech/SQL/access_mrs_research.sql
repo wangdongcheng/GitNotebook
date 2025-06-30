@@ -1,4 +1,10 @@
 SELECT TOP (10)
+name
+    from VJSCL.sys.tables
+    where name LIKE 'ord\_______' ESCAPE '\' -- this is the order table
+    ;
+
+SELECT TOP (10)
     OH_HEADER_REF, *
 FROM VJSCL.[dbo].[ORD_HEADER]
 where OH_ORDER_NUMBER = '767658' -- '767658' is the order number
