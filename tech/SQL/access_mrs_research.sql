@@ -1,8 +1,11 @@
-SELECT TOP (10)
-    name
+SELECT
+    name,
+    type
 FROM VJSCL.sys.tables
-WHERE name LIKE 'ord\_%' ESCAPE '\'
--- list all order related tables from DB
+WHERE
+--  name LIKE 'ord\_%' ESCAPE '\' -- list all order related tables from DB
+[type] = 'U' -- user tables only
+ORDER BY name
 ;
 
 SELECT TOP (10)
