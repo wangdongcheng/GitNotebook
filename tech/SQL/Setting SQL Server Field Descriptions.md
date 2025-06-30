@@ -51,7 +51,7 @@ T-SQL to Add a New Field Description
 
 The following T-SQL will add a field description to the `PhoneNum` field in the `Contact` table within the default `dbo` schema using the built-in stored procedure [sp\_AddExtendedProperty](https://docs.microsoft.com/en-us/sql/relational-databases/system-stored-procedures/sp-addextendedproperty-transact-sql?view=sql-server-ver15&ref=nolongerset.com):
 
-```sql
+```SQL
 exec sp_AddExtendedProperty 
       'MS_Description'
     , 'The phone number (e.g., "(555) 253-5970 x1150"'
@@ -68,7 +68,7 @@ T-SQL to Update an Existing Field Description
 
 The above T-SQL will fail if the _MS\_Description_ extended property already exists on the table.  In that case, we would need to use the [sp\_UpdateExtendedProperty](https://docs.microsoft.com/en-us/sql/relational-databases/system-stored-procedures/sp-updateextendedproperty-transact-sql?view=sql-server-ver15&ref=nolongerset.com) stored procedure instead.  For example:
 
-```sql
+```SQL
 exec sp_UpdateExtendedProperty 
       'MS_Description'
     , 'The phone number (e.g., "555-253-5970"'
