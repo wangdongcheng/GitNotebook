@@ -1,8 +1,8 @@
 SELECT TOP (10)
     name
 FROM VJSCL.sys.tables
-WHERE name LIKE 'ord\_______' ESCAPE '\'
--- this is the order table
+WHERE name LIKE 'ord\_%' ESCAPE '\'
+-- list all order related tables from DB
 ;
 
 SELECT TOP (10)
