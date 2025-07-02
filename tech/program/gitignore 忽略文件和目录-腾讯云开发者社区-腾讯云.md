@@ -1,5 +1,5 @@
 # .gitignore 忽略文件和目录-腾讯云开发者社区-腾讯云
-![](https://github.com/wangdongcheng/GitNotebook/blob/main/img/imghost/02-07-2025,%2012-06-22/a6018a81-63ac-48a5-926c-ffcabb935644.jpeg?raw=true)
+![](../../img/imghost/02-07-2025,%2012-06-22/a6018a81-63ac-48a5-926c-ffcabb935644.jpeg?raw=true)
 
 *   [1\. .gitignore 简介](https://cloud.tencent.com/developer/tools/blog-entry?target=https%3A%2F%2Fwww.10zhan.com%2F%231.%2520.gitignore%2520%25E7%25AE%2580%25E4%25BB%258B&objectId=2207768&objectType=1&isNewArticle=undefined)
 *   [2\. .gitignore 注释](https://cloud.tencent.com/developer/tools/blog-entry?target=https%3A%2F%2Fwww.10zhan.com%2F%232.%2520.gitignore%2520%25E6%25B3%25A8%25E9%2587%258A&objectId=2207768&objectType=1&isNewArticle=undefined)
