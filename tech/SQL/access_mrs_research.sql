@@ -3,10 +3,28 @@ SELECT
     type
 FROM VJSCL.sys.tables
 WHERE
---  name LIKE 'ord\_%' ESCAPE '\' -- list all order related tables from DB
-[type] = 'U' -- user tables only
+ name LIKE 'sl_%' ESCAPE '\' -- list all order related tables from DB
+and [type] = 'U' -- user tables only
 ORDER BY name
 ;
+
+SELECT
+table_catalog,
+table_schema,
+table_name,
+column_name,
+data_type,
+ordinal_position,
+data_type,
+character_maximum_length
+from 
+VJSCL.INFORMATION_SCHEMA.COLUMNS
+where
+table_name like 'sl_%' ESCAPE '\' and -- list all order related tables from DB
+COLUMN_NAME like '%head%' ESCAPE '\' 
+order by table_name, ordinal_position
+;
+
 
 SELECT TOP (10)
     OH_HEADER_REF, *
