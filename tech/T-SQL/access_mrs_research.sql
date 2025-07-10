@@ -1,3 +1,48 @@
+-- if 1 <> 1
+-- BEGIN
+--     PRINT 'NO DISPLAY'
+-- END;
+-- ELSE
+-- BEGIN
+--     PRINT 'DISPLAY';
+-- END;
+
+SELECT 
+CUCODE2,
+CU_USRCHAR1,
+CU_USRCHAR2,
+CU_USRCHAR3,
+CU_USRCHAR4,
+CU_USRCHAR5,
+CU_USRCHAR6,
+CU_USRCHAR7,
+CU_USRCHAR8,
+CU_USRCHAR9,
+CU_USRCHAR10,
+CU_USRCHAR11,
+CU_USRCHAR12,
+CU_USRCHAR13,
+CU_USRCHAR14,
+CU_USRCHAR15,
+CU_USRCHAR16,
+CU_USRCHAR17,
+CU_USRCHAR18,
+CU_USRCHAR19,
+CU_USRCHAR20,
+CU_USRCHAR21,
+CU_USRCHAR22
+FROM VJSCL.DBO.SL_ACCOUNTS2
+WHERE
+CUCODE2 in ('30AAB001','30ABE001','30AAV001','30ACH001')
+;
+
+SELECT
+CUCODE,
+CU_BIC_CODE
+FROM VJSCL.DBO.SL_ACCOUNTS
+WHERE CU_BIC_CODE <> ''
+;
+
 SELECT
     name,
     type
@@ -20,8 +65,8 @@ character_maximum_length
 from 
 VJSCL.INFORMATION_SCHEMA.COLUMNS
 where
-table_name like 'sl_%' ESCAPE '\' and -- list all order related tables from DB
-COLUMN_NAME like '%head%' ESCAPE '\' 
+table_name like 'stk_%' ESCAPE '\' and -- list all order related tables from DB
+COLUMN_NAME like '%RTP%' ESCAPE '\' 
 order by table_name, ordinal_position
 ;
 
