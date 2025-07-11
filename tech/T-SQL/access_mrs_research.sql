@@ -48,7 +48,8 @@ SELECT
     type
 FROM VJSCL.sys.tables
 WHERE
- name LIKE 'sl_%' ESCAPE '\' -- list all order related tables from DB
+ name LIKE 'STK_%' ESCAPE '\' -- list all order related tables from DB
+ and name not like '%_backup%'
 and [type] = 'U' -- user tables only
 ORDER BY name
 ;
@@ -66,7 +67,7 @@ from
 VJSCL.INFORMATION_SCHEMA.COLUMNS
 where
 table_name like 'stk_%' ESCAPE '\' and -- list all order related tables from DB
-COLUMN_NAME like '%RTP%' ESCAPE '\' 
+COLUMN_NAME like '%bin%' ESCAPE '\' 
 order by table_name, ordinal_position
 ;
 

@@ -1,6 +1,25 @@
 DECLARE @P1 NVARCHAR(50);
-set @P1 = '30ACE001';
+set @P1 = '30niv_89057';
 
+select STK_S_WEIGHT,
+STK_P_WEIGHT,
+STK_S_WGHT_NAME,
+STK_P_WGHT_NAME,
+*
+from vjscl.dbo.stk_stock
+where STKCODE = @P1
+-- where STK_S_WEIGHT != 0
+;
+
+select stkcode3,*
+from VJSCL.dbo.STK_STOCK3
+-- where STKCODE3 = @p1
+where STK_usrnum8 != 0
+-- and STK_USRFLAG3 = 1
+;
+
+if 0 = 1
+BEGIN
 PRINT 'Account Code: ' + @P1;
 PRINT 'Table: SL_ACCOUNTS';
 SELECT CU_ON_STOP,
@@ -80,3 +99,4 @@ WHERE
 -- acc.cucode = @P1
 acc2.cu_usrflag1 = 1
 ;
+end
