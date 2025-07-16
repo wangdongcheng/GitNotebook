@@ -7,7 +7,7 @@ But how many Catholics know the meaning of the Dominican dog?
 
 Yes, lots of iconography related to St. Dominic and the Dominicans include a dog! But sometimes you have to look closely to catch it:
 
-![](https://github.com/wangdongcheng/GitNotebook/blob/main/img/imghost/16-07-2025,%2016-33-00/1c8052f7-ca6e-4591-b179-ac68e3e13365.jpeg?raw=true)
+![](../../img/imghost/16-07-2025,%2016-33-00/1c8052f7-ca6e-4591-b179-ac68e3e13365.jpeg?raw=true)
 
 Public Domain
 
@@ -23,19 +23,19 @@ Given the order’s charism for zealous preaching of the Gospel, the story and t
 
 #### **More examples of the Dominican dog:**
 
-![](https://github.com/wangdongcheng/GitNotebook/blob/main/img/imghost/16-07-2025,%2016-33-00/3a28e502-2e57-44a6-8787-3261c118119e.jpeg?raw=true)
+![](../../img/imghost/16-07-2025,%2016-33-00/3a28e502-2e57-44a6-8787-3261c118119e.jpeg?raw=true)
 
 [Georges Jansoone, Wikimedia Commons](https://commons.wikimedia.org/wiki/File:San_Domenico05.jpg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en)
 
-![](https://github.com/wangdongcheng/GitNotebook/blob/main/img/imghost/16-07-2025,%2016-33-00/1aad577a-9054-4739-9bef-c2355dcc6b2b.jpeg?raw=true)
+![](../../img/imghost/16-07-2025,%2016-33-00/1aad577a-9054-4739-9bef-c2355dcc6b2b.jpeg?raw=true)
 
 [Thomas Quine, Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Beautiful_religious_tapestry_(27618828406).jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/deed.en)
 
-![](https://github.com/wangdongcheng/GitNotebook/blob/main/img/imghost/16-07-2025,%2016-33-00/e0d3bbaf-c73f-4688-83fd-e54d907d395c.jpeg?raw=true)
+![](../../img/imghost/16-07-2025,%2016-33-00/e0d3bbaf-c73f-4688-83fd-e54d907d395c.jpeg?raw=true)
 
 [Jordiferrer, Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cau_Ferrat_(planta_baixa)_40_Plaf%C3%B3_de_rajoles._Mare_de_D%C3%A9u_del_Roser_flanquejada_per_sant_Dom%C3%A8nec_i_Sant_Pere_de_Verona.JPG), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
 
-![](https://github.com/wangdongcheng/GitNotebook/blob/main/img/imghost/16-07-2025,%2016-33-00/dcad5d23-ca2f-46f6-a459-95894691e346.jpeg?raw=true)
+![](../../img/imghost/16-07-2025,%2016-33-00/dcad5d23-ca2f-46f6-a459-95894691e346.jpeg?raw=true)
 
 [Zarateman, Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gumiel_de_Izan_-_Casa_donde_vivio_Santo_Domingo_de_Guzman_2.jpg), Public Domain
 
