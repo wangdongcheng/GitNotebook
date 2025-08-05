@@ -6,7 +6,7 @@
 
 TCNs are individuals who are not citizens of the European Union, European Economic Area (EEA) or Swiss nationals.
 
-**Do****TCNs require a visa to enter Malta?**
+**Do TCNs require a visa to enter Malta?**
 
 Yes, TCNs usually require a Schengen visa to enter Malta, unless they are from a visa-exempt country.
 
