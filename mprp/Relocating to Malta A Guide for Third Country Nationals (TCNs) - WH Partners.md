@@ -2,6 +2,8 @@
 
 [View original](https://whpartners.eu/news/relocating-to-malta-a-guide-for-third-country-nationals-tcns/)
 
+![alt text](../img/cski/image.png)
+
 **Who falls under the category of a third-country national?**
 
 TCNs are individuals who are not citizens of the European Union, European Economic Area (EEA) or Swiss nationals.
