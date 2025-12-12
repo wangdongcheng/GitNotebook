@@ -1,7 +1,7 @@
 # 毒死小狗获刑4年，Papi妈妈漫长的追凶_腾讯新闻
 https://news.qq.com/rain/a/20251211A04JS700
 
-![](https://github.com/wangdongcheng/GitNotebook/blob/main/img/imghost/12-12-2025,%2009-47-43/35516a41-a800-4580-b890-daaa22ecae83.webp?raw=true)
+![](../img/imghost/12-12-2025,%2009-47-43/35516a41-a800-4580-b890-daaa22ecae83.webp?raw=true)
 
 2025年12月11日，在经历漫长的1184天后，“Papi妈妈”Penny终于等来了一个结果：
 
@@ -33,13 +33,13 @@ Papi回到了它的小床，盖好被子。Penny一夜不敢合眼，她的手�
 
 如今，Penny等来了一个结果，虽然被告当庭提出上诉，一切尚未结束，但在偌大的城市里，Penny终于为那些被毒死的小狗们，掀起了一点波澜。
 
-![](https://github.com/wangdongcheng/GitNotebook/blob/main/img/imghost/12-12-2025,%2009-47-43/c0bdbde4-11d3-444d-9cab-0bec41f789a8.webp?raw=true)
+![](../img/imghost/12-12-2025,%2009-47-43/c0bdbde4-11d3-444d-9cab-0bec41f789a8.webp?raw=true)
 
 那是哭声、惨叫声此起彼伏的一天，是Penny永远忘不掉的日子，2022年9月14日。
 
 从小区附近的宠物医院，到几十公里外需要花费上万元血透的顺义宠物医院，都是同一个小区的居民和他们正在抢救的小狗。
 
-![](https://github.com/wangdongcheng/GitNotebook/blob/main/img/imghost/12-12-2025,%2009-47-43/2f32e3e7-3a96-42cd-ad84-c4fbb3b1f820.webp?raw=true)
+![](../img/imghost/12-12-2025,%2009-47-43/2f32e3e7-3a96-42cd-ad84-c4fbb3b1f820.webp?raw=true)
 
 十几只不满周岁的幼犬、怀孕的母犬和陪伴超过10年的老年犬，先后被送上抢救台。很多小狗前后15分钟就没了。
 
@@ -55,7 +55,7 @@ Papi回到了它的小床，盖好被子。Penny一夜不敢合眼，她的手�
 
 Papi一直都很勇敢，从前打针都一声不吭，现在，它仍是年纪最大坚持最久的小狗。
 
-![](https://github.com/wangdongcheng/GitNotebook/blob/main/img/imghost/12-12-2025,%2009-47-43/fc42189f-2f26-45b8-a7ee-ec4085168252.gif?raw=true)
+![](../img/imghost/12-12-2025,%2009-47-43/fc42189f-2f26-45b8-a7ee-ec4085168252.gif?raw=true)
 
 可Penny还是收到了医院递来的毯子。
 
@@ -63,7 +63,7 @@ Papi一直都很勇敢，从前打针都一声不吭，现在，它仍是年纪�
 
 她从来都把能够到最好的一切给Papi。
 
-![](https://github.com/wangdongcheng/GitNotebook/blob/main/img/imghost/12-12-2025,%2009-47-43/22704c54-2e8c-4b31-b8a2-701ebfe29b89.webp?raw=true)
+![](../img/imghost/12-12-2025,%2009-47-43/22704c54-2e8c-4b31-b8a2-701ebfe29b89.webp?raw=true)
 
 Papi，在西班牙语里是好兄弟的意思。2010年，妈妈把两个月的小狗带到她身边，她为它取名Papi，把它当兄弟，再后来视作她的家人、孩子。
 
@@ -73,7 +73,7 @@ Penny的分离焦虑一天比一天更重。每一天睡觉前，听着Papi微�
 
 如今她的小狗走了，裹住它的怎么会是一条这么差的毯子？
 
-![](https://github.com/wangdongcheng/GitNotebook/blob/main/img/imghost/12-12-2025,%2009-47-43/482bd8e4-4773-423d-b9d6-0465491ce509.webp?raw=true)
+![](../img/imghost/12-12-2025,%2009-47-43/482bd8e4-4773-423d-b9d6-0465491ce509.webp?raw=true)
 
 Penny又看了看Papi的病理报告单，上面写着：“肝脏指标升高，血钾过高，肌酸激酶升高，高度疑似中毒”。
 
@@ -85,7 +85,7 @@ Penny又看了看Papi的病理报告单，上面写着：“肝脏指标升高�
 
 医生透露，上午已经送来十几只，医院救不过来了。她将医生的嘱托转发到小区住户群里，“赶紧通知小区物业，不要再遛狗了，或者是戴上嘴套”。连发三遍提醒后，立刻有个叔叔回应了Penny。这是Penny联系到的第一个中毒犬的主人。
 
-![](https://github.com/wangdongcheng/GitNotebook/blob/main/img/imghost/12-12-2025,%2009-47-43/b69c2090-292f-458a-bdd7-012df7e4d59f.webp?raw=true)
+![](../img/imghost/12-12-2025,%2009-47-43/b69c2090-292f-458a-bdd7-012df7e4d59f.webp?raw=true)
 
 下午，Penny将Papi转到几十公里外可以全身换血的医院后，又遇到了同小区的黄黄。
 
@@ -101,7 +101,7 @@ Penny想起了过去快速划过的投毒新闻。全国各地，毒杀犬只事
 
 Penny掏出手机，快速联系警方进行尸检、联系殡仪。她的手一直在抖，内心却无比坚定，一定要把人揪出来。想讨回公道的不止Penny。那一天，她当时所在的畅颐园小区共拨出了24个报警电话。
 
-![](https://github.com/wangdongcheng/GitNotebook/blob/main/img/imghost/12-12-2025,%2009-47-43/a6fd73b5-fcf1-40ea-92db-1974b0423d45.webp?raw=true)
+![](../img/imghost/12-12-2025,%2009-47-43/a6fd73b5-fcf1-40ea-92db-1974b0423d45.webp?raw=true)
 
 首开畅颐园小区只有三栋楼12个单元，一天里却有11只宠物狗疑似中毒，9只死亡。这在整个小区内引起了恐慌。
 
@@ -109,11 +109,11 @@ Penny掏出手机，快速联系警方进行尸检、联系殡仪。她的手一
 
 家长不敢再让3岁的孩子在楼下逗留，几个月的时间里，抱着孩子进出。
 
-![](https://github.com/wangdongcheng/GitNotebook/blob/main/img/imghost/12-12-2025,%2009-47-43/f41ea331-2198-4384-a033-30197cbc794e.webp?raw=true)
+![](../img/imghost/12-12-2025,%2009-47-43/f41ea331-2198-4384-a033-30197cbc794e.webp?raw=true)
 
 养宠物的人，出门把自家小狗牢牢抱在怀里。投喂流浪猫的阿姨发现，小区的流浪猫都消失了。
 
-![](https://github.com/wangdongcheng/GitNotebook/blob/main/img/imghost/12-12-2025,%2009-47-43/7e34fe44-108f-4ed5-9cac-442b6181f428.webp?raw=true)
+![](../img/imghost/12-12-2025,%2009-47-43/7e34fe44-108f-4ed5-9cac-442b6181f428.webp?raw=true)
 
 中毒事件后，楼下出现了很多走访调查的便衣警察，询问有没有看到谁跟谁有冲突之类的问题。Penny后来得知，朝阳重案组四个队全部出动了。
 
@@ -127,7 +127,7 @@ Penny掏出手机，快速联系警方进行尸检、联系殡仪。她的手一
 
 但北京市六环路以内禁止正三轮摩托车通行，且据Penny所说，嫌疑人的车一直停在小区内阻碍消防通道的地方。与这些违规相对应的是，中毒的小狗都有狗证，办了正规手续。
 
-![](https://github.com/wangdongcheng/GitNotebook/blob/main/img/imghost/12-12-2025,%2009-47-43/41c9d75c-f0e0-4641-97f7-f804e7a80192.webp?raw=true)
+![](../img/imghost/12-12-2025,%2009-47-43/41c9d75c-f0e0-4641-97f7-f804e7a80192.webp?raw=true)
 
 派出所最初以“被故意损毁财物案”受理，确定是氟乙酸后，变更为寻衅滋事罪。法律是Penny的知识盲区，她想知道是否可以数罪并罚，却发现各方都讲不太清楚。
 
@@ -147,7 +147,7 @@ Penny又在新闻和裁判文书网里寻找可参考案例。大量检索后发
 
 她买来《刑法》《民法典》《刑事诉讼法》《民事诉讼法》，从基本法看起，逐字逐句寻找适用的法条，将法律真正当作自卫的武器。
 
-![](https://github.com/wangdongcheng/GitNotebook/blob/main/img/imghost/12-12-2025,%2009-47-43/e834f541-039d-4bd8-9462-d740638598a2.webp?raw=true)
+![](../img/imghost/12-12-2025,%2009-47-43/e834f541-039d-4bd8-9462-d740638598a2.webp?raw=true)
 
 自学法律的同时，她还有件更重要的事，连接11人的起诉队伍。
 
@@ -164,13 +164,13 @@ Penny问女孩，要不要起诉，对方立刻回答：“要”。
   
 11只中毒犬，11人组成起诉队伍。
 
-![](https://github.com/wangdongcheng/GitNotebook/blob/main/img/imghost/12-12-2025,%2009-47-43/56c38851-d7ff-47b9-9ee7-a3074c7d3d63.webp?raw=true)
+![](../img/imghost/12-12-2025,%2009-47-43/56c38851-d7ff-47b9-9ee7-a3074c7d3d63.webp?raw=true)
 
 2022年12月，Penny收到的立案告知书显示，朝阳分局以张某某“投放危险物质罪”正式立案。2023年1月，朝阳法院正式立案。Penny等11名受害人的起诉书也陆续提交。
 
 这是北京第一例走到刑事诉讼阶段的宠物中毒案。  
 
-![](https://github.com/wangdongcheng/GitNotebook/blob/main/img/imghost/12-12-2025,%2009-47-43/c568c7d3-fb64-486a-a624-78df5eed3cd0.webp?raw=true)
+![](../img/imghost/12-12-2025,%2009-47-43/c568c7d3-fb64-486a-a624-78df5eed3cd0.webp?raw=true)
 
 立案后，Penny终于有时间停下来，去趟医院了。
 
@@ -186,7 +186,7 @@ Papi离开后，Penny没睡过一个好觉。她整夜失眠，心率加快，�
 
 在梦里，Papi从没出现过。
 
-![](https://github.com/wangdongcheng/GitNotebook/blob/main/img/imghost/12-12-2025,%2009-47-43/e2ce9348-28be-474a-9677-69bfa93c95fc.webp?raw=true)
+![](../img/imghost/12-12-2025,%2009-47-43/e2ce9348-28be-474a-9677-69bfa93c95fc.webp?raw=true)
 
 Papi离开的第一周，她瘦了10斤，之后暴食又胖20斤。睡不着觉的凌晨三五点，她控制不住地大量进食，直到需要吃胃药时才能停下，也不止一次地走上天台。
 
@@ -198,7 +198,7 @@ Papi离开的第一周，她瘦了10斤，之后暴食又胖20斤。睡不着觉
 
 把她拉下天台的是Papi。她记得Papi尸检后，腹部那条被潦草缝上的口子、勉强才能合上的眼睛和裹着它难以形容的黄色袋子；记得收到Papi骨灰那天另外到来的三个快递，全部与Papi有关，里面装着原本打算带她中秋去阿那亚看海的海魂衫和救生衣。
 
-![](https://github.com/wangdongcheng/GitNotebook/blob/main/img/imghost/12-12-2025,%2009-47-43/2f4e5d80-a283-463d-921e-d6abe848c691.webp?raw=true)
+![](../img/imghost/12-12-2025,%2009-47-43/2f4e5d80-a283-463d-921e-d6abe848c691.webp?raw=true)
 
 Penny走下天台，按下工作、生活和社交的暂停键，只有关乎Papi的进度在持续加载。
 
@@ -214,7 +214,7 @@ Penny不止一次打电话询问开庭时间，对方最开始说大概在2023�
 
 开庭时，书记员得知投毒案是个狗的案子，一时没反应过来，“在法院待这么长时间，第一次听到狗中毒的事情还能走到刑事案件，没听说过。”  
 
-![](https://github.com/wangdongcheng/GitNotebook/blob/main/img/imghost/12-12-2025,%2009-47-43/200e3b7f-6f83-45e5-9db9-30b3101adef3.webp?raw=true)
+![](../img/imghost/12-12-2025,%2009-47-43/200e3b7f-6f83-45e5-9db9-30b3101adef3.webp?raw=true)
 
 庭审现场，犯罪嫌疑人无悔罪表现，坚决拒绝所有赔偿。过去一年多，他和他的家属也从未对小区居民表达任何歉意。
 
@@ -230,7 +230,7 @@ Penny作为原告代表发言，坐在了公诉人旁边，成为除法警外，
 
 可Penny翻阅卷宗、自学刑法以及她的冷静、口才，并没有等来一个结果。
 
-![](https://github.com/wangdongcheng/GitNotebook/blob/main/img/imghost/12-12-2025,%2009-47-43/0d043244-9adb-4641-8266-b5a8b756278c.webp?raw=true)
+![](../img/imghost/12-12-2025,%2009-47-43/0d043244-9adb-4641-8266-b5a8b756278c.webp?raw=true)
 
 下午四点，走出法庭，Penny发现，大门外，大家也都在等结果。
 
@@ -248,7 +248,7 @@ Penny打电话给北京相关鉴定部门，对方的反应是，“从来没有
 
 抚养人们精心照顾的小狗，每年营养品价格上万，抢救费用上万，只因它不是名车、字画、古董文玩，所以哪怕Penny四处争取了两年，小狗们的价格依旧无法鉴定，无法证明。
 
-![](https://github.com/wangdongcheng/GitNotebook/blob/main/img/imghost/12-12-2025,%2009-47-43/dfa03864-3341-47aa-bb49-3f787258d54e.webp?raw=true)
+![](../img/imghost/12-12-2025,%2009-47-43/dfa03864-3341-47aa-bb49-3f787258d54e.webp?raw=true)
 
 11个人依旧在为所有人“没听说过”的案子坚持。一审后，他们决定请个律师，不再这么被动。
 
@@ -260,7 +260,7 @@ Papi离开后，她一夜夜睡在朋友的车里，搬家恰逢司机和保洁�
 
 世面见多了，Papi早早学会了享受狗生。在公园散步时，它会把脚搭在塑胶跑道上面，而不是兴奋地扑进草坪撒欢。它已经能清楚分辨水泥地、草坪和跑道哪个脚感更好，夏天草里是否打过药水。
 
-![](https://github.com/wangdongcheng/GitNotebook/blob/main/img/imghost/12-12-2025,%2009-47-43/33afa51e-1578-4d6c-87b0-3dccf4b12877.webp?raw=true)
+![](../img/imghost/12-12-2025,%2009-47-43/33afa51e-1578-4d6c-87b0-3dccf4b12877.webp?raw=true)
 
 小区里，很多人养了新的小狗，依旧是原来的品种，用着原来的名字。没人能彻底从伤痛中走出来。
 
@@ -274,7 +274,7 @@ Papi离开的日子里，投毒者被关在看守所 ，Penny也被迫一起关�
 
 而且出去干嘛呢？近几年，她偶尔出门，在山里哭，在海边哭，在前往目的地的高铁上哭。
 
-![](https://github.com/wangdongcheng/GitNotebook/blob/main/img/imghost/12-12-2025,%2009-47-43/8f13dbd3-ef1c-4261-9f3d-7f9f0502c276.webp?raw=true)
+![](../img/imghost/12-12-2025,%2009-47-43/8f13dbd3-ef1c-4261-9f3d-7f9f0502c276.webp?raw=true)
 
 身边的朋友劝Penny，即便对方判4年，你都已经赢了100% 的养宠人。目前宠物刑事案件最重判刑3年7个月。
 
@@ -284,7 +284,7 @@ Penny不想要这样的胜利。她的诉求始终如一，清清楚楚明明白
 
 在此之前，她的生命卡在这里无限循环，她的名字只剩下一个，西高地Papi妈妈。
 
-![](https://github.com/wangdongcheng/GitNotebook/blob/main/img/imghost/12-12-2025,%2009-47-43/2854cd0d-eee3-4c89-902f-28c9acafe5de.webp?raw=true)
+![](../img/imghost/12-12-2025,%2009-47-43/2854cd0d-eee3-4c89-902f-28c9acafe5de.webp?raw=true)
 
 网暴从Penny为Papi讨公道的第一天就开始了。她给小狗讨公道，因此自然而然地成为了一部分人的“靶子”。
 
@@ -296,7 +296,7 @@ Penny不想要这样的胜利。她的诉求始终如一，清清楚楚明明白
 
 答案是素不相识，无冤无仇。网暴的男人发现Penny真的去警局报案后，立马把她拉黑，并更换了头像封面。
 
-![](https://github.com/wangdongcheng/GitNotebook/blob/main/img/imghost/12-12-2025,%2009-47-43/f77a46f3-ea62-4778-8727-239439e61da3.webp?raw=true)
+![](../img/imghost/12-12-2025,%2009-47-43/f77a46f3-ea62-4778-8727-239439e61da3.webp?raw=true)
 
 也有来自求助者的道德绑架。
 
@@ -310,7 +310,7 @@ Penny不想要这样的胜利。她的诉求始终如一，清清楚楚明明白
 
 何况，她坚持1000多天了，至今还没有一个坚持300天以上的人来找过她。
 
-![](https://github.com/wangdongcheng/GitNotebook/blob/main/img/imghost/12-12-2025,%2009-47-43/52c22b54-5be3-4775-bf27-2961bb5e2589.webp?raw=true)
+![](../img/imghost/12-12-2025,%2009-47-43/52c22b54-5be3-4775-bf27-2961bb5e2589.webp?raw=true)
 
 这是Penny碰到坏人最多的两年，也是碰到好人最多的两年。
 
@@ -328,7 +328,7 @@ Penny不想要这样的胜利。她的诉求始终如一，清清楚楚明明白
 
 不像现在，yes or no的选项里，她得到的答复永远是or。
 
-![](https://github.com/wangdongcheng/GitNotebook/blob/main/img/imghost/12-12-2025,%2009-47-43/a3f54745-6692-4d23-8d15-0991c81a4211.webp?raw=true)
+![](../img/imghost/12-12-2025,%2009-47-43/a3f54745-6692-4d23-8d15-0991c81a4211.webp?raw=true)
 
 鲁迅说，世界上本没有路，走的人多了，便成了路。
 
@@ -364,7 +364,7 @@ Penny自认是个犟人，但不是向来如此。过去，她不是刚烈的性
 
 能多影响一个孩子，Penny觉得太过于难得。她也想往前走，放手的前提还是那句话，坏人要得到惩罚。
 
-![](https://github.com/wangdongcheng/GitNotebook/blob/main/img/imghost/12-12-2025,%2009-47-43/064b1671-5b04-4072-bf00-91d734fec8fa.webp?raw=true)
+![](../img/imghost/12-12-2025,%2009-47-43/064b1671-5b04-4072-bf00-91d734fec8fa.webp?raw=true)
 
 近几年，她非必要不出门，已经很久没有好好化过妆，拍拍照，放松地过一天了。我们约在一个晴朗的秋日。
 
@@ -372,11 +372,11 @@ Penny自认是个犟人，但不是向来如此。过去，她不是刚烈的性
 
 这是闹市的中心，是她曾经熟悉的地方，有着生活原本的模样。
 
-![](https://github.com/wangdongcheng/GitNotebook/blob/main/img/imghost/12-12-2025,%2009-47-43/9696fd96-58a1-4847-9fbc-8ca7b0d2e23d.webp?raw=true)
+![](../img/imghost/12-12-2025,%2009-47-43/9696fd96-58a1-4847-9fbc-8ca7b0d2e23d.webp?raw=true)
 
 \*原文发布于 2024 年10月，今日重发，有删改。
 
 免责声明：本内容来自腾讯平台创作者，不代表腾讯新闻或腾讯网的观点和立场。
 
-![](https://github.com/wangdongcheng/GitNotebook/blob/main/img/imghost/12-12-2025,%2009-47-43/ca1ddca3-903e-43dd-9569-d0c495bb4ce2.webp?raw=true)
+![](../img/imghost/12-12-2025,%2009-47-43/ca1ddca3-903e-43dd-9569-d0c495bb4ce2.webp?raw=true)
 举报
