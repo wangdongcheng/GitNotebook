@@ -151,8 +151,8 @@ $$
 | a+b+c\_ | `\underline{a+b+c}` |
 | a+b+c⏞Sample | `\overbrace{a+b+c}^{Sample}` |
 | a+b+c⏟Sample | `\underbrace{a+b+c}_{Sample}` |
-| a+b+c⏟1.0⏞2.0 | `\overbrace{a+\underbrace{b+c}_{1.0}}^{2.0}` |
-| a⋅a⋯a⏟b times | `\underbrace{a\cdot a\cdots a}_{b\text{ times}}` |
+| a+b+c⏟1.0⏞2.0 | `\overbrace{a+\underbrace{b+c}_{1.0}^{2.0}` |
+| a⋅a⋯a⏟b times | `\underbrace{a\cdot a\cdots a}_{b\text{ times}` |
 
 ### 高级运算符[#](#高级运算符)
 
@@ -161,10 +161,10 @@ $$
 | 平均数运算 | xyz¯ | `\overline{xyz}` |
 | 开二次方运算 | xy | `\sqrt {xy}` |
 | 开方运算 | xn | `\sqrt[n]{x}` |
-| 极限运算(一) | limy→0x→∞xy | `\lim^{x \to \infty}_{y \to 0}{\frac{x}{y}}` |
-| 极限运算(二) | limy→0x→∞xy | `\displaystyle \lim^{x \to \infty}_{y \to 0}{\frac{x}{y}}` |
-| 求和运算(一) | ∑y→0x→∞xy | `\sum^{x \to \infty}_{y \to 0}{\frac{x}{y}}` |
-| 求和运算(二) | ∑y→0x→∞xy | `\displaystyle \sum^{x \to \infty}_{y \to 0}{\frac{x}{y}}` |
+| 极限运算(一) | limy→0x→∞xy | `\lim^{x \to \infty}_{y \to 0}{\frac{x}{y}` |
+| 极限运算(二) | limy→0x→∞xy | `\displaystyle \lim^{x \to \infty}_{y \to 0}{\frac{x}{y}` |
+| 求和运算(一) | ∑y→0x→∞xy | `\sum^{x \to \infty}_{y \to 0}{\frac{x}{y}` |
+| 求和运算(二) | ∑y→0x→∞xy | `\displaystyle \sum^{x \to \infty}_{y \to 0}{\frac{x}{y}` |
 | 积分运算(一) | ∫0∞xdx | `\int^{\infty}_{0}{xdx}` |
 | 积分运算(二) | ∫0∞xdx | `\displaystyle \int^{\infty}_{0}{xdx}` |
 | 微分运算 | ∂x∂y、∂2x∂y2 | `\frac{\partial x}{\partial y}、\frac{\partial^2x}{\partial y^2}` |
@@ -217,7 +217,7 @@ $$
 
 ### 字体转换[#](#字体转换)
 
-若要对公式的某一部分字符进行字体转换，可以用 `{\font {需转换的部分字符}}` 命令，其中`\font`部分可以参照下表选择合适的字体。一般情况下，公式默认为意大利体。
+若要对公式的某一部分字符进行字体转换，可以用 `{\font {需转换的部分字符}` 命令，其中`\font`部分可以参照下表选择合适的字体。一般情况下，公式默认为意大利体。
 
 | 字体 | 显示效果 | markdown语法 |
 | --- | --- | --- |
@@ -516,10 +516,10 @@ A\=\[a11a12⋯a1na21a22⋯a2n⋮⋮⋱⋮am1am2⋯amn\]
 ```null
 $$
 A=\begin{bmatrix}
-{a_{11}}&{a_{12}}&{\cdots}&{a_{1n}}\\
-{a_{21}}&{a_{22}}&{\cdots}&{a_{2n}}\\
+{a_{11}&{a_{12}&{\cdots}&{a_{1n}\\
+{a_{21}&{a_{22}&{\cdots}&{a_{2n}\\
 {\vdots}&{\vdots}&{\ddots}&{\vdots}\\
-{a_{m1}}&{a_{m2}}&{\cdots}&{a_{mn}}\\
+{a_{m1}&{a_{m2}&{\cdots}&{a_{mn}\\
 \end{bmatrix}
 $$
 
@@ -532,10 +532,10 @@ D\=|a11a12⋯a1na21a22⋯a2n⋮⋮⋱⋮am1am2⋯amn|
 ```null
 $$
 D=\begin{vmatrix}
-{a_{11}}&{a_{12}}&{\cdots}&{a_{1n}}\\
-{a_{21}}&{a_{22}}&{\cdots}&{a_{2n}}\\
+{a_{11}&{a_{12}&{\cdots}&{a_{1n}\\
+{a_{21}&{a_{22}&{\cdots}&{a_{2n}\\
 {\vdots}&{\vdots}&{\ddots}&{\vdots}\\
-{a_{m1}}&{a_{m2}}&{\cdots}&{a_{mn}}\\
+{a_{m1}&{a_{m2}&{\cdots}&{a_{mn}\\
 \end{vmatrix}
 $$
 
@@ -627,7 +627,7 @@ dudx|x\=0
 
 ```null
 $$
-\left. \frac{{\rm d}u}{{\rm d}x} \right| _{x=0}
+\left. \frac{\rm d}u}{\rm d}x} \right| _{x=0}
 $$
 
 ```
@@ -653,10 +653,10 @@ $$
 ```null
 $$
 \begin{align}
-    \sqrt{37} & = \sqrt{\frac{73^2-1}{12^2}} \\
-              & = \sqrt{\frac{73^2}{12^2}\cdot\frac{73^2-1}{73^2}} \\ 
-              & = \sqrt{\frac{73^2}{12^2}}\sqrt{\frac{73^2-1}{73^2}} \\
-              & = \frac{73}{12}\sqrt{1-\frac{1}{73^2}} \\ 
+    \sqrt{37} & = \sqrt{\frac{73^2-1}{12^2} \\
+              & = \sqrt{\frac{73^2}{12^2}\cdot\frac{73^2-1}{73^2} \\ 
+              & = \sqrt{\frac{73^2}{12^2}\sqrt{\frac{73^2-1}{73^2} \\
+              & = \frac{73}{12}\sqrt{1-\frac{1}{73^2} \\ 
               & \approx \frac{73}{12}\left(1-\frac{1}{2\cdot73^2}\right) \\
 \end{align}
 $$
