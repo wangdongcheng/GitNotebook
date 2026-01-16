@@ -1,3 +1,5 @@
 - [2253-RM-Handbook-for-Agents-Amends-Jan24](2253-RM-Handbook-for-Agents-Amends-Jan24.pdf)
 - [3926-RM-Amends-to-2253-Agents-Handbook-Final-Jan-25](3926-RM-Amends-to-2253-Agents-Handbook-Final-Jan-25.pdf)
 - [RMA 63 - Clarification on the updated Health Insurance requirements](RMA%2063%20-%20Clarification%20on%20the%20updated%20Health%20Insurance%20requirements.pdf)
+- [MPRP申请FAQs](简体中文-FAQs-V2.pdf)
+- [MPRP-FAQs](MPRP-FAQs-V2.pdf)
