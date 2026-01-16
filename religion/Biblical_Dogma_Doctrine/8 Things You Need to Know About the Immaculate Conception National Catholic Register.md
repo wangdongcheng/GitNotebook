@@ -1,7 +1,7 @@
 # 8 Things You Need to Know About the Immaculate Conception| National Catholic Register
 https://www.ncregister.com/blog/8-things-you-need-to-know-about-the-immaculate-conception-bv9oa7nm
 
-![Alt text](../img/immaculate_conception.png)
+![Alt text](../../img/immaculate_conception.png)
 
 > *Immaculate Conception by Antonio Licata (1820). (photo: Renata Sedmakova / Shutterstock)*
 
