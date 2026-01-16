@@ -1,8 +1,8 @@
 - [2253-RM-Handbook-for-Agents-Amends-Jan24](./2253-RM-Handbook-for-Agents-Amends-Jan24.pdf)
 - [3926-RM-Amends-to-2253-Agents-Handbook-Final-Jan-25](./3926-RM-Amends-to-2253-Agents-Handbook-Final-Jan-25.pdf)
 - [RMA 63 - Clarification on the updated Health Insurance requirements](./RMA%2063%20-%20Clarification%20on%20the%20updated%20Health%20Insurance%20requirements.pdf)
-    - stipulating a minimum coverage of €100,000, applies solely to new applications submitted as of August 1st, 2024. It has been clarified that the insurance cover must include Malta and European countries
-    - individuals in regular employment in Malta are exempt from insurance payments after completing their first year of employment
+    - Stipulating a minimum coverage of €100,000, applies solely to new applications submitted as of August 1st, 2024. It has been clarified that the insurance cover must include Malta and European countries
+    - Individuals in regular employment in Malta are exempt from insurance payments after completing their first year of employment
 - [MPRP申请FAQs-V2](./简体中文-FAQs-V2.pdf)
 - [MPRP-FAQs-V2](./MPRP-FAQs-V2.pdf)
 - [MPRP-FAQs-V2.6.5](./MPRP-FAQs-V2.6.5.pdf)
