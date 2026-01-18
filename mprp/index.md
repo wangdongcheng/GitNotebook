@@ -1,4 +1,4 @@
-- [S.L.217.26-Amended-by-LN-310-of-2024_-LN-146-of-2025]("./S.L.217.26-Amended-by-LN-310-of-2024_-LN-146-of-2025.pdf")
+- [S.L.217.26-Amended-by-LN-310-of-2024_-LN-146-of-2025](./S.L.217.26-Amended-by-LN-310-of-2024_-LN-146-of-2025.pdf)
     - Eligibility criteria, programme requirements and all other relevant details are found in the Subsidiary Legislation 217.26 above
 - [2253-RM-Handbook-for-Agents-Amends-Jan24](./2253-RM-Handbook-for-Agents-Amends-Jan24.pdf)
 - [3926-RM-Amends-to-2253-Agents-Handbook-Final-Jan-25](./3926-RM-Amends-to-2253-Agents-Handbook-Final-Jan-25.pdf)
