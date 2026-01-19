@@ -11,3 +11,4 @@
 - [MPRP-FAQs-V2.6.5](./MPRP-FAQs-V2.6.5.pdf)
 - [Circular-No-RMA-72-L.N.-146-2025-1](./Circular-No-RMA-72-L.N.-146-2025-1.pdf)
     - The Legal Notice revises the Programme’s pricing structure and introduces a new temporary residence permit. It also introduces property rental flexibility, to enhance investment value
+- [Agents](./RMA_agents.html)
