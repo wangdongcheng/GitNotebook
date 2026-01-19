@@ -5,6 +5,7 @@
     - Individuals in regular employment in Malta are exempt from insurance payments after completing their first year of employment
 - [MPRP申请FAQs-V2](./简体中文-FAQs-V2.pdf)
 - [MPRP-FAQs-V2](./MPRP-FAQs-V2.pdf)
+- [MPRP-FAQs-V2.3](./MPRP-FAQs-V2.3.pdf)
 - [MPRP-FAQs-V2.6.5](./MPRP-FAQs-V2.6.5.pdf)
 - [Circular-No-RMA-72-L.N.-146-2025-1](./Circular-No-RMA-72-L.N.-146-2025-1.pdf)
     - The Legal Notice revises the Programme’s pricing structure and introduces a new temporary residence permit. It also introduces property rental flexibility, to enhance investment value
