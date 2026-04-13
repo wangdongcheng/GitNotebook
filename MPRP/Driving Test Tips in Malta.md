@@ -46,6 +46,7 @@ St. Aana大街，如果没有明确指示，默认开中间车道。
 Hamrun这里注意车道，要提前准备进左边道，不要压线。
 
 ![alt text](<../img/mdlt/Weixin Image_20260410115609_25.jpg>)  
+![alt text](../img/mdlt/image_20260413_160111.png)  
 这个路口听清指令后，记住要打灯，Valletta打左灯，Marsa打右灯。
 
 ![alt text](<../img/mdlt/Weixin Image_20260410120523_78.jpg>)  
