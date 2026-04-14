@@ -41,6 +41,12 @@ St. Aana大街，如果没有明确指示，默认开中间车道。
 ![alt text](<../img/mdlt/Weixin Image_20260410115609_15.jpg>)  
 如果从St. Anna大街进，这个出口出，注意听指令，straight 3rd exit, or right 3rd exit。Straight就中间车道进roundabout，Right就右边车道进。
 
+![alt text](../img/mdlt//image_20260414_130611.png)  
+这里左转注意打灯，因为这里可以左转直行或者右转，反方向回来时也一样。
+
+![alt text](../img/mdlt/image_20260414_130936.png)  
+这个隧道不要忘记打灯，过了隧道那个 roundabout 肯定是直接掉头回来的，不会再往 Valletta 里面开的，所以可以保持开着灯等掉完头出了隧道后再关。
+
 ![alt text](<../img/mdlt/Weixin Image_20260410115609_17.jpg>)  
 这里往左并线注意打灯。
 
@@ -59,6 +65,7 @@ Hamrun这里注意车道，要提前准备进左边道，不要压线。
 
 ![alt text](<../img/mdlt/Weixin Image_20260410120523_78.jpg>)  
 Hamrun这个路口的 STOP 标识极易被车遮挡，地上线也很模糊，一定要注意！
+
 
 
 ## 日常开车
