@@ -57,3 +57,11 @@ Hamrun这个路口的 STOP 标识极易被车遮挡，地上线也很模糊，�
 
 ## 日常开车
 ![alt text](../img/mdlt/image_20260413_165449.png)  
+
+
+## 擦边球
+![alt text](<../img/mdlt/Weixin Image_20260413165659_105.jpg>)  
+
+https://www.reddit.com/r/malta/comments/1ifzugr/12month_period_for_foreigner_driving_license/  
+
+![alt text](<../img/mdlt/Weixin Image_20260413165659_107.jpg>)
