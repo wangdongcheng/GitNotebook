@@ -10,6 +10,9 @@
 - 路口的波浪线exit line等于实线，不能变道
 - 每三五秒就看一圈后视镜，动作要明显能给考官看到；检查盲点过肩看，动作要明显甚至可以夸张，做到表演型驾驶
 
+![alt text](../img/mdlt/image_20260414_082728.png)  
+右转注意不能 cut corner，反正就是不能踩实线
+
 ![alt text](<../img/mdlt/Weixin Image_20260410115609_1.jpg>)  
 这个路口的绿灯只有10秒，如果看到绿灯，就慢悠悠过去等一个红灯比较保险。注意两根车道，考官说往Marsa就左道，说Hamrun就右道。
 
@@ -28,6 +31,9 @@
 
 ![alt text](<../img/mdlt/Weixin Image_20260410115609_11.jpg>)  
 这里掉头full turn要注意不要太靠外，不然对不准出口的中间车道，容易踩线。
+
+![alt text](../img/mdlt/image_20260414_083013.png)  
+这个人行道离 roundabout 出口很近，出roundabout就碰到的，很容易挂。因为需要完成“过肩看”检查 blind spot 的动作，然后这个动作做完头转回来，就直接到了人行道了，所以速度一定要慢，不然来不及做完整套动作。
 
 ![alt text](<../img/mdlt/Weixin Image_20260410115609_13.jpg>)  
 St. Aana大街，如果没有明确指示，默认开中间车道。
