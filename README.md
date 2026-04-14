@@ -4,4 +4,4 @@
 
 ![Alt text](./img/fall_from_tower.png)
 
-- [MPRP](./mprp/index.md)
+- [MPRP](./MPRP/)
