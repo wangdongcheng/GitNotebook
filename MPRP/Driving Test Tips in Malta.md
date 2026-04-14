@@ -64,6 +64,8 @@ Hamrun这个路口的 STOP 标识极易被车遮挡，地上线也很模糊，�
 ## 日常开车
 ![alt text](../img/mdlt/image_20260413_165449.png)  
 
+![alt text](../img/mdlt/3ce00678f24825e6bd3cbd30421a5715.jpg)  
+
 
 ## 擦边球
 ![alt text](<../img/mdlt/Weixin Image_20260413165659_105.jpg>)  
