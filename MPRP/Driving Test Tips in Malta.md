@@ -66,7 +66,8 @@ Hamrun这里注意车道，要提前准备进左边道，不要压线。
 ![alt text](<../img/mdlt/Weixin Image_20260410120523_78.jpg>)  
 Hamrun这个路口的 STOP 标识极易被车遮挡，地上线也很模糊，一定要注意！
 
-
+![alt text](../img/mdlt/image_20260416_084713.png)  
+waterfront 这边这个停车场出口，一定要尽量往右靠，然后 full stop 等完3秒，观察没有来车后往左打到底，一把左转进车道。碰到实线和倒车调整都是不行的。
 
 ## 日常开车
 ![alt text](../img/mdlt/image_20260413_165449.png)  
