@@ -6,7 +6,7 @@
 - 进隧道开灯，出隧道关灯
 - 从右边往左边变道，注意最左边有没有辅路的并入
 - 如果没有full stop sign和give way sign，就正常行驶，不要急停
-- valletta的大roundabout
+- Valletta 的大 roundabout 非常重要
 - 路口的波浪线exit line等于实线，不能变道
 - 每三五秒就看一圈后视镜，动作要明显能给考官看到；检查盲点过肩看，动作要明显甚至可以夸张，做到表演型驾驶
 
