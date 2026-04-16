@@ -75,7 +75,13 @@ waterfront 这边这个停车场出口，一定要尽量往右靠，然后 full 
 ![alt text](../img/mdlt/3ce00678f24825e6bd3cbd30421a5715.jpg)  
 
 
-## 擦边球
+## 外国驾照相关
+https://www.transport.gov.mt/RoadCodeEN.pdf-f10821  
+![alt text](../img/mdlt/image_20260416_165200.png)
+
+https://www.transport.gov.mt/land/driving/driving-licence/exchange-your-foreign-driving-licence-4541  
+![alt text](../img/mdlt/image_20260416_165349.png)
+
 ![alt text](<../img/mdlt/Weixin Image_20260413165659_105.jpg>)  
 
 https://www.reddit.com/r/malta/comments/1ifzugr/12month_period_for_foreigner_driving_license/  
