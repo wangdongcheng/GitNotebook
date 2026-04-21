@@ -87,3 +87,7 @@ https://www.transport.gov.mt/land/driving/driving-licence/exchange-your-foreign-
 https://www.reddit.com/r/malta/comments/1ifzugr/12month_period_for_foreigner_driving_license/  
 
 ![alt text](<../img/mdlt/Weixin Image_20260413165659_107.jpg>)
+
+https://www.facebook.com/groups/37543266722/permalink/10160756914426723/  
+
+![alt text](../img/mdlt/image_20260421_090927.png)  
