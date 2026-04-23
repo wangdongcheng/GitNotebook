@@ -1,6 +1,8 @@
 # What Does YHWH Mean? History of the Tetragrammaton | Christianity.com
 https://www.christianity.com/wiki/christian-terms/what-is-the-tetragrammaton-meaning-and-usage.html?utm_source=chatgpt.com
 
+![alt text](../../img/Ec9d14p3X4HHfW89i.jpg)
+
 Throughout history, the Bible has been translated into dozens of languages. As a result, God has acquired [a number of names](https://www.christianity.com/wiki/god/what-are-all-the-names-of-god.html): _Dios, Apajui_, _God_, _Enkai, Dieu, Gott_, and so on. However, [the Torah](https://www.christianity.com/wiki/bible/what-is-the-torah.html), written in Hebrew, did have a specific name for God. This name, YHWH, is known as the Tetragrammaton (which means "four letters").  
 
 ### YHWH: Table of Contents
