@@ -3,6 +3,10 @@ Exemptions Board at MES <exemptionsboard.mes@gov.mt>,
 Mifsud Deborah at MES <deborah.d.mifsud@gov.mt>,
 Borg Vincent at MES <vincent.e.borg@gov.mt>
 
+---***---
+我, dongcheng wang, id 482971a, 现正式提出我的申诉，恳请委员会再次重启审理，再次评估，以避免产生事实上的容易引起误会的行政决策。
+
+
 Statement of facts:
 
 - Last year, I submitted two applications for tuition-fee exemptions:
@@ -15,7 +19,7 @@ Statement of facts:
 
 Between the two sets of applications, none of the relevant information changed. The residence status of all three of us, the schools applied to, and my employment status all remained exactly the same.
 
----***---
+
 
 I do not make this submission lightly, and I would prefer to be shown that my conclusion is wrong.
 
