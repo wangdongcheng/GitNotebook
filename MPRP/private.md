@@ -4,7 +4,7 @@ Mifsud Deborah at MES <deborah.d.mifsud@gov.mt>,
 Borg Vincent at MES <vincent.e.borg@gov.mt>
 
 ---***---
-I, Dongcheng Wang (ID 482971A), hereby formally lodge my appeal and respectfully request that the Board reopen and reassess the matter, so as to avoid an administrative decision that may, in practice, readily give rise to misunderstanding.
+I, Dongcheng Wang (ID 482971A), hereby formally lodge my appeal and respectfully request that the Board reopen and reassess the matter, so as to avoid an administrative decision that could give rise to misunderstanding in practice.
 
 
 Statement of facts:
@@ -22,7 +22,7 @@ Between the two sets of applications, none of the relevant information changed. 
 FIRST, I MUST EMPHASISE:
 I AM FULLY AND UNEQUIVOCALLY AWARE THAT THE LEGAL FRAMEWORK OF THE MPRP PERMANENT RESIDENCE PROGRAMME DOES NOT INCLUDE FREE EDUCATION.
 
-（大写）所以请委员会也必须清晰无误地知悉，以下所叙述的前提，并不基于我们的MPRP居留类型，而是完全基于我是合法合规的居留在马耳他的TCN worker的这一事实。（大写）
+THE BOARD MUST THEREFORE ALSO BE CLEARLY AND UNEQUIVOCALLY AWARE THAT THE PREMISE OF THE ARGUMENT BELOW IS NOT OUR MPRP RESIDENCE STATUS, BUT SOLELY THE FACT THAT I AM A THIRD-COUNTRY NATIONAL WORKER LAWFULLY RESIDING IN MALTA.
 
 I do not make this submission lightly, and I would prefer to be shown that my conclusion is wrong.
 
