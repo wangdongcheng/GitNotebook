@@ -22,6 +22,7 @@ Between the two sets of applications, none of the relevant information changed. 
 FIRST, I MUST EMPHASISE:
 I AM FULLY AND UNEQUIVOCALLY AWARE THAT THE LEGAL FRAMEWORK OF THE MPRP PERMANENT RESIDENCE PROGRAMME DOES NOT INCLUDE FREE EDUCATION.
 
+（大写）所以请委员会也必须清晰无误地知悉，以下所叙述的前提，并不基于我们的MPRP居留类型，而是完全基于我是合法合规的居留在马耳他的TCN worker的这一事实。（大写）
 
 I do not make this submission lightly, and I would prefer to be shown that my conclusion is wrong.
 
