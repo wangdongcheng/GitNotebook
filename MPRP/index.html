@@ -166,32 +166,26 @@
     }
 
     .hero-art {
-      position: relative;
-      min-height: 420px;
+      display: flex;
+      min-width: 0;
+      flex-direction: column;
+      justify-content: center;
       margin: 0;
-      background: #ccd5e1;
+      background: #eaf1f8;
     }
 
     .hero-art img {
       display: block;
       width: 100%;
-      height: 100%;
-      object-fit: cover;
+      height: auto;
+      object-fit: contain;
       object-position: center;
     }
 
     .hero-art figcaption {
-      position: absolute;
-      right: 16px;
-      bottom: 16px;
-      max-width: calc(100% - 32px);
-      padding: 8px 12px;
-      border: 1px solid rgba(255, 255, 255, .35);
-      border-radius: 10px;
-      color: #fff;
-      background: rgba(14, 20, 32, .72);
+      padding: 12px 16px;
+      color: #465166;
       font-size: 11px;
-      backdrop-filter: blur(8px);
     }
 
     .notice {
@@ -292,12 +286,19 @@
       display: grid;
       width: 34px;
       height: 34px;
+      flex-shrink: 0;
       place-items: center;
       border-radius: 10px;
       color: var(--red);
       background: #fff1f3;
       font-size: 16px;
       font-weight: 900;
+    }
+
+    .icon.version {
+      width: auto;
+      min-width: 34px;
+      padding-inline: 8px;
     }
 
     .featured .icon {
@@ -379,7 +380,6 @@
 
     @media (max-width: 980px) {
       .hero-panel { grid-template-columns: 1fr; }
-      .hero-art { min-height: 450px; }
       .featured-grid { grid-template-columns: repeat(2, 1fr); }
       .resource-grid { grid-template-columns: repeat(2, 1fr); }
     }
@@ -430,14 +430,14 @@
             <h1>MPRP - <span>Malta 居留与生活资料库</span></h1>
             <p class="lede">集中查阅 MPRP 核心法规、代理人手册、官方通告、常见问题，以及在马耳他居留、教育与生活所需的实用资料。</p>
             <div class="hero-meta" aria-label="资料库概况">
-              <span class="pill">18 份本地资料</span>
+              <span class="pill">19 份本地资料</span>
               <span class="pill">法规与官方文件优先</span>
               <span class="pill">支持离线浏览</span>
             </div>
           </div>
           <figure class="hero-art">
-            <img src="Exemption%20Board_%20Same%20Facts,%20Different%20Outcomes.png" alt="关于相同事实却产生不同结果的教育费用豁免主题插画">
-            <figcaption>Exemption Board · Same Facts, Different Outcomes</figcaption>
+            <img src="f334a501-756b-4c63-b6fe-efcff1877e3b.png" width="1448" height="1086" alt="马耳他背景下，持工作许可、税务和 MPRP 居留文件的家长与子女在教育申请窗口遭到拒绝的主题插画">
+            <figcaption>MRVP / MPRP 家庭子女学费豁免 · 教育政策议题插画</figcaption>
           </figure>
         </div>
         <aside class="notice">
@@ -462,7 +462,7 @@
           <article class="card featured">
             <div class="card-top"><span class="file-type">常见问题 · PDF</span><span class="icon">?</span></div>
             <h3>MPRP FAQs V2.6.5</h3>
-            <p>当前目录中版本号最高的英文常见问题文件。</p>
+            <p>当前目录中版本号最高的英文常见问题文件，文末标注发布于 12/09/2024。</p>
             <a class="card-link" href="MPRP-FAQs-V2.6.5.pdf" target="_blank" rel="noopener" type="application/pdf">查看 FAQ</a>
           </article>
           <article class="card featured">
@@ -553,9 +553,9 @@
         </div>
         <div class="resource-grid">
           <article class="card">
-            <div class="card-top"><span class="file-type">推荐 · PDF</span><span class="icon">2.6</span></div>
+            <div class="card-top"><span class="file-type">推荐 · PDF</span><span class="icon version">2.6.5</span></div>
             <h3>MPRP FAQs V2.6.5</h3>
-            <p>目录内版本号最高的英文版本。</p>
+            <p>目录内版本号最高的英文版本。根据文末标注，Version 2.6.5 发布于 12/09/2024。</p>
             <a class="card-link" href="MPRP-FAQs-V2.6.5.pdf" target="_blank" rel="noopener" type="application/pdf">查看文件</a>
           </article>
           <article class="card">
@@ -612,6 +612,12 @@
             <a class="card-link" href="Ombudsman%20reply.pdf" target="_blank" rel="noopener" type="application/pdf">查看文件</a>
           </article>
           <article class="card">
+            <div class="card-top"><span class="file-type">问题清单 · 三语 PDF</span><span class="icon">?</span></div>
+            <h3>建议请教育部及申诉专员厘清的问题</h3>
+            <p>围绕 MRVP / MPRP 家庭子女学费豁免整理的 13 项待澄清问题，涵盖政策依据、劳动者待遇、过渡安排及申诉途径；含繁体中文、简体中文和英文。</p>
+            <a class="card-link" href="建議請教育部及申訴專員釐清的問題_繁簡英三語.pdf" target="_blank" rel="noopener" type="application/pdf">查看三语问题清单</a>
+          </article>
+          <article class="card">
             <div class="card-top"><span class="file-type">社保 · PDF</span><span class="icon">+</span></div>
             <h3>Social Security Rights in Malta</h3>
             <p>2024 年马耳他社会保障权利资料。</p>
@@ -621,13 +627,13 @@
             <div class="card-top"><span class="file-type">搬迁 · Markdown</span><span class="icon">→</span></div>
             <h3>第三国国民搬迁指南</h3>
             <p>Relocating to Malta：第三国国民（TCNs）实用指南。</p>
-            <a class="card-link" href="Relocating%20to%20Malta%20A%20Guide%20for%20Third%20Country%20Nationals%20(TCNs)%20-%20WH%20Partners">阅读笔记</a>
+            <a class="card-link" href="Relocating%20to%20Malta%20A%20Guide%20for%20Third%20Country%20Nationals%20(TCNs)%20-%20WH%20Partners.md">阅读笔记</a>
           </article>
           <article class="card">
             <div class="card-top"><span class="file-type">驾驶 · Markdown</span><span class="icon">D</span></div>
             <h3>马岛路考，铭记于心</h3>
             <p>路考注意事项、常见路线、路口提示及外国驾照相关资料。</p>
-            <a class="card-link" href="Driving%20Test%20Tips%20in%20Malta">阅读笔记</a>
+            <a class="card-link" href="Driving%20Test%20Tips%20in%20Malta.md">阅读笔记</a>
           </article>
         </div>
       </div>
@@ -637,7 +643,7 @@
   <footer>
     <div class="shell footer-row">
       <span>© 2026 MPRP · Malta 居留与生活资料库</span>
-      <span>资料目录更新：2026-10-01</span>
+      <span>资料目录更新：2026-10-02</span>
     </div>
   </footer>
 </body>
