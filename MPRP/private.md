@@ -3,8 +3,6 @@ Exemptions Board at MES <exemptionsboard.mes@gov.mt>,
 Mifsud Deborah at MES <deborah.d.mifsud@gov.mt>,
 Borg Vincent at MES <vincent.e.borg@gov.mt>
 
----***---
-
 Statement of facts:
 
 - Last year, I submitted two applications for tuition-fee exemptions:
@@ -16,6 +14,8 @@ Statement of facts:
     - Form EST-058985-V8OF3 for Xi WANG was submitted on 20 September 2026 and declined on 22 September 2026.
 
 Between the two sets of applications, none of the relevant information changed. The residence status of all three of us, the schools applied to, and my employment status all remained exactly the same.
+
+---***---
 
 I do not make this submission lightly, and I would prefer to be shown that my conclusion is wrong.
 
