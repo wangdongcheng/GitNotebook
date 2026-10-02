@@ -30,7 +30,7 @@ For university and post-secondary education, the same legislation allows specifi
 
 The decisive question is therefore not whether MPRP itself grants free education. IT PLAINLY DOES NOT.
 
-The decisive question is whether Maltese national legislation contains a specific provision that lawfully permits a TCN worker holding an MPRP residence status to be treated less favourably, for tuition-fee purposes, solely because his or her underlying residence status derives from MPRP rather than from a Single Permit.
+The decisive question is whether Maltese national legislation contains any provision that lawfully permits a TCN worker holding MPRP residence status and a valid Employment Licence to be excluded from eligibility to apply for, or to be considered for, a tuition-fee exemption, solely because the underlying residence permit derives from MPRP rather than from the Single Permit procedure.
 
 I do not make this submission lightly, and I would prefer to be shown that my conclusion is wrong.
 
@@ -38,7 +38,7 @@ However, on the basis of the legislation, published Government information, the 
 
 To date, no such statutory provision has been brought to my attention.
 
-Instead, the exclusion appears to arise from the Board’s administrative policy.
+Instead, the exclusion appears to arise only from the Board’s administrative policy.
 
 If the policy 4.6(e) merely guides the Minister's discretion, it should be characterised as such. If, however, it is relied upon as the “specific prerequisite in national legislation” permitted by Regulation 23(c), the statutory provision establishing that prerequisite should be identified.
 
