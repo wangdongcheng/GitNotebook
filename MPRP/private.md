@@ -24,11 +24,7 @@ First, I must emphasise: I am FULLY and UNEQUIVOCALLY aware that the legal frame
 
 ## Position:
 
-An MPRP holder who is separately and lawfully authorised to work in Malta is a legally resident third-country national and a lawful worker.
-
-Regulation 3(b) of S.L. 217.17 expressly states that these Regulations also apply to "those Third-Country Workers legally residing in Malta". Accordingly, an MPRP resident who holds a valid work permit is, under the law, a third-country worker, as is a Single Permit holder, and is covered by S.L. 217.17.
-
-S.L. 217.17 expressly establishes a common set of rights for third-country workers legally residing in Malta and provides, subject to the conditions stated therein, for equal treatment with Maltese nationals in education and vocational training.
+An MPRP beneficiary who is lawfully resident in Malta and separately authorised to work appears to fall within the category contemplated by Regulation 3(b) of S.L. 217.17, subject to the statutory conditions set out therein. (If the Board considers that an MPRP residence permit and a valid Jobsplus Employment Licence do not satisfy Regulation 3(b), the legal basis for that conclusion should be identified).
 
 For university and post-secondary education, the same legislation allows specific prerequisites concerning tuition fees to be imposed by national legislation.
 
@@ -44,7 +40,7 @@ To date, no such statutory provision has been brought to my attention.
 
 Instead, the exclusion appears to arise from the Board’s administrative policy.
 
-If that is incorrect, I invite the Ministry and the Board to identify the precise Act, Subsidiary Legislation, regulation or other provision of national legislation that establishes this distinction.
+If the policy 4.6(e) merely guides the Minister's discretion, it should be characterised as such. If, however, it is relied upon as the “specific prerequisite in national legislation” permitted by Regulation 23(c), the statutory provision establishing that prerequisite should be identified.
 
 Unless such a legal basis can be identified, I can only conclude that materially comparable third-country workers are being treated differently on the basis of the form or origin of their residence status, notwithstanding that both are lawfully resident and lawfully employed in Malta.
 
