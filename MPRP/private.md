@@ -4,7 +4,7 @@ Mifsud Deborah at MES <deborah.d.mifsud@gov.mt>,
 Borg Vincent at MES <vincent.e.borg@gov.mt>
 
 ---***---
-我, dongcheng wang, id 482971a, 现正式提出我的申诉，恳请委员会再次重启审理，再次评估，以避免产生事实上的容易引起误会的行政决策。
+I, Dongcheng Wang (ID 482971A), hereby formally lodge my appeal and respectfully request that the Board reopen and reassess the matter, so as to avoid an administrative decision that may, in practice, readily give rise to misunderstanding.
 
 
 Statement of facts:
