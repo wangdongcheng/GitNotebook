@@ -19,8 +19,8 @@ Statement of facts:
 
 Between the two sets of applications, none of the relevant information changed. The residence status of all three of us, the schools applied to, and my employment status all remained exactly the same.
 
-（大写开始）首先，我必须强调：
-我无比清晰无误地知悉mprp永居项目的法律框架并不包括免费教育。（大写结束）
+FIRST, I MUST EMPHASISE:
+I AM FULLY AND UNEQUIVOCALLY AWARE THAT THE LEGAL FRAMEWORK OF THE MPRP PERMANENT RESIDENCE PROGRAMME DOES NOT INCLUDE FREE EDUCATION.
 
 
 I do not make this submission lightly, and I would prefer to be shown that my conclusion is wrong.
