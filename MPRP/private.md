@@ -28,19 +28,17 @@ An MPRP/MRVP holder who is separately and lawfully authorised to work in Malta i
 
 Regulation 3(b) of S.L. 217.17 expressly states that these Regulations also apply to "those Third-Country Workers legally residing in Malta". Accordingly, an MPRP resident who holds a valid work permit is, under the law, a third-country worker just like a Single Permit holder and is covered by S.L. 217.17.
 
-I do not make this submission lightly, and I would prefer to be shown that my conclusion is wrong.
-
-However, on the basis of the legislation, published Government information, the Board’s own policies and the previous administrative decisions available to me, I am presently led to the following conclusion.
-
-
-
 S.L. 217.17 expressly establishes a common set of rights for third-country workers legally residing in Malta and provides, subject to the conditions stated therein, for equal treatment with Maltese nationals in education and vocational training.
 
 For university and post-secondary education, the same legislation allows specific prerequisites concerning tuition fees to be imposed by national legislation.
 
-The decisive question is therefore not whether MPRP itself grants free education. It plainly does not.
+The decisive question is therefore not whether MPRP itself grants free education. IT PLAINLY DOES NOT.
 
-The decisive question is whether Maltese national legislation contains a specific provision that lawfully permits a third-country worker holding an MPRP/MRVP residence status and a valid Employment Licence to be treated less favourably, for tuition-fee purposes, solely because his or her underlying residence status derives from MPRP/MRVP rather than from a Single Permit.
+The decisive question is whether Maltese national legislation contains a specific provision that lawfully permits a TCN worker holding an MPRP residence status to be treated less favourably, for tuition-fee purposes, solely because his or her underlying residence status derives from MPRP rather than from a Single Permit.
+
+I do not make this submission lightly, and I would prefer to be shown that my conclusion is wrong.
+
+However, on the basis of the legislation, published Government information, the Board’s own policies and the previous administrative decisions available to me, I am presently led to the following conclusion.
 
 To date, no such statutory provision has been identified to me.
 
