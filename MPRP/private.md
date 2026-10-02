@@ -15,7 +15,7 @@ Statement of facts:
     - Form EST-058986-80SLX for Yingchun LIU was submitted on 20 September 2026 and declined on 2 October 2026.
     - Form EST-058985-V8OF3 for Xi WANG was submitted on 20 September 2026 and declined on 22 September 2026.
 
-两次申请，所有的信息都没有变化，我们三个人的居留状态，所申请的学校，我的工作状态，都完全一摸一样，没有任何的变化。
+Between the two sets of applications, none of the relevant information changed. The residence status of all three of us, the schools applied to, and my employment status all remained exactly the same.
 
 I do not make this submission lightly, and I would prefer to be shown that my conclusion is wrong.
 
