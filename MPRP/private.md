@@ -24,9 +24,9 @@ First, I must emphasise: I am FULLY and UNEQUIVOCALLY aware that the legal frame
 
 ## Position:
 
-An MPRP/MRVP holder who is separately and lawfully authorised to work in Malta is a legally resident third-country national who is also a lawful worker.
+An MPRP/MRVP holder who is separately and lawfully authorised to work in Malta is a legally resident third-country national and a lawful worker.
 
-Regulation 3(b) of S.L. 217.17 expressly states that these Regulations also apply to "those Third-Country Workers legally residing in Malta". Accordingly, an MPRP resident who holds a valid work permit is, under the law, a third-country worker just like a Single Permit holder and is covered by S.L. 217.17.
+Regulation 3(b) of S.L. 217.17 expressly states that these Regulations also apply to "those Third-Country Workers legally residing in Malta". Accordingly, an MPRP resident who holds a valid work permit is, under the law, a third-country worker, as is a Single Permit holder, and is covered by S.L. 217.17.
 
 S.L. 217.17 expressly establishes a common set of rights for third-country workers legally residing in Malta and provides, subject to the conditions stated therein, for equal treatment with Maltese nationals in education and vocational training.
 
@@ -40,7 +40,7 @@ I do not make this submission lightly, and I would prefer to be shown that my co
 
 However, on the basis of the legislation, published Government information, the Board’s own policies and the previous administrative decisions available to me, I am presently led to the following conclusion.
 
-To date, no such statutory provision has been identified to me.
+To date, no such statutory provision has been brought to my attention.
 
 Instead, the exclusion appears to arise from the Board’s administrative policy.
 
@@ -54,7 +54,7 @@ The position is even more difficult to reconcile with good administration becaus
 
 I am not claiming an automatic or unconditional right to a tuition-fee exemption.
 
-I am asserting something narrower, but fundamental: if the State treats two categories of legally resident third-country workers differently, it must be able to identify the lawful basis for doing so.
+I am asserting something narrower but fundamental: if the State treats two categories of legally resident third-country workers differently, it must be able to identify the lawful basis for doing so.
 
 If that basis exists, it should be stated clearly.
 
