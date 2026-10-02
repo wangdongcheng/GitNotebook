@@ -24,7 +24,7 @@ First, I must emphasise: I am FULLY and UNEQUIVOCALLY aware that the legal frame
 
 ## Position:
 
-An MPRP/MRVP holder who is separately and lawfully authorised to work in Malta is a legally resident third-country national and a lawful worker.
+An MPRP holder who is separately and lawfully authorised to work in Malta is a legally resident third-country national and a lawful worker.
 
 Regulation 3(b) of S.L. 217.17 expressly states that these Regulations also apply to "those Third-Country Workers legally residing in Malta". Accordingly, an MPRP resident who holds a valid work permit is, under the law, a third-country worker, as is a Single Permit holder, and is covered by S.L. 217.17.
 
@@ -50,7 +50,7 @@ Unless such a legal basis can be identified, I can only conclude that materially
 
 I consider such differential treatment to be potentially discriminatory, legally questionable and inconsistent with the equal-treatment framework unless it can be objectively and lawfully justified.
 
-The position is even more difficult to reconcile with good administration because applications involving MRVP/MPRP holders with work permits were in fact approved after the relevant policy had already been introduced, while materially comparable applications are now being categorically refused.
+The position is even more difficult to reconcile with good administration because applications involving MPRP holders with work permits were in fact approved after the relevant policy had already been introduced, while materially comparable applications are now being categorically refused.
 
 I am not claiming an automatic or unconditional right to a tuition-fee exemption.
 
