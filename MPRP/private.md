@@ -7,10 +7,14 @@ Borg Vincent at MES <vincent.e.borg@gov.mt>
 
 Statement of facts:
 
-Last year, I submitted two applications for tuition-fee exemptions:
+- Last year, I submitted two applications for tuition-fee exemptions:
+    - Form EST-036134-OOM6M for my wife, Yingchun LIU (ID 482968A), to study at MCAST, was submitted on 26 September and approved on 13 October 2025.
+    - Form EST-036180-8FYIW for my daughter, Xi WANG (ID 482972A), to study at GCHSS, was submitted on 28 September and approved on 10 October 2025.
 
-- Form EST-036134-OOM6M for my wife, Yingchun LIU (ID 482968A), to study at MCAST, submitted on 26 September and approved on 13 October 2025.
-- Form EST-036180-8FYIW for my daughter, Xi WANG (ID 482972A), to study at GCHSS, submitted on 28 September and approved on 10 October 2025.
+- This year, I likewise submitted two applications:
+    - Form EST-058986-80SLX for Yingchun LIU was submitted on 20 September 2026 and declined on 2 October 2026.
+    - Form EST-058985-V8OF3 for Xi WANG was submitted on 20 September 2026 and declined on 22 September 2026.
+
 
 I do not make this submission lightly, and I would prefer to be shown that my conclusion is wrong.
 
