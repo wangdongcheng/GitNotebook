@@ -3,13 +3,12 @@ Exemptions Board at MES <exemptionsboard.mes@gov.mt>,
 Mifsud Deborah at MES <deborah.d.mifsud@gov.mt>,
 Borg Vincent at MES <vincent.e.borg@gov.mt>
 
----***---
 
 I, Dongcheng Wang (ID 482971A), hereby formally lodge my appeal and respectfully request that the Board reopen and reassess the matter, so as to avoid an administrative decision that could give rise to misunderstanding in practice.
 
-First, I must emphasise: I am fully and unequivocally aware that the legal framework of the MPRP permanent residence programme does not include free education. The Board must therefore also be clearly and unequivocally aware that the premise of the argument below is not our MPRP residence status, but solely the fact that I am a TCN worker lawfully residing in Malta.
+First, I must emphasise: I am FULLY and UNEQUIVOCALLY aware that the legal framework of the MPRP permanent residence programme does not include free education. The Board must therefore also be clearly aware that the premise of the argument below is not our MPRP residence status, but solely the fact that I am a TCN worker lawfully residing in Malta.
 
-Statement of facts:
+## Statement of facts:
 
 - Last year, I submitted two applications for tuition-fee exemptions:
     - Form EST-036134-OOM6M for my wife, Yingchun LIU (ID 482968A), to study at MCAST, was submitted on 26 September and approved on 13 October 2025.
@@ -21,10 +20,13 @@ Statement of facts:
 
 - Between the two sets of applications, none of the relevant information changed. The residence status of all three of us, the schools applied to, and my employment status all remained exactly the same.
 
-Position:
+---***---
+
+## Position:
+
 An MPRP/MRVP holder who is separately and lawfully authorised to work in Malta is a legally resident third-country national who is also a lawful worker.
 
-Regulation 1(1) of S.L. 217.17 expressly states that these Regulations also apply to "those Third-Country Workers legally residing in Malta". Accordingly, an MPRP resident who holds a valid work permit is, under the law, a third-country worker just like a Single Permit holder and is covered by S.L. 217.17.
+Regulation 3(b) of S.L. 217.17 expressly states that these Regulations also apply to "those Third-Country Workers legally residing in Malta". Accordingly, an MPRP resident who holds a valid work permit is, under the law, a third-country worker just like a Single Permit holder and is covered by S.L. 217.17.
 
 I do not make this submission lightly, and I would prefer to be shown that my conclusion is wrong.
 
