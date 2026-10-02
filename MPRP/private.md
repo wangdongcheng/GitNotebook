@@ -1,0 +1,49 @@
+education.meyr@gov.mt,
+Exemptions Board at MES <exemptionsboard.mes@gov.mt>,
+Mifsud Deborah at MES <deborah.d.mifsud@gov.mt>,
+Borg Vincent at MES <vincent.e.borg@gov.mt>
+
+---***---
+
+事实陈述:
+去年提交了两份学费豁免申请
+- Form EST-036134-OOM6M for my wife Yingchun LIU (ID 482968A) to study in MCAST, submitted on 26th Sept, 于13/10/2025被批准;
+
+- Form EST-036180-8FYIW for my daughter Xi WANG (ID 482972A) to study in GCHSS, submitted on 28th Sept, 于10/10/2025获批。
+
+
+I do not make this submission lightly, and I would prefer to be shown that my conclusion is wrong.
+
+However, on the basis of the legislation, published Government information, the Board’s own policies and the previous administrative decisions available to me, I am presently driven to the following conclusion.
+
+An MPRP/MRVP holder who is separately and lawfully authorised to work in Malta is a legally resident third-country national who is also a lawful worker.
+
+S.L. 217.17 expressly establishes a common set of rights for third-country workers legally residing in Malta and provides, subject to the conditions stated therein, for equal treatment with Maltese nationals in education and vocational training.
+
+For university and post-secondary education, the same legislation allows specific prerequisites concerning tuition fees to be imposed by national legislation.
+
+The decisive question is therefore not whether MPRP itself grants free education. It plainly does not.
+
+The decisive question is whether Maltese national legislation contains a specific provision which lawfully permits a third-country worker holding an MPRP/MRVP residence status and a valid Employment Licence to be treated less favourably, for tuition-fee purposes, solely because his or her underlying residence status derives from MPRP/MRVP rather than from a Single Permit.
+
+To date, no such statutory provision has been identified to me.
+
+Instead, the exclusion appears to arise from the Board’s administrative Policy.
+
+If that is incorrect, I invite the Ministry and the Board to identify the precise Act, Subsidiary Legislation, regulation or other provision of national legislation which establishes this distinction.
+
+Unless such a legal basis can be identified, I can only conclude that materially comparable third-country workers are being treated differently on the basis of the form or origin of their residence status, notwithstanding that both are lawfully resident and lawfully employed in Malta.
+
+I consider such differential treatment to be potentially discriminatory, legally questionable and inconsistent with the equal-treatment framework unless it can be objectively and lawfully justified.
+
+The position becomes still more difficult to reconcile with good administration because MRVP/MPRP + Work Permit applications were in fact approved after the relevant policy had already been introduced, while materially comparable applications are now being categorically refused.
+
+I am not claiming an automatic or unconditional right to a tuition-fee exemption.
+
+I am asserting something narrower, but fundamental:
+
+if the State treats two categories of legally resident third-country workers differently, it must be able to identify the lawful basis for doing so.
+
+If that basis exists, it should be stated clearly.
+
+If it does not, then the present policy and its implementation require reconsideration and correction.
