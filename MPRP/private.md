@@ -44,6 +44,10 @@ The decisive question is whether Maltese national legislation contains any provi
 
 **This submission concerns eligibility to apply and to receive substantive consideration. It does not assert an automatic entitlement to approval.**
 
+If the Board’s position is that an MPRP beneficiary with a valid Employment Licence is only technically permitted to submit an application, but is categorically incapable of receiving a post-secondary or tertiary tuition-fee exemption, then the distinction between “eligible to apply” and “not eligible for exemption” is largely formal rather than substantive.
+
+In that situation, the material question remains the same: what statutory provision lawfully renders that entire category substantively ineligible, irrespective of the individual merits of the application?
+
 I do not make this submission lightly, and I would prefer to be shown that my conclusion is wrong.
 
 However, on the basis of the legislation, published Government information, the Board’s own policies and the previous administrative decisions available to me, I am presently led to the following conclusion.
