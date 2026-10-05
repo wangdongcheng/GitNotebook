@@ -20,8 +20,7 @@ For the avoidance of doubt, the argument set out below **does not rely on our MP
     - Form EST-036180-8FYIW for my daughter, Xi WANG, to study at GCHSS, was submitted on 28 September and approved on 10 October 2025.
 
 - This year, I likewise submitted two applications:
-    - Form EST-058986-80SLX for Yingchun LIU was submitted on 20 September 2026 and refused on 2 October 2026, with the refusal stating that
-    > as per our Policy, post-secondary and tertiary education under the MRVA/MPRP/MRVP is not eligible for exemption.
+    - Form EST-058986-80SLX for Yingchun LIU was submitted on 20 September 2026 and refused on 2 October 2026, with the refusal stating that *as per our Policy, post-secondary and tertiary education under the MRVA/MPRP/MRVP is not eligible for exemption*.
 
     - Form EST-058985-V8OF3 for Xi WANG was submitted on 20 September 2026 and refused on 22 September 2026, with the same reason.
 
@@ -55,7 +54,7 @@ But, `Rule` 4.6(e) itself requires an important distinction to be made.
 
 I fully accept the statement in `Rule` 4.6(e) that tertiary education is not covered under the MPRP programmes. **I do not rely on MPRP as the source of any entitlement to tertiary education.** However, that is not the legal basis on which this request is made. `Rule` 4.6(e) addresses the treatment available under the MPRP residence programmes. It does not expressly address the separate question of whether **an MPRP beneficiary who is independently authorised to work in Malta** may qualify for consideration in his capacity as a third-country worker under `S.L. 217.17`.
 
-In other words, the proposition that tertiary education is not covered under MPRP” does not, by itself, establish the separate proposition that **an MPRP beneficiary who also qualifies as a third-country worker is categorically ineligible to apply for, or to receive substantive consideration for, a tuition-fee exemption under any other applicable statutory framework.**
+In other words, the proposition that *tertiary education is not covered under MPRP* does not, by itself, establish the separate proposition that **an MPRP beneficiary who also qualifies as a third-country worker is categorically ineligible to apply for, or to receive substantive consideration for, a tuition-fee exemption under any other applicable statutory framework.**
 
 That additional conclusion requires its own legal basis. Accordingly, even if `Rule` 4.6(e) is applied fully according to its wording, it does not by itself resolve the issue raised in this submission: whether my separate legal status as a lawfully resident and lawfully employed third-country worker brings me within the framework contemplated by Regulation 3(b) and Regulation 23 of `S.L. 217.17`.
 
