@@ -78,7 +78,8 @@ In light of the above, I respectfully request that the Board and the Ministry:
 
 4. Issue a reasoned decision addressing the legal distinction between eligibility to apply and the discretionary decision whether an exemption should ultimately be granted.
 
----  
+---
+
 Although we were not born in Malta, our whole family now lives here. We study here, we work here, we contribute here, and we are proud to pay our taxes here. Malta welcomed our family warmly and has given us a sense of security, belonging and kindness that we value deeply. It is no longer simply the country in which we reside; it is the place we now call home.
 
 For that reason, I respectfully ask that our position be understood in its proper spirit. We are not seeking special treatment. We are asking only to be treated under the same lawful eligibility framework applicable to other third-country workers, unless the law itself provides otherwise.
