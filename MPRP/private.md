@@ -7,6 +7,8 @@ clientrelations.residencymalta@gov.mt
 
 ![alt text](flow.png)
 
+![alt text](flow1.png)
+
 Dear Exemption Board and Ministry for Education,
 
 I, Dongcheng Wang (ID 482971A, MPRP Holder), hereby submit this formal request for reconsideration and legal review of the decisions refusing the tuition-fee exemption applications submitted on behalf of my wife, Yingchun LIU (ID 482968A), and my daughter, Xi WANG (ID 482972A).
