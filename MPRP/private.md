@@ -5,7 +5,7 @@ Borg Vincent at MES <vincent.e.borg@gov.mt>
 
 clientrelations.residencymalta@gov.mt
 
-
+![alt text](flow.png)
 
 Dear Exemption Board and Ministry for Education,
 
