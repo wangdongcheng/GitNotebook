@@ -4,6 +4,8 @@ Mifsud Deborah at MES <deborah.d.mifsud@gov.mt>,
 Borg Vincent at MES <vincent.e.borg@gov.mt>
 
 
+Dear Exemption Board and Ministry for Education,
+
 I, Dongcheng Wang (ID 482971A), hereby submit this formal request for reconsideration and legal review of the decisions refusing the tuition-fee exemption applications submitted on behalf of my wife, Yingchun LIU (ID 482968A), and my daughter, Xi WANG (ID 482972A).
 
 For the avoidance of doubt, the argument set out below does not rely on our MPRP residence status as the source of any entitlement to free education. It relies solely on my separate status as a third-country national worker lawfully residing and working in Malta.
