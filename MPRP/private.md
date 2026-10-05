@@ -54,13 +54,13 @@ However, on the basis of the legislation, published Government information, the 
 
 To date, no such statutory provision has been brought to my attention.
 
-Instead, the exclusion appears to arise only from the Board’s administrative policy, POLICY and RULES OF PROCEDURE FOR THE EXEMPTION OF FEES OF STATE EDUCATION INSTITUTIONS (Revised June 2023, hereinafter abbreviated as `Rule`).
+Instead, the exclusion appears to arise from the Board’s administrative policy, namely ***the Policy and Rules of Procedure for the Exemption of Fees of State Education Institutions*** (Revised June 2023, hereinafter referred to as the `Policy`).
 
 But, `Rule` 4.6(e) itself requires an important distinction to be made.
 
 I fully accept the statement in `Rule` 4.6(e) that tertiary education is not covered under the MPRP programmes. **I do not rely on MPRP as the source of any entitlement to tertiary education.** However, that is not the legal basis on which this request is made. `Rule` 4.6(e) addresses the treatment available under the MPRP residence programmes. It does not expressly address the separate question of whether **an MPRP beneficiary who is independently authorised to work in Malta** may qualify for consideration in his capacity as a third-country worker under `S.L. 217.17`.
 
-In other words, the proposition that *tertiary education is not covered under MPRP* does not, by itself, establish the separate proposition that **an MPRP beneficiary who also qualifies as a third-country worker is categorically ineligible to apply for, or to receive substantive consideration for, a tuition-fee exemption under any other applicable statutory framework.**
+In other words, the proposition that *tertiary education is not covered under MPRP* does not, by itself, establish the separate proposition that **an MPRP beneficiary who also qualifies as a third-country worker is categorically ineligible to apply for, or to receive substantive consideration for, a tuition-fee exemption under the separate worker-based framework established by `S.L. 217.17`.**
 
 That additional conclusion requires its own legal basis. Accordingly, even if `Rule` 4.6(e) is applied fully according to its wording, it does not by itself resolve the issue raised in this submission: whether my separate legal status as a lawfully resident and lawfully employed third-country worker brings me within the framework contemplated by Regulation 3(b) and Regulation 23 of `S.L. 217.17`.
 
@@ -96,7 +96,7 @@ In light of the above, I respectfully request that the Board and the Ministry:
 
 2. Confirm whether an MPRP holder who is lawfully resident and separately authorised to work under a valid Jobsplus Employment Licence falls within Regulation 3(b) of `S.L. 217.17`;
 
-3. If the applications are considered categorically ineligible because of MPRP residence status, **identify the precise statutory provision establishing or authorising that exclusion, including any provision said to extend `Rule` 4.6(e) beyond the MPRP programme itself so as to exclude a separate worker-based route under `S.L. 217.17`**; and
+3. If the applications are considered categorically ineligible because of MPRP residence status, **identify the precise statutory provision establishing or authorising that exclusion, including any provision said to exclude the separate worker-based route under S.L. 217.17**; and
 
 4. Issue a reasoned decision addressing the legal distinction between eligibility to apply and the discretionary decision whether an exemption should ultimately be granted.
 
