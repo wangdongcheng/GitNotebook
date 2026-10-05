@@ -3,6 +3,9 @@ Exemptions Board at MES <exemptionsboard.mes@gov.mt>,
 Mifsud Deborah at MES <deborah.d.mifsud@gov.mt>,
 Borg Vincent at MES <vincent.e.borg@gov.mt>
 
+clientrelations.residencymalta@gov.mt
+
+
 
 Dear Exemption Board and Ministry for Education,
 
