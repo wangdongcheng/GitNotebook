@@ -46,7 +46,7 @@ To date, no such statutory provision has been brought to my attention.
 
 Instead, the exclusion appears to arise only from the Board’s administrative policy.
 
-Whether Rule 4.6(e) is characterised merely as guidance governing the Minister’s exercise of discretion, or whether it is relied upon as constituting, reflecting or implementing the “specific prerequisites in national legislation” permitted by Regulation 23(c) of S.L. 217.17, **the statutory basis for that exclusion should in either case be identified**.
+Whether policy 4.6(e) is characterised merely as guidance governing the Minister’s exercise of discretion, or whether it is relied upon as constituting, reflecting or implementing the “specific prerequisites in national legislation” permitted by Regulation 23(c) of S.L. 217.17, **the statutory basis for that exclusion should in either case be identified**.
 
 A policy provision that categorically excludes applications arising from an entire class of lawfully resident and lawfully employed third-country workers from eligibility for post-secondary or tertiary tuition-fee exemption, solely by reference to the underlying form of the TCN worker’s residence status, should not be treated as self-sufficient legal authority for that exclusion.
 
