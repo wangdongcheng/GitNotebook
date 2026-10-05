@@ -9,7 +9,7 @@ clientrelations.residencymalta@gov.mt
 
 Dear Exemption Board and Ministry for Education,
 
-I, Dongcheng Wang (ID 482971A), hereby submit this formal request for reconsideration and legal review of the decisions refusing the tuition-fee exemption applications submitted on behalf of my wife, Yingchun LIU (ID 482968A), and my daughter, Xi WANG (ID 482972A).
+I, Dongcheng Wang (ID 482971A, MPRP Holder), hereby submit this formal request for reconsideration and legal review of the decisions refusing the tuition-fee exemption applications submitted on behalf of my wife, Yingchun LIU (ID 482968A), and my daughter, Xi WANG (ID 482972A).
 
 For the avoidance of doubt, the argument set out below **does not rely on our MPRP residence status as the source of any entitlement to free education**. It relies solely on **my separate status as a third-country national worker lawfully residing and working in Malta**.
 
@@ -20,14 +20,16 @@ For the avoidance of doubt, the argument set out below **does not rely on our MP
     - Form EST-036180-8FYIW for my daughter, Xi WANG, to study at GCHSS, was submitted on 28 September and approved on 10 October 2025.
 
 - This year, I likewise submitted two applications:
-    - Form EST-058986-80SLX for Yingchun LIU was submitted on 20 September 2026 and declined on 2 October 2026.
-    - Form EST-058985-V8OF3 for Xi WANG was submitted on 20 September 2026 and declined on 22 September 2026.
+    - Form EST-058986-80SLX for Yingchun LIU was submitted on 20 September 2026 and refused on 2 October 2026, with the refusal stating that
+    > as per our Policy, post-secondary and tertiary education under the MRVA/MPRP/MRVP is not eligible for exemption.
+
+    - Form EST-058985-V8OF3 for Xi WANG was submitted on 20 September 2026 and refused on 22 September 2026, with the same reason.
 
 Between the 2025 and 2026 applications, the material residence, employment and family circumstances relevant to the exemption remained unchanged. Our residence status remained the same, my employment status remained the same, and the applications concerned the same educational institutions.
 
 ## Position
 
-An MPRP beneficiary who is lawfully resident in Malta and separately authorised to work appears to fall within the category contemplated by **Regulation 3(b) of S.L. 217.17**, subject to the statutory conditions set out therein.
+An MPRP beneficiary who is lawfully resident in Malta and separately authorised to work appears to fall within the category contemplated by **Regulation 3(b) of `S.L. 217.17`**, subject to the statutory conditions set out therein.
 
 If the Board considers that an MPRP residence permit combined with a valid Jobsplus Employment Licence does not satisfy the conditions of Regulation 3(b), I respectfully request that the precise legal basis for that conclusion be identified.
 
@@ -47,11 +49,23 @@ However, on the basis of the legislation, published Government information, the 
 
 To date, no such statutory provision has been brought to my attention.
 
-Instead, the exclusion appears to arise only from the Board’s administrative policy.
+Instead, the exclusion appears to arise only from the Board’s administrative policy, POLICY and RULES OF PROCEDURE FOR THE EXEMPTION OF FEES OF STATE EDUCATION INSTITUTIONS (Revised June 2023, hereinafter abbreviated as `Rule`).
 
-Whether policy 4.6(e) is characterised merely as guidance governing the Minister’s exercise of discretion, or whether it is relied upon as constituting, reflecting or implementing the “specific prerequisites in national legislation” permitted by Regulation 23(c) of S.L. 217.17, **the statutory basis for that exclusion should in either case be identified**.
+But, `Rule` 4.6(e) itself requires an important distinction to be made.
 
-A policy provision that categorically excludes applications arising from an entire class of lawfully resident and lawfully employed third-country workers from eligibility for post-secondary or tertiary tuition-fee exemption, solely by reference to the underlying form of the TCN worker’s residence status, should not be treated as self-sufficient legal authority for that exclusion.
+I fully accept the statement in `Rule` 4.6(e) that tertiary education is not covered under the MPRP programmes. **I do not rely on MPRP as the source of any entitlement to tertiary education.** However, that is not the legal basis on which this request is made. `Rule` 4.6(e) addresses the treatment available under the MPRP residence programmes. It does not expressly address the separate question of whether **an MPRP beneficiary who is independently authorised to work in Malta** may qualify for consideration in his capacity as a third-country worker under `S.L. 217.17`.
+
+In other words, the proposition that tertiary education is not covered under MPRP” does not, by itself, establish the separate proposition that **an MPRP beneficiary who also qualifies as a third-country worker is categorically ineligible to apply for, or to receive substantive consideration for, a tuition-fee exemption under any other applicable statutory framework.**
+
+That additional conclusion requires its own legal basis. Accordingly, even if `Rule` 4.6(e) is applied fully according to its wording, it does not by itself resolve the issue raised in this submission: whether my separate legal status as a lawfully resident and lawfully employed third-country worker brings me within the framework contemplated by Regulation 3(b) and Regulation 23 of `S.L. 217.17`.
+
+If the Board considers that `Rule` 4.6(e) also operates to exclude that separate worker-based route, I respectfully request that the statutory provision establishing or authorising such an exclusion be identified.
+
+This distinction is fundamental. **I am not seeking tertiary education benefits by virtue of MPRP**. I am asking to be considered on the basis of my separate status as a third-country worker.
+
+Whether `Rule` 4.6(e) is characterised merely as guidance governing the Minister’s exercise of discretion, or whether it is relied upon as constituting, reflecting or implementing the “specific prerequisites in national legislation” permitted by Regulation 23(c) of `S.L. 217.17`, **the statutory basis for excluding that separate worker-based route should in either case be identified**.
+
+A policy provision stating that tertiary education is not covered under the MPRP programmes should not, without further statutory authority, be treated as self-sufficient legal authority for the broader proposition that an MPRP beneficiary who separately qualifies as a lawfully resident third-country worker is categorically ineligible even to apply for, or receive substantive consideration for, a tuition-fee exemption.
 
 Unless such a legal basis can be identified, I can only conclude that **materially comparable third-country workers are being treated differently** on the basis of the form or origin of their residence status, notwithstanding that both are lawfully resident and lawfully employed in Malta.
 
@@ -75,9 +89,9 @@ In light of the above, I respectfully request that the Board and the Ministry:
 
 1. Reopen and reconsider the two refused applications on their merits;
 
-2. Confirm whether an MPRP holder who is lawfully resident and separately authorised to work under a valid Jobsplus Employment Licence falls within Regulation 3(b) of S.L. 217.17;
+2. Confirm whether an MPRP holder who is lawfully resident and separately authorised to work under a valid Jobsplus Employment Licence falls within Regulation 3(b) of `S.L. 217.17`;
 
-3. If the applications are considered categorically ineligible because of MPRP residence status, **identify the precise statutory provision establishing or authorising that exclusion**; and
+3. If the applications are considered categorically ineligible because of MPRP residence status, **identify the precise statutory provision establishing or authorising that exclusion, including any provision said to extend `Rule` 4.6(e) beyond the MPRP programme itself so as to exclude a separate worker-based route under `S.L. 217.17`**; and
 
 4. Issue a reasoned decision addressing the legal distinction between eligibility to apply and the discretionary decision whether an exemption should ultimately be granted.
 
