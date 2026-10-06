@@ -11,7 +11,7 @@ clientrelations.residencymalta@gov.mt
 
 Dear Exemption Board and Ministry for Education,
 
-I, Dongcheng Wang (ID 482971A, MPRP Holder), hereby submit this formal request for reconsideration and legal review of the decisions refusing the tuition-fee exemption applications submitted on behalf of my wife, Yingchun LIU (ID 482968A), and my daughter, Xi WANG (ID 482972A).
+I, Dongcheng WANG (ID 482971A, MPRP Holder), hereby submit this formal request for reconsideration and legal review of the decisions refusing the tuition-fee exemption applications submitted on behalf of my wife, Yingchun LIU (ID 482968A), and my daughter, Xi WANG (ID 482972A).
 
 For the avoidance of doubt, the argument set out below **does not rely on our MPRP residence status as the source of any entitlement to free education**. It relies solely on **my separate status as a third-country national worker lawfully residing and working in Malta**.
 
@@ -20,7 +20,7 @@ For the avoidance of doubt, the argument set out below **does not rely on our MP
 - Last year, I submitted two applications for tuition-fee exemptions:
 
     - Form EST-036134-OOM6M for my wife, Yingchun LIU, to study at MCAST, was submitted on 26 September and approved on 13 October 2025.
-    
+
     - Form EST-036180-8FYIW for my daughter, Xi WANG, to study at GCHSS, was submitted on 28 September and approved on 10 October 2025.
 
 - This year, I likewise submitted two applications:
