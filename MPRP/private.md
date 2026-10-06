@@ -7,7 +7,7 @@ clientrelations.residencymalta@gov.mt
 
 ![alt text](flow.png)
 
-![alt text](flow1.png)
+# Formal Reconsideration Request – Tuition-Fee Exemption Eligibility and Legal Basis
 
 Dear Exemption Board and Ministry for Education,
 
@@ -79,6 +79,8 @@ Unless such a legal basis can be identified, I can only conclude that **material
 I therefore consider the distinction to be legally questionable and potentially inconsistent with the applicable equal-treatment framework. Unless an objective and lawful justification is identified, it may also amount to discriminatory differential treatment.
 
 This inconsistency is particularly difficult to reconcile with good administration because my two materially comparable applications were **approved in October 2025**, after the relevant policy had already been introduced, whereas the corresponding 2026 applications were refused almost immediately and, more significantly, were **treated as categorically ineligible to apply**.
+
+![alt text](flow1.png)
 
 ## Summary
 
