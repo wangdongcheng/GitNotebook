@@ -18,10 +18,13 @@ For the avoidance of doubt, the argument set out below **does not rely on our MP
 ## Statement of facts:
 
 - Last year, I submitted two applications for tuition-fee exemptions:
+
     - Form EST-036134-OOM6M for my wife, Yingchun LIU, to study at MCAST, was submitted on 26 September and approved on 13 October 2025.
+    
     - Form EST-036180-8FYIW for my daughter, Xi WANG, to study at GCHSS, was submitted on 28 September and approved on 10 October 2025.
 
 - This year, I likewise submitted two applications:
+
     - Form EST-058986-80SLX for Yingchun LIU was submitted on 20 September 2026 and refused on 2 October 2026, with the refusal stating that *as per our Policy, post-secondary and tertiary education under the MRVA/MPRP/MRVP is not eligible for exemption*.
 
     - Form EST-058985-V8OF3 for Xi WANG was submitted on 20 September 2026 and refused on 22 September 2026, with the same reason.
