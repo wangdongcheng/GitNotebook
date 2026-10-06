@@ -44,7 +44,9 @@ The decisive question is whether Maltese national legislation contains any provi
 
 **This submission concerns eligibility to apply and to receive substantive consideration. It does not assert an automatic entitlement to approval.**
 
-If the Board’s position is that an MPRP beneficiary with a valid Employment Licence is only technically permitted to submit an application, but is categorically incapable of receiving a post-secondary or tertiary tuition-fee exemption, then the distinction between “eligible to apply” and “not eligible for exemption” is largely formal rather than substantive.
+If the Board’s position is that MPRP beneficiaries with valid Employment Licences are formally eligible to apply, and that each refusal results from an individual exercise of discretion, then the actual decision-making process becomes highly relevant. Where applications are refused within a matter of minutes, using the same categorical reason, and materially comparable applicants appear to receive the same outcome, it is difficult to reconcile that practice with a genuine case-by-case substantive assessment.
+
+In those circumstances, the distinction between “eligible to apply” and “not eligible for exemption” risks becoming merely formal, while the purported exercise of discretion risks functioning in practice as a categorical exclusion. If the outcome is effectively predetermined by residence category, then describing the process as one of individual discretion does not answer the underlying concern.
 
 In that situation, the material question remains the same: what statutory provision lawfully renders that entire category substantively ineligible, irrespective of the individual merits of the application?
 
@@ -56,7 +58,7 @@ To date, no such statutory provision has been brought to my attention.
 
 Instead, the exclusion appears to arise from the Board’s administrative policy, namely ***the Policy and Rules of Procedure for the Exemption of Fees of State Education Institutions*** (Revised June 2023, hereinafter referred to as the `Policy`).
 
-But, `Rule` 4.6(e) itself requires an important distinction to be made.
+However, `Rule` 4.6(e) itself requires an important distinction to be made.
 
 I fully accept the statement in `Rule` 4.6(e) that tertiary education is not covered under the MPRP programmes. **I do not rely on MPRP as the source of any entitlement to tertiary education.** However, that is not the legal basis on which this request is made. `Rule` 4.6(e) addresses the treatment available under the MPRP residence programmes. It does not expressly address the separate question of whether **an MPRP beneficiary who is independently authorised to work in Malta** may qualify for consideration in his capacity as a third-country worker under `S.L. 217.17`.
 
@@ -72,7 +74,7 @@ Whether `Rule` 4.6(e) is characterised merely as guidance governing the Minister
 
 A policy provision stating that tertiary education is not covered under the MPRP programmes should not, without further statutory authority, be treated as self-sufficient legal authority for the broader proposition that an MPRP beneficiary who separately qualifies as a lawfully resident third-country worker is categorically ineligible even to apply for, or receive substantive consideration for, a tuition-fee exemption.
 
-Unless such a legal basis can be identified, I can only conclude that **materially comparable third-country workers are being treated differently** on the basis of the form or origin of their residence status, notwithstanding that both are lawfully resident and lawfully employed in Malta.
+Unless such a legal basis can be identified, I can only conclude that **materially comparable third-country workers are being treated differently** on the basis of the form or origin of their residence status, notwithstanding that the workers concerned are lawfully resident and lawfully employed in Malta.
 
 I therefore consider the distinction to be legally questionable and potentially inconsistent with the applicable equal-treatment framework. Unless an objective and lawful justification is identified, it may also amount to discriminatory differential treatment.
 
@@ -98,7 +100,14 @@ In light of the above, I respectfully request that the Board and the Ministry:
 
 3. If the applications are considered categorically ineligible because of MPRP residence status, **identify the precise statutory provision establishing or authorising that exclusion, including any provision said to exclude the separate worker-based route under S.L. 217.17**; and
 
-4. Issue a reasoned decision addressing the legal distinction between eligibility to apply and the discretionary decision whether an exemption should ultimately be granted.
+4. Issue a reasoned decision addressing the legal distinction between eligibility to apply and the discretionary decision whether an exemption should ultimately be granted;
+
+5. Provide anonymised statistical data, where held or reasonably derivable from existing administrative records, for the relevant academic year showing separately:
+    - (a) applications concerning Single Permit holders and their dependants; and
+    - (b) applications concerning MPRP/MRVP beneficiaries holding a valid Employment Licence and their dependants;
+    - and, for each category, the number of applications received, approved, refused following substantive assessment, and rejected as categorically ineligible.
+
+If the requested anonymised statistical data is not provided, I respectfully request that the reasons for non-disclosure be stated. I reserve the right to bring both the non-disclosure and the reasons given for it to the attention of the Ombudsman, or to rely upon them in any subsequent administrative or legal review concerning the transparency, consistency and fairness of the decision-making process.
 
 ---
 
