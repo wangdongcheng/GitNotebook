@@ -5,7 +5,7 @@ Borg Vincent at MES <vincent.e.borg@gov.mt>
 
 clientrelations.residencymalta@gov.mt
 
-![alt text](flow.png)
+![alt text](./img/flow.png)
 
 # Formal Reconsideration Request – Tuition-Fee Exemption Eligibility and Legal Basis
 
@@ -83,7 +83,7 @@ I therefore consider the distinction to be legally questionable and potentially 
 
 This inconsistency is particularly difficult to reconcile with good administration because my two materially comparable applications were **approved in October 2025**, after the relevant policy had already been introduced, whereas the corresponding 2026 applications were refused almost immediately and, more significantly, were **treated as categorically ineligible to apply**.
 
-![alt text](flow1.png)
+![alt text](./img/flow1.png)
 
 ## Summary
 
@@ -158,4 +158,6 @@ Yours faithfully,
 
 Dongcheng (Paul) Wang
 
-![alt text](image.png)
+![alt text](./img/08b17f4578427e9767674c786210ecbe.jpg)
+
+![alt text](./img/image.png)
