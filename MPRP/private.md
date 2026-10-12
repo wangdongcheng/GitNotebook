@@ -126,3 +126,36 @@ Many thanks for your time and consideration.
 
 Yours faithfully,  
 Dongcheng (Paul) WANG
+
+
+# Follow-up on Tuition-Fee Exemption Eligiblity
+
+Dear Exemption Board and Ministry for Education,
+
+I am following up on my formal request for reconsideration and legal review sent on 6/Oct/2026.
+
+I would be grateful if you could confirm receipt and advise when I may expect a substantive response. Given that the matter concerns ongoing tuition-fee liability and educational arrangements, I would appreciate an update on the current status of the review.
+
+At this stage, what I am seeking is ultimately a clear and unambiguous answer to one fundamental question which, in my respectful view, **should have been stated clearly and unequivocally in the original refusal itself**:
+
+> **Does an MPRP residence permit, combined with a valid Maltese Employment Licence / Work Permit, make the holder eligible to apply for and receive substantive consideration for a tuition-fee exemption?**
+
+This is not a secondary or technical point. It is the essential question that determines whether families in our position should continue to apply in future academic years, whether such applications will genuinely be considered on their individual merits, and whether there remains any real possibility of an exemption being granted.
+
+**This is precisely the kind of point that the refusal should have made clear from the outset. Applicants should not be left to infer, after the event, whether “not eligible for exemption” means that they remain genuinely eligible for substantive consideration, or whether the outcome is in fact predetermined by residence category.**
+
+If the Board’s position is merely that an MPRP holder is technically permitted to submit an application, but that post-secondary or tertiary tuition-fee exemption is in practice categorically unavailable to that class of applicant, then I respectfully ask that this be stated plainly and without ambiguity.
+
+In such circumstances, describing the applicant as “eligible to apply” would be misleading in substance. If there is no realistic possibility of exemption because the residence category itself predetermines the outcome, then the position should be stated clearly as **“not eligible for exemption”** or, if that is indeed the legal effect, **“not eligible to apply for exemption”**, rather than leaving applicants with the impression that their cases will be genuinely assessed on their individual merits.
+
+The present ambiguity is not helpful to either side. It creates uncertainty for families making educational and financial decisions, and it risks wasting both the applicants’ time and the administration’s time through repeated applications where the outcome may already have been predetermined by policy.
+
+I therefore respectfully request a direct and definitive answer on this point, together with the legal or policy basis for that answer.
+
+Many thanks for your attention.
+
+Yours faithfully,
+
+Dongcheng (Paul) Wang
+
+![alt text](image.png)
