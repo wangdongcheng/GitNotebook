@@ -194,3 +194,36 @@ Yours faithfully,
 
 Dongcheng (Paul) WANG
 
+# MPRP FAQ Q90 and Conflicting Tuition-Fee Exemption Policy
+
+Dear Residency Malta Agency,
+
+I am writing regarding **Q90 of the MPRP FAQ**.
+
+> Q90: Would a minor dependant of a beneficiary be entitled to free education whilst residing in Malta? If so, does this also apply to secondary and tertiary (i.e. University) education?
+
+> No, under the MPRP a minor is not entitled to free education. However, if the main applicant or spouse acquires a work permit in Malta, his/her children **can apply for an exemption of fees** under the applicable single work permit legislation (SL 217.17) and the Education Act. 
+
+Q90 has remained materially unchanged across multiple versions of Residency Malta’s official MPRP FAQs. It clearly states that, although MPRP itself does not provide an entitlement to free education, where the main applicant or spouse acquires a work permit in Malta, the children may apply for a fee exemption under **S.L. 217.17 and the Education Act**.
+
+We relied on this official published guidance when deciding to relocate to Malta and build our family life here.
+
+The position now taken by the Education Exemption Board, based on attached its reply, is materially inconsistent with Q90. The Board now states that MPRP/MRVP applicants beyond compulsory education are **categorically ineligible** and cannot be granted a tuition-fee exemption, even where the parent holds a valid work permit.
+
+In my view, **Q90 is clear and remains the correct statement of the position applicable to MPRP families with a valid work permit**.
+
+The issue is therefore not whether Q90 should now be reinterpreted to fit the Board’s policy. The issue is whether the Board’s policy and practice are consistent with the worker-based route that Residency Malta has expressly and continuously published under S.L. 217.17 and the Education Act.
+
+As the authority responsible for the MPRP and for the official guidance issued to MPRP beneficiaries, Residency Malta should stand behind and uphold the guidance it has published.
+
+I therefore respectfully ask Residency Malta to confirm that Q90 remains valid and to raise this inconsistency with the competent education authorities, so that MPRP/MRVP families who lawfully work in Malta are treated in accordance with the legal framework expressly referred to in Q90.
+
+MPRP families should not be placed in a position where one public authority has, for years, published a clear worker-based route, while another authority later applies a policy that effectively removes that route.
+
+We came to Malta, worked here, educated our children here and built our lives here in reliance on the official framework presented to us. Residency Malta should not leave its own beneficiary families to bear the consequences of contradictory policies adopted by other public authorities.
+
+I would appreciate a clear response.
+
+Yours faithfully,
+
+Dongcheng (Paul) WANG
