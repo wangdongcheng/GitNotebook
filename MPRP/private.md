@@ -159,6 +159,12 @@ Dongcheng (Paul) WANG
 
 ![alt text](./img/image.png)
 
+# Reply from Exemption Board
+
+![alt text](img/reply_20261012122833_926_47.jpg)
+
+![alt text](./img/reply.png)
+
 # Request for a Clear Answer on MPRP Workers
 
 Dear Exemption Board and Ministry for Education,
@@ -187,3 +193,4 @@ I would appreciate a direct answer to this specific point.
 Yours faithfully,
 
 Dongcheng (Paul) WANG
+
