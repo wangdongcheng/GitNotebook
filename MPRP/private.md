@@ -153,7 +153,7 @@ Many thanks for your attention.
 
 Yours faithfully,
 
-Dongcheng (Paul) Wang
+Dongcheng (Paul) WANG
 
 ![alt text](./img/08b17f4578427e9767674c786210ecbe.jpg)
 
@@ -185,4 +185,4 @@ If the answer is **same treatment**, I would strongly appreciate if you can stat
 I would appreciate a direct answer to this specific point.
 
 Yours faithfully,
-Dongcheng (Paul) Wang
+Dongcheng (Paul) WANG
