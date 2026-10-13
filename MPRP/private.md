@@ -158,3 +158,31 @@ Dongcheng (Paul) Wang
 ![alt text](./img/08b17f4578427e9767674c786210ecbe.jpg)
 
 ![alt text](./img/image.png)
+
+# Request for a Clear Answer on MPRP Workers
+
+Dear Exemption Board and Ministry for Education,
+
+Thank you for your reply.
+
+I understand your position regarding **MPRP holders as such**.
+
+My question is simpler:
+
+**What is your policy for an MPRP holder who also has a valid Jobsplus Employment Licence and is lawfully working in Malta?**
+
+Is that person treated:
+
+**the same as an MPRP holder without a work permit, or differently because he is also a lawful TCN worker?**
+
+Please provide a clear answer:
+
+- **Same treatment;** or
+- **Different treatment.**
+
+If the answer is **same treatment**, I would strongly appreciate if you can state clearly that an MPRP holder remains categorically ineligible for post-secondary or tertiary tuition-fee exemption even when holding a valid work permit, and identify the legal basis for that position.
+
+I would appreciate a direct answer to this specific point.
+
+Yours faithfully,
+Dongcheng (Paul) Wang
