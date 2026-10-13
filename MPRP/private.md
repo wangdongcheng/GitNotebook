@@ -143,7 +143,7 @@ I respectfully ask for a clear and unambiguous clarification of what **“not el
 - **not eligible to apply at all;** or
 - **eligible to apply and to receive substantive consideration, but not eligible for exemption after that assessment only for year 2026?**
 
-This distinction should, in my view, have been made clear in the original refusal. We are entitled to understand our actual legal and administrative position, particularly because it directly affects whether we should continue submitting applications next year and in future years, and whether there remains any genuine possibility of receiving a tuition-fee exemption.
+This distinction should, in my view, have been made clear in the original refusal. We are entitled to understand our actual legal and administrative position, particularly because it directly affects whether we should **continue submitting applications next year and in future years**, and whether there remains any genuine possibility of receiving a tuition-fee exemption.
 
 If applicants in our category are technically permitted to submit an application but, in practice, can never be granted an exemption, then I respectfully ask that this be stated plainly rather than leaving the meaning of “eligible to apply” ambiguous.
 
