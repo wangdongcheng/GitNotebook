@@ -1,0 +1,147 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="MPRP 漫画画廊，每 10 秒自动轮播，支持原图下载。">
+  <title>MPRP · 漫画画廊</title>
+  <style>
+    :root { color-scheme: dark; font-family: "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif; background: #111318; color: #f5f2eb; }
+    * { box-sizing: border-box; }
+    body { margin: 0; }
+    main { width: min(1200px, calc(100% - 32px)); margin: 0 auto; padding: 24px 0 40px; }
+    header, .toolbar, .controls { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
+    header { margin-bottom: 20px; }
+    h1 { margin: 4px 0; font-size: clamp(24px, 4vw, 36px); letter-spacing: -.04em; }
+    .eyebrow { color: #efbd66; font-size: 12px; letter-spacing: .16em; }
+    p { margin: 6px 0; color: #b8bbc4; font-size: 14px; }
+    a { color: inherit; }
+    button, .download, .home { border: 1px solid #414550; border-radius: 8px; background: #23262e; color: #f5f2eb; padding: 10px 16px; font: inherit; font-size: 14px; text-decoration: none; cursor: pointer; }
+    button:hover, .home:hover { background: #333742; }
+    :focus-visible { outline: 3px solid #efbd66; outline-offset: 4px; }
+    figure { margin: 0; }
+    .stage { background: #080a0e; border: 1px solid #333640; border-radius: 12px; overflow: hidden; }
+    .stage img { display: block; width: 100%; height: min(70vh, 820px); object-fit: contain; }
+    figcaption { padding: 16px 0; }
+    h2 { margin: 0; font-size: clamp(17px, 3vw, 22px); }
+    .download { background: #efbd66; border-color: #efbd66; color: #17130d; font-weight: 600; }
+    .download:hover { background: #ffd58e; }
+    .controls { justify-content: flex-start; }
+    #counter { color: #b8bbc4; font-variant-numeric: tabular-nums; min-width: 48px; text-align: center; }
+    .strip { display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: 12px; margin-top: 24px; }
+    .card { min-width: 0; border: 1px solid #333640; border-radius: 10px; padding: 6px; background: #1a1d24; }
+    .thumbnail { display: block; width: 100%; padding: 0; border: 2px solid transparent; overflow: hidden; border-radius: 6px; }
+    .thumbnail[aria-current="true"] { border-color: #efbd66; }
+    .thumbnail img { display: block; width: 100%; aspect-ratio: 4 / 3; object-fit: contain; background: #080a0e; }
+    .card a { display: block; padding: 10px 4px 4px; font-size: 12px; text-align: center; color: #efbd66; }
+    #error { color: #ffbdad; }
+    [hidden] { display: none !important; }
+    @media (max-width: 700px) { .strip { grid-template-columns: repeat(3, minmax(0, 1fr)); } .stage img { height: auto; aspect-ratio: 4 / 3; } .toolbar { align-items: flex-start; } }
+  </style>
+</head>
+<body>
+  <main aria-label="漫画画廊">
+    <header>
+      <div><span class="eyebrow">MPRP / COMICS</span><h1>漫画画廊</h1><p>每 10 秒自动切换 · 可暂停细看 · 下载原图</p></div>
+      <a class="home" href="index.html">返回资料库</a>
+    </header>
+    <figure aria-roledescription="轮播" aria-label="MPRP 漫画">
+      <div class="stage"><img id="comic" src="img/Two%20Paths%20Through%20School.png" alt="Two Paths Through School：两组父子在学校入口面临不同的收费待遇。"></div>
+      <figcaption class="toolbar">
+        <div><h2 id="title">Two Paths Through School</h2><p id="status">正在自动轮播，每 10 秒切换</p><p id="error" role="alert" hidden>图片未能加载，请尝试打开或下载原图。</p></div>
+        <a id="download" class="download" href="img/Two%20Paths%20Through%20School.png" download="Two Paths Through School.png">下载当前原图 ↓</a>
+      </figcaption>
+    </figure>
+    <div class="controls" aria-label="轮播控制">
+      <button id="previous" type="button" aria-label="上一张漫画">← 上一张</button>
+      <span id="counter">1 / 6</span>
+      <button id="next" type="button" aria-label="下一张漫画">下一张 →</button>
+      <button id="pause" type="button" aria-pressed="false">暂停轮播</button>
+    </div>
+    <div id="strip" class="strip" aria-label="所有漫画与下载"></div>
+    <noscript><p>请启用 JavaScript 使用自动轮播；可通过上方按钮下载当前原图。</p></noscript>
+  </main>
+  <script>
+    const comics = [
+      { file: 'Two Paths Through School.png', title: 'Two Paths Through School', alt: '两组父子在学校入口面临不同的收费待遇。' },
+      { file: 'Pay, Work, Yet Treated Differently.png', title: 'Pay, Work, Yet Treated Differently', alt: '缴费并努力工作的家庭，在学校门口面对高额学费。' },
+      { file: 'Exemption Board_ Same Facts, Different Outcomes.png', title: 'Exemption Board: Same Facts, Different Outcomes', alt: '同样的家庭情况，去年获批、今年被拒，豁免委员会给出不同结果。' },
+      { file: 'image.png', title: 'Tuition-fee Exemption: Two Questions', alt: '申请人思考是否有资格申请学费豁免，以及能否实际获批。' },
+      { file: 'f334a501-756b-4c63-b6fe-efcff1877e3b.png', title: 'Discrimination Against TCN Workers', alt: '持工作许可、纳税证明和 MPRP 居留证的家庭在教育申请中被拒。' },
+      { file: '883be084-d102-445b-aeb2-f25c2bee9c02.png', title: 'Work, Tax, Residence & Education', alt: '漫画对比两个工作和纳税家庭面临的不同教育收费待遇。' }
+    ];
+    const comic = document.getElementById('comic');
+    const title = document.getElementById('title');
+    const download = document.getElementById('download');
+    const counter = document.getElementById('counter');
+    const pause = document.getElementById('pause');
+    const status = document.getElementById('status');
+    const error = document.getElementById('error');
+    const strip = document.getElementById('strip');
+    const interval = 10000;
+    let current = 0;
+    let paused = false;
+    let timer;
+    const url = (item) => 'img/' + encodeURIComponent(item.file);
+    const thumbnails = comics.map((item, index) => {
+      const card = document.createElement('div');
+      card.className = 'card';
+      const button = document.createElement('button');
+      button.type = 'button';
+      button.className = 'thumbnail';
+      button.setAttribute('aria-label', '查看 ' + item.title);
+      const image = document.createElement('img');
+      image.src = url(item);
+      image.alt = item.title;
+      image.loading = 'lazy';
+      button.append(image);
+      button.addEventListener('click', () => show(index));
+      const link = document.createElement('a');
+      link.href = url(item);
+      link.download = item.file;
+      link.textContent = '下载原图 ↓';
+      link.setAttribute('aria-label', '下载 ' + item.title);
+      card.append(button, link);
+      strip.append(card);
+      return button;
+    });
+    function schedule() {
+      clearTimeout(timer);
+      if (!paused && !document.hidden) timer = setTimeout(() => show(current + 1), interval);
+    }
+    function show(index) {
+      current = (index + comics.length) % comics.length;
+      const item = comics[current];
+      error.hidden = true;
+      comic.src = url(item);
+      comic.alt = item.title + '：' + item.alt;
+      title.textContent = item.title;
+      download.href = url(item);
+      download.download = item.file;
+      counter.textContent = (current + 1) + ' / ' + comics.length;
+      thumbnails.forEach((button, i) => button.setAttribute('aria-current', String(i === current)));
+      schedule();
+    }
+    comic.addEventListener('error', () => { error.hidden = false; });
+    comic.addEventListener('load', () => { error.hidden = true; });
+    document.getElementById('previous').addEventListener('click', () => show(current - 1));
+    document.getElementById('next').addEventListener('click', () => show(current + 1));
+    pause.addEventListener('click', () => {
+      paused = !paused;
+      pause.textContent = paused ? '继续轮播' : '暂停轮播';
+      pause.setAttribute('aria-pressed', String(paused));
+      status.textContent = paused ? '已暂停，可手动切换漫画' : '正在自动轮播，每 10 秒切换';
+      schedule();
+    });
+    document.addEventListener('keydown', (event) => {
+      if (event.altKey || event.ctrlKey || event.metaKey || /INPUT|TEXTAREA|SELECT/.test(event.target.tagName)) return;
+      if (event.key === 'ArrowLeft' || event.key === 'ArrowRight') {
+        event.preventDefault();
+        show(current + (event.key === 'ArrowLeft' ? -1 : 1));
+      }
+    });
+    document.addEventListener('visibilitychange', schedule);
+    show(0);
+  </script>
+</body>
+</html>
