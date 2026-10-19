@@ -250,6 +250,10 @@ Your responses repeatedly refer to **“MPRP holders”**, while consistently av
 
 Your 2023 Policy expressly relies on **S.L.217.17 Regulation 23(c)** when addressing Single Permit holders. Yet Regulation 23 expressly refers to third-country workers falling under Regulation 3(b) **and** 3(c), not exclusively to Single Permit holders.
 
+![alt text](./img/image_20261019_085352.png)
+
+![alt text](./img/image_20261019_085530.png)
+
 An MPRP beneficiary who separately holds a valid Jobsplus Employment Licence and works lawfully in Malta may also fall within that statutory framework. His residence status does not, by itself, erase his separate status as a lawful worker.
 
 **If S.L.217.17 forms the basis for considering tuition-fee exemptions for Single Permit workers and their dependants, why is the same worker-based framework not applied to MPRP workers and their dependants?**
