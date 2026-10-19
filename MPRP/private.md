@@ -33,7 +33,7 @@ Between the 2025 and 2026 applications, the material residence, employment and f
 
 ## Position
 
-An MPRP beneficiary who is lawfully resident in Malta and separately authorised to work appears to fall within the category contemplated by **Regulation 3(b) of `S.L. 217.17`**, subject to the statutory conditions set out therein.
+An MPRP beneficiary who is lawfully resident in Malta and separately authorised to work appears to fall within the category contemplated by **Regulation 3(b) of `S.L.217.17`**, subject to the statutory conditions set out therein.
 
 If the Board considers that an MPRP residence permit combined with a valid Jobsplus Employment Licence does not satisfy the conditions of Regulation 3(b), I respectfully request that the precise legal basis for that conclusion be identified.
 
@@ -63,17 +63,17 @@ Instead, the exclusion appears to arise from the Board’s administrative policy
 
 However, `Rule` 4.6(e) itself requires an important distinction to be made.
 
-I fully accept the statement in `Rule` 4.6(e) that tertiary education is not covered under the MPRP programmes. **I do not rely on MPRP as the source of any entitlement to tertiary education.** However, that is not the legal basis on which this request is made. `Rule` 4.6(e) addresses the treatment available under the MPRP residence programmes. It does not expressly address the separate question of whether **an MPRP beneficiary who is independently authorised to work in Malta** may qualify for consideration in his capacity as a third-country worker under `S.L. 217.17`.
+I fully accept the statement in `Rule` 4.6(e) that tertiary education is not covered under the MPRP programmes. **I do not rely on MPRP as the source of any entitlement to tertiary education.** However, that is not the legal basis on which this request is made. `Rule` 4.6(e) addresses the treatment available under the MPRP residence programmes. It does not expressly address the separate question of whether **an MPRP beneficiary who is independently authorised to work in Malta** may qualify for consideration in his capacity as a third-country worker under `S.L.217.17`.
 
-In other words, the proposition that *tertiary education is not covered under MPRP* does not, by itself, establish the separate proposition that **an MPRP beneficiary who also qualifies as a third-country worker is categorically ineligible to apply for, or to receive substantive consideration for, a tuition-fee exemption under the separate worker-based framework established by `S.L. 217.17`.**
+In other words, the proposition that *tertiary education is not covered under MPRP* does not, by itself, establish the separate proposition that **an MPRP beneficiary who also qualifies as a third-country worker is categorically ineligible to apply for, or to receive substantive consideration for, a tuition-fee exemption under the separate worker-based framework established by `S.L.217.17`.**
 
-That additional conclusion requires its own legal basis. Accordingly, even if `Rule` 4.6(e) is applied fully according to its wording, it does not by itself resolve the issue raised in this submission: whether my separate legal status as a lawfully resident and lawfully employed third-country worker brings me within the framework contemplated by Regulation 3(b) and Regulation 23 of `S.L. 217.17`.
+That additional conclusion requires its own legal basis. Accordingly, even if `Rule` 4.6(e) is applied fully according to its wording, it does not by itself resolve the issue raised in this submission: whether my separate legal status as a lawfully resident and lawfully employed third-country worker brings me within the framework contemplated by Regulation 3(b) and Regulation 23 of `S.L.217.17`.
 
 If the Board considers that `Rule` 4.6(e) also operates to exclude that separate worker-based route, I respectfully request that the statutory provision establishing or authorising such an exclusion be identified.
 
 This distinction is fundamental. **I am not seeking tertiary education benefits by virtue of MPRP**. I am asking to be considered on the basis of my separate status as a third-country worker.
 
-Whether `Rule` 4.6(e) is characterised merely as guidance governing the Minister’s exercise of discretion, or whether it is relied upon as constituting, reflecting or implementing the “specific prerequisites in national legislation” permitted by Regulation 23(c) of `S.L. 217.17`, **the statutory basis for excluding that separate worker-based route should in either case be identified**.
+Whether `Rule` 4.6(e) is characterised merely as guidance governing the Minister’s exercise of discretion, or whether it is relied upon as constituting, reflecting or implementing the “specific prerequisites in national legislation” permitted by Regulation 23(c) of `S.L.217.17`, **the statutory basis for excluding that separate worker-based route should in either case be identified**.
 
 A policy provision stating that tertiary education is not covered under the MPRP programmes should not, without further statutory authority, be treated as self-sufficient legal authority for the broader proposition that an MPRP beneficiary who separately qualifies as a lawfully resident third-country worker is categorically ineligible even to apply for, or receive substantive consideration for, a tuition-fee exemption.
 
@@ -101,9 +101,9 @@ In light of the above, I respectfully request that the Board and the Ministry:
 
 1. Reopen and reconsider the two refused applications on their merits;
 
-2. Confirm whether an MPRP holder who is lawfully resident and separately authorised to work under a valid Jobsplus Employment Licence falls within Regulation 3(b) of `S.L. 217.17`;
+2. Confirm whether an MPRP holder who is lawfully resident and separately authorised to work under a valid Jobsplus Employment Licence falls within Regulation 3(b) of `S.L.217.17`;
 
-3. If the applications are considered categorically ineligible because of MPRP residence status, **identify the precise statutory provision establishing or authorising that exclusion, including any provision said to exclude the separate worker-based route under S.L. 217.17**; and
+3. If the applications are considered categorically ineligible because of MPRP residence status, **identify the precise statutory provision establishing or authorising that exclusion, including any provision said to exclude the separate worker-based route under S.L.217.17**; and
 
 4. Issue a reasoned decision addressing the legal distinction between eligibility to apply and the discretionary decision whether an exemption should ultimately be granted;
 
@@ -204,7 +204,7 @@ I am writing regarding **Q90 of the MPRP FAQ**.
 
 > No, under the MPRP a minor is not entitled to free education. However, if the main applicant or spouse acquires a work permit in Malta, his/her children **can apply for an exemption of fees** under the applicable single work permit legislation (SL 217.17) and the Education Act. 
 
-Q90 has remained materially unchanged across multiple versions of Residency Malta’s official MPRP FAQs. It clearly states that, although MPRP itself does not provide an entitlement to free education, where the main applicant or spouse acquires a work permit in Malta, the children may apply for a fee exemption under **S.L. 217.17 and the Education Act**.
+Q90 has remained materially unchanged across multiple versions of Residency Malta’s official MPRP FAQs. It clearly states that, although MPRP itself does not provide an entitlement to free education, where the main applicant or spouse acquires a work permit in Malta, the children may apply for a fee exemption under **S.L.217.17 and the Education Act**.
 
 We relied on this official published guidance when deciding to relocate to Malta and build our family life here.
 
@@ -212,7 +212,7 @@ The position now taken by the Education Exemption Board, based on attached its r
 
 In my view, **Q90 is clear and remains the correct statement of the position applicable to MPRP families with a valid work permit**.
 
-The issue is therefore not whether Q90 should now be reinterpreted to fit the Board’s policy. The issue is whether the Board’s policy and practice are consistent with the worker-based route that Residency Malta has expressly and continuously published under S.L. 217.17 and the Education Act.
+The issue is therefore not whether Q90 should now be reinterpreted to fit the Board’s policy. The issue is whether the Board’s policy and practice are consistent with the worker-based route that Residency Malta has expressly and continuously published under S.L.217.17 and the Education Act.
 
 As the authority responsible for the MPRP and for the official guidance issued to MPRP beneficiaries, Residency Malta should stand behind and uphold the guidance it has published.
 
@@ -232,47 +232,45 @@ Dongcheng (Paul) WANG
 
 Dear Exemption Board and Ministry for Education,
 
-Last week, I asked a very simple question:
+Last week, I asked a straightforward question:
 
 **Is an MPRP holder who also holds a valid Jobsplus Employment Licence and is lawfully employed in Malta treated the same as an MPRP holder without a work permit for post-secondary and tertiary tuition-fee exemptions, or differently?**
 
-**Same treatment or different treatment?**
-
-A week has passed, and I have still received no answer to this straightforward question.
+A week has passed, and I have still received no answer to this question.
 
 I am beginning to understand why this question remains unanswered.
 
-**The very distinction I am asking you to explain appears to expose unequal treatment of lawfully employed third-country workers under your policy.**
+**The distinction I am asking you to explain appears to expose unequal treatment of lawfully employed third-country workers under your own policy.**
 
 Your responses repeatedly refer to **“MPRP holders”**, while consistently avoiding the legally significant fact that some MPRP holders are also **lawfully employed TCN workers**.
 
 **This distinction cannot simply be ignored.**
 
-Your 2023 Policy expressly relies on **`S.L.217.17` Regulation 23(c)** when addressing Single Permit holders. Yet Regulation 23 expressly refers to third-country workers falling under Regulation 3(b) **and** 3(c), not exclusively to Single Permit holders.
+Your 2023 Policy expressly cites **`S.L.217.17` Regulation 23(c)** under Rule 4.6(c), concerning Single Work Permit holders. Yet Regulation 23 expressly applies to third-country workers falling under Regulation 3(b) **and** 3(c), not exclusively to Single Permit holders.
 
-![alt text](./img/image_20261019_085352.png)
+![alt text](img/image_20261019_085352.png)
 
-![alt text](./img/image_20261019_085530.png)
+![alt text](img/image_20261019_085530.png)
 
-An MPRP beneficiary who separately holds a valid Jobsplus Employment Licence and works lawfully in Malta may also fall within that statutory framework. His residence status does not, by itself, erase his separate status as a lawful worker.
+An MPRP beneficiary who separately holds a valid Jobsplus Employment Licence and works lawfully in Malta may also fall within that statutory framework. MPRP residence status does not, by itself, negate a person's separate status as a lawful worker.
 
-**If `S.L.217.17` forms the basis for considering tuition-fee exemptions for Single Permit workers and their dependants, why is the same worker-based framework not applied to MPRP workers and their dependants?**
+**If `S.L.217.17` forms the legal basis for considering tuition-fee exemptions for Single Permit workers and their dependants, why is the same worker-based framework not applied to MPRP workers and their dependants?**
 
-The Board's continued reliance on the label “MPRP holder”, without addressing this question, gives the impression that the policy distinguishes between two categories of lawful TCN workers solely on the basis of their residence-permit type.
+Your continued reliance solely on the label “MPRP holder” gives the impression that your policy distinguishes between two categories of lawful TCN workers on the basis of their residence-permit type, without addressing whether they fall within the same statutory framework.
 
-**I am not asking for preferential treatment. I am asking why workers who may fall under the same statutory framework are treated differently, particularly in relation to their children's post-secondary education.**
+**I am not asking for preferential treatment. I am challenging an apparent inconsistency in your policy, which treats comparable lawfully employed TCN workers differently without any statutory justification having been identified.**
 
-What makes this distinction even more difficult to justify is that your own policy (Revised 2023) already recognises the relevance of a valid work permit for MPRP families at compulsory education level. An MPRP holder without a work permit is treated differently from an MPRP holder with a work permit for primary and secondary school fee exemptions. Residency Malta's official FAQ Q90 expressly links this worker-based route for children to S.L. 217.17 and the Education Act. How, then, **can the same worker status be recognised for children's fee exemptions during compulsory education, but completely disregarded when those children progress to post-secondary education?**
+Furthermore, your own 2023 Policy already recognises the relevance of a valid work permit for MPRP families at primary and secondary education levels. Residency Malta's official FAQ Q90 expressly links this worker-based route for children to **`S.L.217.17` and the Education Act**.
 
-Please now provide a direct answer:
+**How can the same worker status be recognised for children's fee exemptions during compulsory education, yet disregarded entirely when those children progress to post-secondary education?**
 
-**1. Same treatment or different treatment for MPRP holders with valid Jobsplus Employment Licences, compared with MPRP holders without work permits, for post-secondary and tertiary tuition-fee exemptions?**
+I therefore repeat my request for a direct answer:
 
-**2. If the Board excludes MPRP workers and their dependants from the worker-based exemption route available to Single Permit workers and their dependants, what precise statutory provision authorises that distinction?**
+**What is the statutory basis for the differential treatment under your Policy Rules 4.6(c) and 4.6(e) of TCN workers who may fall within the same scope of `S.L.217.17`, particularly regarding tuition-fee exemptions for their children's post-secondary and tertiary education?**
 
-I respectfully ask that you stop responding solely on the basis of MPRP residence status and address the actual legal question that has repeatedly been put before you.
+Please address this specific legal question rather than repeating the general position applicable to MPRP residence status alone.
 
-After repeated correspondence, a clear and reasoned answer is long overdue.
+After repeated correspondence, a clear and legally reasoned answer is long overdue.
 
 Yours faithfully,
 
