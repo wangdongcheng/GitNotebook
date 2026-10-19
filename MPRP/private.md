@@ -270,7 +270,7 @@ Please now provide a direct answer:
 
 **2. If the Board excludes MPRP workers and their dependants from the worker-based exemption route available to Single Permit workers and their dependants, what precise statutory provision authorises that distinction?**
 
-I ask that you stop responding solely on the basis of MPRP residence status and address the actual legal question that has repeatedly been put before you.
+I respectfully ask that you stop responding solely on the basis of MPRP residence status and address the actual legal question that has repeatedly been put before you.
 
 After repeated correspondence, a clear and reasoned answer is long overdue.
 
