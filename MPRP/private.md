@@ -227,3 +227,47 @@ I would appreciate a clear response.
 Yours faithfully,
 
 Dongcheng (Paul) WANG
+
+# Second Follow-Up – Unanswered Question on Equal Treatment of MPRP Workers
+
+Dear Exemption Board and Ministry for Education,
+
+Last week, I asked a very simple question:
+
+**Is an MPRP holder who also holds a valid Jobsplus Employment Licence and is lawfully working in Malta treated the same as an MPRP holder without a work permit, or differently?**
+
+**Same treatment or different treatment?**
+
+A week has passed, and I have still received no answer to this straightforward question.
+
+I am beginning to understand why this question remains unanswered.
+
+**The very distinction I am asking you to explain appears to expose unequal treatment of lawfully employed third-country workers under your policy.**
+
+Your responses repeatedly refer to **“MPRP holders”**, while consistently avoiding the legally significant fact that some MPRP holders are also **lawfully employed TCN workers**.
+
+**This distinction cannot simply be ignored.**
+
+Your 2023 Policy expressly relies on **S.L.217.17 Regulation 23(c)** when addressing Single Permit holders. Yet Regulation 23 expressly refers to third-country workers falling under Regulation 3(b) **and** 3(c), not exclusively to Single Permit holders.
+
+An MPRP beneficiary who separately holds a valid Jobsplus Employment Licence and works lawfully in Malta may also fall within that statutory framework. His residence status does not, by itself, erase his separate status as a lawful worker.
+
+**If S.L.217.17 forms the basis for considering tuition-fee exemptions for Single Permit workers and their dependants, why is the same worker-based framework not applied to MPRP workers and their dependants?**
+
+The Board's continued reliance on the label “MPRP holder”, without addressing this question, gives the impression that the policy distinguishes between two categories of lawful TCN workers solely on the basis of their residence-permit type.
+
+**I am not asking for preferential treatment. I am asking why workers who may fall under the same statutory framework are treated differently, particularly in relation to their children's post-secondary education.**
+
+Please now provide a direct answer:
+
+**1. Same treatment or different treatment for MPRP holders with valid Jobsplus Employment Licences, compared with MPRP holders without work permits?**
+
+**2. If the Board excludes MPRP workers and their dependants from the worker-based exemption route available to Single Permit workers and their dependants, what precise statutory provision authorises that distinction?**
+
+I ask that you stop responding solely on the basis of MPRP residence status and address the actual legal question that has repeatedly been put before you.
+
+After repeated correspondence, a clear and reasoned answer is long overdue.
+
+Yours faithfully,
+
+Dongcheng (Paul) WANG
