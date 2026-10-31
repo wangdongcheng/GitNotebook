@@ -275,3 +275,189 @@ After repeated correspondence, a clear and legally reasoned answer is long overd
 Yours faithfully,
 
 Dongcheng (Paul) WANG
+
+# Formal Complaint – Legality and Differential Treatment under Rule 4.6(e) of the 2023 Tuition Fee Exemption Policy
+
+Dear Parliamentary Ombudsman,
+
+Before presenting my legal arguments, I wish to make two fundamental points absolutely clear.
+
+**1. This complaint concerns ONLY lawfully employed MPRP holders, NOT MPRP holders in general.**
+
+Throughout this complaint, the term “MPRP worker” refers specifically to a third-country national who:
+
+Holds a valid residence permit under the Malta Permanent Residence Programme (MPRP);
+
+Holds a valid Jobsplus Employment Licence; and
+
+Is lawfully employed in Malta.
+
+My argument is based on the proposition that such a person may qualify as a third-country worker under S.L.217.17 Regulation 3(b).
+
+MPRP holders who do not possess employment authorisation or are not lawfully employed are expressly outside the scope of this complaint.
+
+I fully acknowledge that MPRP residence status alone does not confer an entitlement to free education. I neither dispute this principle nor seek to challenge it.
+
+**2. This complaint is NOT a demand for automatic tuition-fee exemptions. It concerns potentially unjustified and improperly discriminatory differential treatment.**
+
+I am not claiming that MPRP workers, or their family members, must automatically receive post-secondary or tertiary tuition-fee exemptions.
+
+I fully recognise that exemption decisions may be subject to lawful eligibility criteria, national legislative prerequisites and the Minister's statutory discretion.
+
+My contention is that MPRP workers should not be categorically excluded from eligibility to apply and receive substantive consideration, where comparable Single Permit workers are recognised under the same S.L.217.17 framework, unless a specific legal provision or objectively justified distinction supports such exclusion.
+
+The distinction I challenge is therefore not between MPRP holders and Maltese nationals, nor between working and non-working MPRP holders.
+
+It is the differential treatment between two categories of lawfully employed third-country workers who may both fall within S.L.217.17 Regulation 23:
+
+Workers admitted for employment under Regulation 3(c), generally holding a Single Permit; and
+
+Workers admitted for other purposes but subsequently authorised to work under Regulation 3(b), including qualifying MPRP workers.
+
+I am asking the Ombudsman to investigate whether the categorical exclusion applied under Rule 4.6(e) has a sufficient legal basis and objective justification, or whether it constitutes improperly discriminatory administrative treatment within the meaning of Article 22(1)(b) of the Ombudsman Act (Cap. 385).
+
+**The issue is equal eligibility for consideration under the applicable legal framework, not a guaranteed favourable outcome.**
+
+With these two points established, my complaint rests on the following two connected lines of legal reasoning.
+
+I am writing to lodge a formal complaint concerning **Rule 4.6(e) of the Ministry for Education's 2023 Tuition Fee Exemption Policy**, specifically its legality and potentially unjustified differential treatment of lawfully employed third-country nationals residing under the Malta Permanent Residence Programme (MPRP).
+
+> Beneficiaries of MRVA and MPRP can only be exempted from primary and secondary school fees if one of the parents is in possession of a Maltese work permit. Tertiary education is not covered under such programmes. 
+
+I respectfully request that your Office examine the legal basis and justification for this rule, rather than merely whether the Exemptions Board has followed it.
+
+**My argument rests on two connected lines of legal reasoning.**
+
+## 1. First: The recognised application of S.L.217.17 to employed MPRP holders
+
+The MPRP is governed by S.L.217.26, which does not itself confer any entitlement to free education.
+
+The Ministry's own Policy acknowledges this principle in Rule 4.6(e), recognising that MPRP beneficiaries may receive exemptions from primary and secondary school fees where one of the parents holds a valid Maltese work permit.
+
+This is further confirmed by Residency Malta Agency in its MPRP Frequently Asked Questions, Question 90, which explicitly states that while MPRP itself does not confer an entitlement to free education, where the main applicant or spouse obtains a Maltese work permit, their children **can apply for tuition-fee exemptions under S.L.217.17 and the Education Act**.
+
+**This distinction is fundamental.**
+
+**If MPRP itself provides no education entitlement, yet obtaining an Employment Licence enables an MPRP holder's children to qualify for consideration for school-fee exemptions, the relevant eligibility must arise from a legal basis independent of MPRP.**
+
+Residency Malta Agency expressly identifies that legal basis as S.L.217.17, together with the Education Act.
+
+In other words, the authorities already recognise that holding MPRP residence does not prevent a person who subsequently obtains employment authorisation from relying on the legal framework applicable to third-country workers.
+
+This is consistent with S.L.217.17:
+
+- Regulation 3(b) covers third-country nationals admitted for purposes other than employment who are subsequently permitted to work, subject to the prescribed residence-permit requirements.
+- Regulation 3(c) covers third-country nationals admitted for employment.
+- Regulation 23 expressly extends its equal-treatment provisions to third-country workers falling under **both Regulation 3(b) and Regulation 3(c)**.
+
+I hold a valid MPRP residence permit and Jobsplus Employment Licence, and have been lawfully employed in Malta since June 2025.
+
+I therefore submit that my status should be examined under Regulation 3(b), independently of the fact that my underlying residence permission was obtained through MPRP.
+
+## 2. Second: The application of the same S.L.217.17 to Single Permit holders
+
+Rule 4.6(c) of the Ministry's 2023 Policy identifies Single Work Permit holders and expressly invokes **S.L.217.17 Regulation 23(c)** in relation to education and vocational training, including access to university and post-secondary education, subject to applicable national legislative prerequisites.
+
+Thus, the Ministry itself recognises S.L.217.17 as the relevant legislative framework when considering the tuition-fee exemption position of Single Permit holders.
+
+However, Regulation 23 does not exclusively cover Single Permit holders.
+
+It expressly covers third-country workers under **both Regulation 3(b) and Regulation 3(c)**.
+
+Therefore, the legal basis cited in Rule 4.6(c) is not, by its own terms, restricted to third-country nationals whose residence permits were originally issued for employment purposes.
+
+## 3. The contradiction arising from these two established principles
+
+The two preceding points lead to a straightforward question.
+
+**If an MPRP holder who obtains an Employment Licence is already recognised as capable of relying on S.L.217.17 for school-fee exemption applications, and the Ministry relies on that same S.L.217.17 when addressing post-secondary tuition-fee exemptions for Single Permit holders, why should the employed MPRP holder be categorically excluded from the corresponding application and assessment process?**
+
+I am not suggesting that MPRP and Single Permit are identical immigration programmes.
+
+I am saying that **their holders may independently fall within the same statutory category of third-country workers protected by Regulation 23**.
+
+The purpose for which a person was initially admitted to Malta should not, without an identifiable legal justification, negate a worker status subsequently acquired under the same legislation.
+
+Consequently, where the Ministry recognises an application route under Regulation 23 for one category of workers, there is a legitimate question as to why another category expressly covered by the same regulation is excluded.
+
+**I am not claiming an automatic right to free tertiary education.**
+
+Nor am I asserting that Regulation 23 directly grants an unconditional tuition-fee exemption to the spouses or children of third-country workers.
+
+**My complaint concerns eligibility to apply and receive substantive consideration, not entitlement to approval.**
+
+If additional national legislative conditions apply to the family members of different categories of third-country workers, I request that those conditions be identified and their legal basis explained.
+
+I acknowledge that Regulation 23(c) permits specific prerequisites in national legislation concerning university and post-secondary tuition fees.
+
+**But which specific provision of national legislation authorises the Ministry to distinguish between workers falling under Regulation 3(b) and those falling under Regulation 3(c) for the purpose of tuition-fee exemption eligibility?**
+
+If such a provision exists, I respectfully request that it be identified and examined.
+
+If no such provision exists, I request an investigation into whether Rule 4.6(e), as interpreted and applied, introduces an unjustified distinction that is inconsistent with the scope of S.L.217.17.
+
+## 4. Rule 4.6(e) cannot resolve this question merely by referring to MPRP
+
+Rule 4.6(e) states that tertiary education is not covered under the MPRP.
+
+I do not dispute that **MPRP itself** does not confer this benefit.
+
+However, that statement leaves two possibilities:
+
+**First:** If Rule 4.6(e) merely means that MPRP residence status alone provides no tertiary education entitlement, it should not prevent a beneficiary from seeking consideration under a separate legal status acquired through lawful employment.
+
+**Second:** If Rule 4.6(e) is intended to exclude even those MPRP holders who independently satisfy Regulation 3(b), the legal basis and objective justification for that exclusion must be examined.
+
+Simply repeating that tertiary education is not covered under MPRP does not answer either question.
+
+## 5. My actual experience demonstrates the consequences of this interpretation
+
+In 2025, the Ministry approved tuition-fee exemptions for both my wife, attending MCAST, and my daughter, attending Giovanni Curmi Higher Secondary School.
+
+Those approvals expressly relied upon my valid Employment Licence.
+
+In September 2026, we applied for renewal under materially unchanged residence and employment circumstances.
+
+Both applications were rejected, with the Ministry citing the MPRP exclusion under its Policy.
+
+Despite repeated correspondence, the Ministry has not adequately explained why my Employment Licence was recognised as relevant in 2025 but apparently disregarded in 2026.
+
+I do not argue that a previous approval guarantees future approval.
+
+However, this reversal under an unchanged Policy reinforces the need for an examination of the Ministry's legal interpretation, consistency and exercise of administrative discretion.
+
+## 6. The scope of my complaint under the Ombudsman Act
+
+I respectfully emphasise that my complaint concerns **the legality and reasonableness of an administrative policy and its application**, not a request that the Ombudsman exercise the Minister's discretion to grant a fee exemption.
+
+Article 22(1)(b) of the Ombudsman Act (Cap. 385) expressly encompasses administrative decisions made in accordance with a law or practice that may itself be unreasonable, unjust or improperly discriminatory.
+
+Article 22(3)(d) further provides for recommendations to alter an administrative practice on which a decision was based.
+
+Accordingly, the fact that the Exemptions Board acted in accordance with its established Policy does not, by itself, resolve whether that Policy or its interpretation gives rise to maladministration.
+
+I therefore respectfully request that your Office investigate:
+
+1. Whether my lawful employment under a valid Jobsplus Employment Licence, together with my MPRP residence permit, places me within S.L.217.17 Regulation 3(b).
+
+2. Why Rule 4.6(c) relies upon Regulation 23(c) for Single Permit holders, while Rule 4.6(e) is applied to exclude employed MPRP holders from post-secondary tuition-fee exemption consideration, despite Regulation 23 expressly encompassing both Regulation 3(b) and 3(c).
+
+3. Whether any specific provision of national legislation authorises this distinction and, if not, whether it is objectively justified and consistent with the governing legal framework.
+
+4. Whether Rule 4.6(e) has been incorrectly applied to disregard a legal status independently acquired through employment.
+
+5. Whether the inconsistent treatment of our 2025 and 2026 applications, without an adequate explanation of the change in legal interpretation or relevant circumstances, constitutes maladministration.
+
+**I am not asking your Office to determine that my family must receive a tuition-fee exemption. I am asking it to determine whether we can lawfully be excluded from substantive consideration solely because our residence permits were issued under MPRP, notwithstanding my separate status as an authorised third-country worker.**
+
+This is a question about the lawfulness of administrative eligibility criteria, not the merits of a discretionary exemption decision.
+
+I believe it falls squarely within the principles of good administration and the scope of Article 22 of the Ombudsman Act.
+
+I would be grateful if your Office could examine these specific questions and, where appropriate, recommend clarification or revision of Rule 4.6(e) and reconsideration of the affected applications under the correct legal framework.
+
+Thank you for your attention and consideration.
+
+Yours faithfully,
+
+Dongcheng WANG (Paul)
