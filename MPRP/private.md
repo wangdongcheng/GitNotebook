@@ -318,9 +318,7 @@ I am asking the Ombudsman to investigate whether the categorical exclusion appli
 
 **The issue is equal eligibility for consideration under the applicable legal framework, not a guaranteed favourable outcome.**
 
-With these two points established, my complaint rests on the following two connected lines of legal reasoning.
-
-I am writing to lodge a formal complaint concerning **Rule 4.6(e) of the Ministry for Education's 2023 Tuition Fee Exemption Policy**, specifically its legality and potentially unjustified differential treatment of lawfully employed third-country nationals residing under the Malta Permanent Residence Programme (MPRP).
+With these two points established, I am writing to lodge a formal complaint concerning **Rule 4.6(e) of the Ministry for Education's 2023 Tuition Fee Exemption Policy**, specifically its legality and potentially unjustified differential treatment of lawfully employed third-country nationals residing under the Malta Permanent Residence Programme (MPRP).
 
 > Beneficiaries of MRVA and MPRP can only be exempted from primary and secondary school fees if one of the parents is in possession of a Maltese work permit. Tertiary education is not covered under such programmes. 
 
